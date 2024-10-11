@@ -1,0 +1,2884 @@
+1.00000,0.75000,0.75000
+1.00000,0.75000,0.75000
+durPSP: 0
+durMC: 1
+sample 1:
+	(0, 1) is sampled...rand: 0.023978, prob: 1.000000
+	(0, 2) is sampled...rand: 0.660222, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 2:
+	(0, 1) is sampled...rand: 0.955650, prob: 1.000000
+	(0, 2) is sampled...rand: 0.660379, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 3:
+	(0, 1) is sampled...rand: 0.962390, prob: 1.000000
+	(0, 2) is sampled...rand: 0.282765, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 4:
+	(0, 1) is sampled...rand: 0.313795, prob: 1.000000
+	(0, 2) is sampled...rand: 0.806202, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 5:
+	(0, 1) is sampled...rand: 0.670487, prob: 1.000000
+	(0, 2) is sampled...rand: 0.835644, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 6:
+	(0, 1) is sampled...rand: 0.452189, prob: 1.000000
+	(0, 2) is sampled...rand: 0.761732, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 7:
+	(0, 1) is sampled...rand: 0.283672, prob: 1.000000
+	(0, 2) is sampled...rand: 0.798947, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 8:
+	(0, 1) is sampled...rand: 0.708459, prob: 1.000000
+	(0, 2) is sampled...rand: 0.576210, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 9:
+	(0, 1) is sampled...rand: 0.400878, prob: 1.000000
+	(0, 2) is sampled...rand: 0.641054, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 10:
+	(0, 1) is sampled...rand: 0.685946, prob: 1.000000
+	(0, 2) is sampled...rand: 0.858828, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 11:
+	(0, 1) is sampled...rand: 0.804564, prob: 1.000000
+	(0, 2) is sampled...rand: 0.744618, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 12:
+	(0, 1) is sampled...rand: 0.214803, prob: 1.000000
+	(0, 2) is sampled...rand: 0.054009, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 13:
+	(0, 1) is sampled...rand: 0.781807, prob: 1.000000
+	(0, 2) is sampled...rand: 0.789406, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 14:
+	(0, 1) is sampled...rand: 0.268434, prob: 1.000000
+	(0, 2) is sampled...rand: 0.577171, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 15:
+	(0, 1) is sampled...rand: 0.468102, prob: 1.000000
+	(0, 2) is sampled...rand: 0.156509, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 16:
+	(0, 1) is sampled...rand: 0.777444, prob: 1.000000
+	(0, 2) is sampled...rand: 0.212847, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 17:
+	(0, 1) is sampled...rand: 0.291476, prob: 1.000000
+	(0, 2) is sampled...rand: 0.256636, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 18:
+	(0, 1) is sampled...rand: 0.935297, prob: 1.000000
+	(0, 2) is sampled...rand: 0.742538, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 19:
+	(0, 1) is sampled...rand: 0.571531, prob: 1.000000
+	(0, 2) is sampled...rand: 0.550477, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 20:
+	(0, 1) is sampled...rand: 0.556935, prob: 1.000000
+	(0, 2) is sampled...rand: 0.492854, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 21:
+	(0, 1) is sampled...rand: 0.899027, prob: 1.000000
+	(0, 2) is sampled...rand: 0.207726, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 22:
+	(0, 1) is sampled...rand: 0.093647, prob: 1.000000
+	(0, 2) is sampled...rand: 0.996081, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 23:
+	(0, 1) is sampled...rand: 0.181571, prob: 1.000000
+	(0, 2) is sampled...rand: 0.774674, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 24:
+	(0, 1) is sampled...rand: 0.244487, prob: 1.000000
+	(0, 2) is sampled...rand: 0.203321, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 25:
+	(0, 1) is sampled...rand: 0.903538, prob: 1.000000
+	(0, 2) is sampled...rand: 0.501177, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 26:
+	(0, 1) is sampled...rand: 0.023649, prob: 1.000000
+	(0, 2) is sampled...rand: 0.929835, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 27:
+	(0, 1) is sampled...rand: 0.223121, prob: 1.000000
+	(0, 2) is sampled...rand: 0.706785, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 28:
+	(0, 1) is sampled...rand: 0.739932, prob: 1.000000
+	(0, 2) is sampled...rand: 0.386640, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 29:
+	(0, 1) is sampled...rand: 0.984973, prob: 1.000000
+	(0, 2) is sampled...rand: 0.167586, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 30:
+	(0, 1) is sampled...rand: 0.312041, prob: 1.000000
+	(0, 2) is sampled...rand: 0.751310, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 31:
+	(0, 1) is sampled...rand: 0.279385, prob: 1.000000
+	(0, 2) is sampled...rand: 0.458056, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 32:
+	(0, 1) is sampled...rand: 0.201688, prob: 1.000000
+	(0, 2) is sampled...rand: 0.419500, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 33:
+	(0, 1) is sampled...rand: 0.130310, prob: 1.000000
+	(0, 2) is sampled...rand: 0.615402, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 34:
+	(0, 1) is sampled...rand: 0.005973, prob: 1.000000
+	(0, 2) is sampled...rand: 0.628839, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 35:
+	(0, 1) is sampled...rand: 0.596536, prob: 1.000000
+	(0, 2) is sampled...rand: 0.429732, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 36:
+	(0, 1) is sampled...rand: 0.596648, prob: 1.000000
+	(0, 2) is sampled...rand: 0.557258, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 37:
+	(0, 1) is sampled...rand: 0.049034, prob: 1.000000
+	(0, 2) is sampled...rand: 0.828056, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 38:
+	(0, 1) is sampled...rand: 0.012412, prob: 1.000000
+	(0, 2) is sampled...rand: 0.271891, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 39:
+	(0, 1) is sampled...rand: 0.525071, prob: 1.000000
+	(0, 2) is sampled...rand: 0.377226, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 40:
+	(0, 1) is sampled...rand: 0.299805, prob: 1.000000
+	(0, 2) is sampled...rand: 0.547527, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 41:
+	(0, 1) is sampled...rand: 0.657591, prob: 1.000000
+	(0, 2) is sampled...rand: 0.166956, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 42:
+	(0, 1) is sampled...rand: 0.804924, prob: 1.000000
+	(0, 2) is sampled...rand: 0.800636, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 43:
+	(0, 1) is sampled...rand: 0.126633, prob: 1.000000
+	(0, 2) is sampled...rand: 0.476366, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 44:
+	(0, 1) is sampled...rand: 0.160983, prob: 1.000000
+	(0, 2) is sampled...rand: 0.515000, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 45:
+	(0, 1) is sampled...rand: 0.423122, prob: 1.000000
+	(0, 2) is sampled...rand: 0.269454, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 46:
+	(0, 1) is sampled...rand: 0.856668, prob: 1.000000
+	(0, 2) is sampled...rand: 0.009201, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 47:
+	(0, 1) is sampled...rand: 0.191562, prob: 1.000000
+	(0, 2) is sampled...rand: 0.331536, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 48:
+	(0, 1) is sampled...rand: 0.632339, prob: 1.000000
+	(0, 2) is sampled...rand: 0.270244, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 49:
+	(0, 1) is sampled...rand: 0.910189, prob: 1.000000
+	(0, 2) is sampled...rand: 0.053988, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 50:
+	(0, 1) is sampled...rand: 0.181132, prob: 1.000000
+	(0, 2) is sampled...rand: 0.002568, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 51:
+	(0, 1) is sampled...rand: 0.758461, prob: 1.000000
+	(0, 2) is sampled...rand: 0.012643, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 52:
+	(0, 1) is sampled...rand: 0.973883, prob: 1.000000
+	(0, 2) is sampled...rand: 0.038877, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 53:
+	(0, 1) is sampled...rand: 0.523143, prob: 1.000000
+	(0, 2) is sampled...rand: 0.113117, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 54:
+	(0, 1) is sampled...rand: 0.727826, prob: 1.000000
+	(0, 2) is sampled...rand: 0.691434, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 55:
+	(0, 1) is sampled...rand: 0.686050, prob: 1.000000
+	(0, 2) is sampled...rand: 0.955348, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 56:
+	(0, 1) is sampled...rand: 0.026267, prob: 1.000000
+	(0, 2) is sampled...rand: 0.312745, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 57:
+	(0, 1) is sampled...rand: 0.456822, prob: 1.000000
+	(0, 2) is sampled...rand: 0.317789, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 58:
+	(0, 1) is sampled...rand: 0.239914, prob: 1.000000
+	(0, 2) is sampled...rand: 0.112462, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 59:
+	(0, 1) is sampled...rand: 0.864172, prob: 1.000000
+	(0, 2) is sampled...rand: 0.278160, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 60:
+	(0, 1) is sampled...rand: 0.260050, prob: 1.000000
+	(0, 2) is sampled...rand: 0.038583, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 61:
+	(0, 1) is sampled...rand: 0.097164, prob: 1.000000
+	(0, 2) is sampled...rand: 0.146600, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 62:
+	(0, 1) is sampled...rand: 0.934613, prob: 1.000000
+	(0, 2) is sampled...rand: 0.875806, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 63:
+	(0, 1) is sampled...rand: 0.968762, prob: 1.000000
+	(0, 2) is sampled...rand: 0.036877, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 64:
+	(0, 1) is sampled...rand: 0.908554, prob: 1.000000
+	(0, 2) is sampled...rand: 0.239333, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 65:
+	(0, 1) is sampled...rand: 0.844429, prob: 1.000000
+	(0, 2) is sampled...rand: 0.524479, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 66:
+	(0, 1) is sampled...rand: 0.606291, prob: 1.000000
+	(0, 2) is sampled...rand: 0.517226, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 67:
+	(0, 1) is sampled...rand: 0.274689, prob: 1.000000
+	(0, 2) is sampled...rand: 0.001551, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 68:
+	(0, 1) is sampled...rand: 0.904661, prob: 1.000000
+	(0, 2) is sampled...rand: 0.201171, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 69:
+	(0, 1) is sampled...rand: 0.103708, prob: 1.000000
+	(0, 2) is sampled...rand: 0.232456, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 70:
+	(0, 1) is sampled...rand: 0.570722, prob: 1.000000
+	(0, 2) is sampled...rand: 0.688404, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 71:
+	(0, 1) is sampled...rand: 0.414927, prob: 1.000000
+	(0, 2) is sampled...rand: 0.258946, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 72:
+	(0, 1) is sampled...rand: 0.696018, prob: 1.000000
+	(0, 2) is sampled...rand: 0.278927, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 73:
+	(0, 1) is sampled...rand: 0.901863, prob: 1.000000
+	(0, 2) is sampled...rand: 0.925011, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 74:
+	(0, 1) is sampled...rand: 0.283614, prob: 1.000000
+	(0, 2) is sampled...rand: 0.748321, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 75:
+	(0, 1) is sampled...rand: 0.507704, prob: 1.000000
+	(0, 2) is sampled...rand: 0.792588, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 76:
+	(0, 1) is sampled...rand: 0.138192, prob: 1.000000
+	(0, 2) is sampled...rand: 0.592482, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 77:
+	(0, 1) is sampled...rand: 0.235432, prob: 1.000000
+	(0, 2) is sampled...rand: 0.124181, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 78:
+	(0, 1) is sampled...rand: 0.820618, prob: 1.000000
+	(0, 2) is sampled...rand: 0.949313, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 79:
+	(0, 1) is sampled...rand: 0.836176, prob: 1.000000
+	(0, 2) is sampled...rand: 0.282976, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 80:
+	(0, 1) is sampled...rand: 0.078808, prob: 1.000000
+	(0, 2) is sampled...rand: 0.781083, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 81:
+	(0, 1) is sampled...rand: 0.530524, prob: 1.000000
+	(0, 2) is sampled...rand: 0.864745, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 82:
+	(0, 1) is sampled...rand: 0.027078, prob: 1.000000
+	(0, 2) is sampled...rand: 0.448468, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 83:
+	(0, 1) is sampled...rand: 0.844824, prob: 1.000000
+	(0, 2) is sampled...rand: 0.101576, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 84:
+	(0, 1) is sampled...rand: 0.584465, prob: 1.000000
+	(0, 2) is sampled...rand: 0.340910, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 85:
+	(0, 1) is sampled...rand: 0.022074, prob: 1.000000
+	(0, 2) is sampled...rand: 0.974304, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 86:
+	(0, 1) is sampled...rand: 0.482525, prob: 1.000000
+	(0, 2) is sampled...rand: 0.672834, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 87:
+	(0, 1) is sampled...rand: 0.457586, prob: 1.000000
+	(0, 2) is sampled...rand: 0.949597, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 88:
+	(0, 1) is sampled...rand: 0.343155, prob: 1.000000
+	(0, 2) is sampled...rand: 0.402839, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 89:
+	(0, 1) is sampled...rand: 0.084300, prob: 1.000000
+	(0, 2) is sampled...rand: 0.970335, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 90:
+	(0, 1) is sampled...rand: 0.797217, prob: 1.000000
+	(0, 2) is sampled...rand: 0.265944, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 91:
+	(0, 1) is sampled...rand: 0.641017, prob: 1.000000
+	(0, 2) is sampled...rand: 0.668353, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 92:
+	(0, 1) is sampled...rand: 0.399048, prob: 1.000000
+	(0, 2) is sampled...rand: 0.258589, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 93:
+	(0, 1) is sampled...rand: 0.548282, prob: 1.000000
+	(0, 2) is sampled...rand: 0.155107, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 94:
+	(0, 1) is sampled...rand: 0.596080, prob: 1.000000
+	(0, 2) is sampled...rand: 0.442867, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 95:
+	(0, 1) is sampled...rand: 0.062916, prob: 1.000000
+	(0, 2) is sampled...rand: 0.604666, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 96:
+	(0, 1) is sampled...rand: 0.409533, prob: 1.000000
+	(0, 2) is sampled...rand: 0.210409, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 97:
+	(0, 1) is sampled...rand: 0.615348, prob: 1.000000
+	(0, 2) is sampled...rand: 0.785055, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 98:
+	(0, 1) is sampled...rand: 0.689641, prob: 1.000000
+	(0, 2) is sampled...rand: 0.199580, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 99:
+	(0, 1) is sampled...rand: 0.454462, prob: 1.000000
+	(0, 2) is sampled...rand: 0.120949, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 100:
+	(0, 1) is sampled...rand: 0.494844, prob: 1.000000
+	(0, 2) is sampled...rand: 0.958418, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 101:
+	(0, 1) is sampled...rand: 0.833906, prob: 1.000000
+	(0, 2) is sampled...rand: 0.233540, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 102:
+	(0, 1) is sampled...rand: 0.499393, prob: 1.000000
+	(0, 2) is sampled...rand: 0.726342, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 103:
+	(0, 1) is sampled...rand: 0.901058, prob: 1.000000
+	(0, 2) is sampled...rand: 0.340219, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 104:
+	(0, 1) is sampled...rand: 0.141452, prob: 1.000000
+	(0, 2) is sampled...rand: 0.429899, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 105:
+	(0, 1) is sampled...rand: 0.845642, prob: 1.000000
+	(0, 2) is sampled...rand: 0.073890, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 106:
+	(0, 1) is sampled...rand: 0.442810, prob: 1.000000
+	(0, 2) is sampled...rand: 0.744846, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 107:
+	(0, 1) is sampled...rand: 0.219166, prob: 1.000000
+	(0, 2) is sampled...rand: 0.308402, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 108:
+	(0, 1) is sampled...rand: 0.441420, prob: 1.000000
+	(0, 2) is sampled...rand: 0.612842, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 109:
+	(0, 1) is sampled...rand: 0.669544, prob: 1.000000
+	(0, 2) is sampled...rand: 0.389635, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 110:
+	(0, 1) is sampled...rand: 0.951951, prob: 1.000000
+	(0, 2) is sampled...rand: 0.740170, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 111:
+	(0, 1) is sampled...rand: 0.463312, prob: 1.000000
+	(0, 2) is sampled...rand: 0.075308, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 112:
+	(0, 1) is sampled...rand: 0.013905, prob: 1.000000
+	(0, 2) is sampled...rand: 0.310162, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 113:
+	(0, 1) is sampled...rand: 0.437630, prob: 1.000000
+	(0, 2) is sampled...rand: 0.688935, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 114:
+	(0, 1) is sampled...rand: 0.606594, prob: 1.000000
+	(0, 2) is sampled...rand: 0.223913, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 115:
+	(0, 1) is sampled...rand: 0.547674, prob: 1.000000
+	(0, 2) is sampled...rand: 0.997360, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 116:
+	(0, 1) is sampled...rand: 0.574779, prob: 1.000000
+	(0, 2) is sampled...rand: 0.342151, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 117:
+	(0, 1) is sampled...rand: 0.794912, prob: 1.000000
+	(0, 2) is sampled...rand: 0.601429, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 118:
+	(0, 1) is sampled...rand: 0.976277, prob: 1.000000
+	(0, 2) is sampled...rand: 0.283823, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 119:
+	(0, 1) is sampled...rand: 0.199338, prob: 1.000000
+	(0, 2) is sampled...rand: 0.669990, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 120:
+	(0, 1) is sampled...rand: 0.302261, prob: 1.000000
+	(0, 2) is sampled...rand: 0.810225, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 121:
+	(0, 1) is sampled...rand: 0.050873, prob: 1.000000
+	(0, 2) is sampled...rand: 0.255260, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 122:
+	(0, 1) is sampled...rand: 0.234751, prob: 1.000000
+	(0, 2) is sampled...rand: 0.294770, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 123:
+	(0, 1) is sampled...rand: 0.155927, prob: 1.000000
+	(0, 2) is sampled...rand: 0.483801, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 124:
+	(0, 1) is sampled...rand: 0.216341, prob: 1.000000
+	(0, 2) is sampled...rand: 0.100478, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 125:
+	(0, 1) is sampled...rand: 0.789101, prob: 1.000000
+	(0, 2) is sampled...rand: 0.896450, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 126:
+	(0, 1) is sampled...rand: 0.053777, prob: 1.000000
+	(0, 2) is sampled...rand: 0.834866, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 127:
+	(0, 1) is sampled...rand: 0.485547, prob: 1.000000
+	(0, 2) is sampled...rand: 0.388604, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 128:
+	(0, 1) is sampled...rand: 0.247785, prob: 1.000000
+	(0, 2) is sampled...rand: 0.506357, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 129:
+	(0, 1) is sampled...rand: 0.594774, prob: 1.000000
+	(0, 2) is sampled...rand: 0.808987, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 130:
+	(0, 1) is sampled...rand: 0.692319, prob: 1.000000
+	(0, 2) is sampled...rand: 0.644911, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 131:
+	(0, 1) is sampled...rand: 0.694660, prob: 1.000000
+	(0, 2) is sampled...rand: 0.616417, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 132:
+	(0, 1) is sampled...rand: 0.856995, prob: 1.000000
+	(0, 2) is sampled...rand: 0.845599, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 133:
+	(0, 1) is sampled...rand: 0.587162, prob: 1.000000
+	(0, 2) is sampled...rand: 0.912881, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 134:
+	(0, 1) is sampled...rand: 0.075177, prob: 1.000000
+	(0, 2) is sampled...rand: 0.107923, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 135:
+	(0, 1) is sampled...rand: 0.975053, prob: 1.000000
+	(0, 2) is sampled...rand: 0.692485, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 136:
+	(0, 1) is sampled...rand: 0.307525, prob: 1.000000
+	(0, 2) is sampled...rand: 0.059143, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 137:
+	(0, 1) is sampled...rand: 0.055500, prob: 1.000000
+	(0, 2) is sampled...rand: 0.490617, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 138:
+	(0, 1) is sampled...rand: 0.222090, prob: 1.000000
+	(0, 2) is sampled...rand: 0.285546, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 139:
+	(0, 1) is sampled...rand: 0.651024, prob: 1.000000
+	(0, 2) is sampled...rand: 0.092812, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 140:
+	(0, 1) is sampled...rand: 0.160725, prob: 1.000000
+	(0, 2) is sampled...rand: 0.048492, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 141:
+	(0, 1) is sampled...rand: 0.406039, prob: 1.000000
+	(0, 2) is sampled...rand: 0.713686, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 142:
+	(0, 1) is sampled...rand: 0.618348, prob: 1.000000
+	(0, 2) is sampled...rand: 0.458672, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 143:
+	(0, 1) is sampled...rand: 0.628778, prob: 1.000000
+	(0, 2) is sampled...rand: 0.810570, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 144:
+	(0, 1) is sampled...rand: 0.074639, prob: 1.000000
+	(0, 2) is sampled...rand: 0.003972, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 145:
+	(0, 1) is sampled...rand: 0.510908, prob: 1.000000
+	(0, 2) is sampled...rand: 0.360411, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 146:
+	(0, 1) is sampled...rand: 0.141881, prob: 1.000000
+	(0, 2) is sampled...rand: 0.631302, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 147:
+	(0, 1) is sampled...rand: 0.814625, prob: 1.000000
+	(0, 2) is sampled...rand: 0.479336, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 148:
+	(0, 1) is sampled...rand: 0.245804, prob: 1.000000
+	(0, 2) is sampled...rand: 0.011195, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 149:
+	(0, 1) is sampled...rand: 0.887781, prob: 1.000000
+	(0, 2) is sampled...rand: 0.587062, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 150:
+	(0, 1) is sampled...rand: 0.892612, prob: 1.000000
+	(0, 2) is sampled...rand: 0.684843, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 151:
+	(0, 1) is sampled...rand: 0.820432, prob: 1.000000
+	(0, 2) is sampled...rand: 0.350134, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 152:
+	(0, 1) is sampled...rand: 0.940572, prob: 1.000000
+	(0, 2) is sampled...rand: 0.558844, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 153:
+	(0, 1) is sampled...rand: 0.178968, prob: 1.000000
+	(0, 2) is sampled...rand: 0.863716, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 154:
+	(0, 1) is sampled...rand: 0.922427, prob: 1.000000
+	(0, 2) is sampled...rand: 0.465917, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 155:
+	(0, 1) is sampled...rand: 0.337195, prob: 1.000000
+	(0, 2) is sampled...rand: 0.974554, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 156:
+	(0, 1) is sampled...rand: 0.534882, prob: 1.000000
+	(0, 2) is sampled...rand: 0.734313, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 157:
+	(0, 1) is sampled...rand: 0.057970, prob: 1.000000
+	(0, 2) is sampled...rand: 0.164455, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 158:
+	(0, 1) is sampled...rand: 0.984379, prob: 1.000000
+	(0, 2) is sampled...rand: 0.673107, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 159:
+	(0, 1) is sampled...rand: 0.754591, prob: 1.000000
+	(0, 2) is sampled...rand: 0.516383, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 160:
+	(0, 1) is sampled...rand: 0.571857, prob: 1.000000
+	(0, 2) is sampled...rand: 0.710604, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 161:
+	(0, 1) is sampled...rand: 0.537824, prob: 1.000000
+	(0, 2) is sampled...rand: 0.083968, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 162:
+	(0, 1) is sampled...rand: 0.634882, prob: 1.000000
+	(0, 2) is sampled...rand: 0.946234, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 163:
+	(0, 1) is sampled...rand: 0.955045, prob: 1.000000
+	(0, 2) is sampled...rand: 0.226140, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 164:
+	(0, 1) is sampled...rand: 0.334795, prob: 1.000000
+	(0, 2) is sampled...rand: 0.654779, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 165:
+	(0, 1) is sampled...rand: 0.251585, prob: 1.000000
+	(0, 2) is sampled...rand: 0.791915, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 166:
+	(0, 1) is sampled...rand: 0.864220, prob: 1.000000
+	(0, 2) is sampled...rand: 0.481462, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 167:
+	(0, 1) is sampled...rand: 0.543154, prob: 1.000000
+	(0, 2) is sampled...rand: 0.348672, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 168:
+	(0, 1) is sampled...rand: 0.153189, prob: 1.000000
+	(0, 2) is sampled...rand: 0.573272, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 169:
+	(0, 1) is sampled...rand: 0.785355, prob: 1.000000
+	(0, 2) is sampled...rand: 0.724109, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 170:
+	(0, 1) is sampled...rand: 0.192581, prob: 1.000000
+	(0, 2) is sampled...rand: 0.401039, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 171:
+	(0, 1) is sampled...rand: 0.116877, prob: 1.000000
+	(0, 2) is sampled...rand: 0.061169, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 172:
+	(0, 1) is sampled...rand: 0.512894, prob: 1.000000
+	(0, 2) is sampled...rand: 0.567069, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 173:
+	(0, 1) is sampled...rand: 0.650025, prob: 1.000000
+	(0, 2) is sampled...rand: 0.529769, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 174:
+	(0, 1) is sampled...rand: 0.687614, prob: 1.000000
+	(0, 2) is sampled...rand: 0.741764, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 175:
+	(0, 1) is sampled...rand: 0.799035, prob: 1.000000
+	(0, 2) is sampled...rand: 0.115273, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 176:
+	(0, 1) is sampled...rand: 0.625474, prob: 1.000000
+	(0, 2) is sampled...rand: 0.599871, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 177:
+	(0, 1) is sampled...rand: 0.634431, prob: 1.000000
+	(0, 2) is sampled...rand: 0.744032, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 178:
+	(0, 1) is sampled...rand: 0.379140, prob: 1.000000
+	(0, 2) is sampled...rand: 0.111045, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 179:
+	(0, 1) is sampled...rand: 0.880812, prob: 1.000000
+	(0, 2) is sampled...rand: 0.383858, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 180:
+	(0, 1) is sampled...rand: 0.185564, prob: 1.000000
+	(0, 2) is sampled...rand: 0.183065, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 181:
+	(0, 1) is sampled...rand: 0.907149, prob: 1.000000
+	(0, 2) is sampled...rand: 0.168816, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 182:
+	(0, 1) is sampled...rand: 0.757988, prob: 1.000000
+	(0, 2) is sampled...rand: 0.694089, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 183:
+	(0, 1) is sampled...rand: 0.780262, prob: 1.000000
+	(0, 2) is sampled...rand: 0.067945, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 184:
+	(0, 1) is sampled...rand: 0.960988, prob: 1.000000
+	(0, 2) is sampled...rand: 0.388239, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 185:
+	(0, 1) is sampled...rand: 0.702522, prob: 1.000000
+	(0, 2) is sampled...rand: 0.393720, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 186:
+	(0, 1) is sampled...rand: 0.555948, prob: 1.000000
+	(0, 2) is sampled...rand: 0.510056, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 187:
+	(0, 1) is sampled...rand: 0.350302, prob: 1.000000
+	(0, 2) is sampled...rand: 0.558412, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 188:
+	(0, 1) is sampled...rand: 0.387116, prob: 1.000000
+	(0, 2) is sampled...rand: 0.410831, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 189:
+	(0, 1) is sampled...rand: 0.406228, prob: 1.000000
+	(0, 2) is sampled...rand: 0.895982, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 190:
+	(0, 1) is sampled...rand: 0.148931, prob: 1.000000
+	(0, 2) is sampled...rand: 0.813985, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 191:
+	(0, 1) is sampled...rand: 0.640426, prob: 1.000000
+	(0, 2) is sampled...rand: 0.864035, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 192:
+	(0, 1) is sampled...rand: 0.562191, prob: 1.000000
+	(0, 2) is sampled...rand: 0.988606, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 193:
+	(0, 1) is sampled...rand: 0.170693, prob: 1.000000
+	(0, 2) is sampled...rand: 0.006644, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 194:
+	(0, 1) is sampled...rand: 0.473373, prob: 1.000000
+	(0, 2) is sampled...rand: 0.440093, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 195:
+	(0, 1) is sampled...rand: 0.335140, prob: 1.000000
+	(0, 2) is sampled...rand: 0.686637, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 196:
+	(0, 1) is sampled...rand: 0.643302, prob: 1.000000
+	(0, 2) is sampled...rand: 0.403986, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 197:
+	(0, 1) is sampled...rand: 0.331836, prob: 1.000000
+	(0, 2) is sampled...rand: 0.087925, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 198:
+	(0, 1) is sampled...rand: 0.413283, prob: 1.000000
+	(0, 2) is sampled...rand: 0.175922, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 199:
+	(0, 1) is sampled...rand: 0.520324, prob: 1.000000
+	(0, 2) is sampled...rand: 0.871413, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 200:
+	(0, 1) is sampled...rand: 0.004661, prob: 1.000000
+	(0, 2) is sampled...rand: 0.192934, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 201:
+	(0, 1) is sampled...rand: 0.614043, prob: 1.000000
+	(0, 2) is sampled...rand: 0.160373, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 202:
+	(0, 1) is sampled...rand: 0.106654, prob: 1.000000
+	(0, 2) is sampled...rand: 0.272774, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 203:
+	(0, 1) is sampled...rand: 0.843587, prob: 1.000000
+	(0, 2) is sampled...rand: 0.640359, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 204:
+	(0, 1) is sampled...rand: 0.829449, prob: 1.000000
+	(0, 2) is sampled...rand: 0.474351, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 205:
+	(0, 1) is sampled...rand: 0.148713, prob: 1.000000
+	(0, 2) is sampled...rand: 0.220538, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 206:
+	(0, 1) is sampled...rand: 0.297133, prob: 1.000000
+	(0, 2) is sampled...rand: 0.754791, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 207:
+	(0, 1) is sampled...rand: 0.327803, prob: 1.000000
+	(0, 2) is sampled...rand: 0.123761, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 208:
+	(0, 1) is sampled...rand: 0.615070, prob: 1.000000
+	(0, 2) is sampled...rand: 0.171230, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 209:
+	(0, 1) is sampled...rand: 0.043441, prob: 1.000000
+	(0, 2) is sampled...rand: 0.194720, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 210:
+	(0, 1) is sampled...rand: 0.746179, prob: 1.000000
+	(0, 2) is sampled...rand: 0.540213, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 211:
+	(0, 1) is sampled...rand: 0.973834, prob: 1.000000
+	(0, 2) is sampled...rand: 0.679199, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 212:
+	(0, 1) is sampled...rand: 0.078375, prob: 1.000000
+	(0, 2) is sampled...rand: 0.438285, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 213:
+	(0, 1) is sampled...rand: 0.825558, prob: 1.000000
+	(0, 2) is sampled...rand: 0.949641, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 214:
+	(0, 1) is sampled...rand: 0.571673, prob: 1.000000
+	(0, 2) is sampled...rand: 0.417390, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 215:
+	(0, 1) is sampled...rand: 0.826003, prob: 1.000000
+	(0, 2) is sampled...rand: 0.106731, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 216:
+	(0, 1) is sampled...rand: 0.379321, prob: 1.000000
+	(0, 2) is sampled...rand: 0.138616, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 217:
+	(0, 1) is sampled...rand: 0.590599, prob: 1.000000
+	(0, 2) is sampled...rand: 0.610574, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 218:
+	(0, 1) is sampled...rand: 0.049044, prob: 1.000000
+	(0, 2) is sampled...rand: 0.018910, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 219:
+	(0, 1) is sampled...rand: 0.293481, prob: 1.000000
+	(0, 2) is sampled...rand: 0.831990, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 220:
+	(0, 1) is sampled...rand: 0.216372, prob: 1.000000
+	(0, 2) is sampled...rand: 0.772423, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 221:
+	(0, 1) is sampled...rand: 0.400246, prob: 1.000000
+	(0, 2) is sampled...rand: 0.057332, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 222:
+	(0, 1) is sampled...rand: 0.001566, prob: 1.000000
+	(0, 2) is sampled...rand: 0.272404, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 223:
+	(0, 1) is sampled...rand: 0.063229, prob: 1.000000
+	(0, 2) is sampled...rand: 0.317680, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 224:
+	(0, 1) is sampled...rand: 0.210133, prob: 1.000000
+	(0, 2) is sampled...rand: 0.971678, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 225:
+	(0, 1) is sampled...rand: 0.390931, prob: 1.000000
+	(0, 2) is sampled...rand: 0.914650, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 226:
+	(0, 1) is sampled...rand: 0.563007, prob: 1.000000
+	(0, 2) is sampled...rand: 0.429920, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 227:
+	(0, 1) is sampled...rand: 0.148348, prob: 1.000000
+	(0, 2) is sampled...rand: 0.480645, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 228:
+	(0, 1) is sampled...rand: 0.947216, prob: 1.000000
+	(0, 2) is sampled...rand: 0.376884, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 229:
+	(0, 1) is sampled...rand: 0.484730, prob: 1.000000
+	(0, 2) is sampled...rand: 0.140170, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 230:
+	(0, 1) is sampled...rand: 0.653722, prob: 1.000000
+	(0, 2) is sampled...rand: 0.767982, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 231:
+	(0, 1) is sampled...rand: 0.437510, prob: 1.000000
+	(0, 2) is sampled...rand: 0.010665, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 232:
+	(0, 1) is sampled...rand: 0.197380, prob: 1.000000
+	(0, 2) is sampled...rand: 0.613848, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 233:
+	(0, 1) is sampled...rand: 0.983010, prob: 1.000000
+	(0, 2) is sampled...rand: 0.895348, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 234:
+	(0, 1) is sampled...rand: 0.946472, prob: 1.000000
+	(0, 2) is sampled...rand: 0.637483, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 235:
+	(0, 1) is sampled...rand: 0.694053, prob: 1.000000
+	(0, 2) is sampled...rand: 0.941717, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 236:
+	(0, 1) is sampled...rand: 0.209533, prob: 1.000000
+	(0, 2) is sampled...rand: 0.814189, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 237:
+	(0, 1) is sampled...rand: 0.266629, prob: 1.000000
+	(0, 2) is sampled...rand: 0.835271, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 238:
+	(0, 1) is sampled...rand: 0.893704, prob: 1.000000
+	(0, 2) is sampled...rand: 0.636784, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 239:
+	(0, 1) is sampled...rand: 0.521095, prob: 1.000000
+	(0, 2) is sampled...rand: 0.312004, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 240:
+	(0, 1) is sampled...rand: 0.460803, prob: 1.000000
+	(0, 2) is sampled...rand: 0.274531, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 241:
+	(0, 1) is sampled...rand: 0.684603, prob: 1.000000
+	(0, 2) is sampled...rand: 0.142463, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 242:
+	(0, 1) is sampled...rand: 0.757658, prob: 1.000000
+	(0, 2) is sampled...rand: 0.212888, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 243:
+	(0, 1) is sampled...rand: 0.768674, prob: 1.000000
+	(0, 2) is sampled...rand: 0.397846, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 244:
+	(0, 1) is sampled...rand: 0.067013, prob: 1.000000
+	(0, 2) is sampled...rand: 0.294636, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 245:
+	(0, 1) is sampled...rand: 0.302190, prob: 1.000000
+	(0, 2) is sampled...rand: 0.432199, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 246:
+	(0, 1) is sampled...rand: 0.329009, prob: 1.000000
+	(0, 2) is sampled...rand: 0.168632, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 247:
+	(0, 1) is sampled...rand: 0.773670, prob: 1.000000
+	(0, 2) is sampled...rand: 0.219445, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 248:
+	(0, 1) is sampled...rand: 0.131625, prob: 1.000000
+	(0, 2) is sampled...rand: 0.884111, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 249:
+	(0, 1) is sampled...rand: 0.597995, prob: 1.000000
+	(0, 2) is sampled...rand: 0.473764, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 250:
+	(0, 1) is sampled...rand: 0.752138, prob: 1.000000
+	(0, 2) is sampled...rand: 0.748527, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 251:
+	(0, 1) is sampled...rand: 0.746158, prob: 1.000000
+	(0, 2) is sampled...rand: 0.136262, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 252:
+	(0, 1) is sampled...rand: 0.652349, prob: 1.000000
+	(0, 2) is sampled...rand: 0.078872, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 253:
+	(0, 1) is sampled...rand: 0.743998, prob: 1.000000
+	(0, 2) is sampled...rand: 0.910827, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 254:
+	(0, 1) is sampled...rand: 0.844199, prob: 1.000000
+	(0, 2) is sampled...rand: 0.755659, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 255:
+	(0, 1) is sampled...rand: 0.179445, prob: 1.000000
+	(0, 2) is sampled...rand: 0.415069, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 256:
+	(0, 1) is sampled...rand: 0.748813, prob: 1.000000
+	(0, 2) is sampled...rand: 0.717210, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 257:
+	(0, 1) is sampled...rand: 0.322808, prob: 1.000000
+	(0, 2) is sampled...rand: 0.546970, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 258:
+	(0, 1) is sampled...rand: 0.084832, prob: 1.000000
+	(0, 2) is sampled...rand: 0.163496, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 259:
+	(0, 1) is sampled...rand: 0.737379, prob: 1.000000
+	(0, 2) is sampled...rand: 0.143075, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 260:
+	(0, 1) is sampled...rand: 0.101062, prob: 1.000000
+	(0, 2) is sampled...rand: 0.083915, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 261:
+	(0, 1) is sampled...rand: 0.985075, prob: 1.000000
+	(0, 2) is sampled...rand: 0.896799, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 262:
+	(0, 1) is sampled...rand: 0.447244, prob: 1.000000
+	(0, 2) is sampled...rand: 0.403510, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 263:
+	(0, 1) is sampled...rand: 0.923156, prob: 1.000000
+	(0, 2) is sampled...rand: 0.115998, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 264:
+	(0, 1) is sampled...rand: 0.437219, prob: 1.000000
+	(0, 2) is sampled...rand: 0.698631, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 265:
+	(0, 1) is sampled...rand: 0.830737, prob: 1.000000
+	(0, 2) is sampled...rand: 0.939705, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 266:
+	(0, 1) is sampled...rand: 0.071413, prob: 1.000000
+	(0, 2) is sampled...rand: 0.156633, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 267:
+	(0, 1) is sampled...rand: 0.664034, prob: 1.000000
+	(0, 2) is sampled...rand: 0.284329, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 268:
+	(0, 1) is sampled...rand: 0.107583, prob: 1.000000
+	(0, 2) is sampled...rand: 0.801824, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 269:
+	(0, 1) is sampled...rand: 0.488453, prob: 1.000000
+	(0, 2) is sampled...rand: 0.746646, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 270:
+	(0, 1) is sampled...rand: 0.443936, prob: 1.000000
+	(0, 2) is sampled...rand: 0.769229, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 271:
+	(0, 1) is sampled...rand: 0.208486, prob: 1.000000
+	(0, 2) is sampled...rand: 0.813796, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 272:
+	(0, 1) is sampled...rand: 0.639889, prob: 1.000000
+	(0, 2) is sampled...rand: 0.640871, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 273:
+	(0, 1) is sampled...rand: 0.506138, prob: 1.000000
+	(0, 2) is sampled...rand: 0.134079, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 274:
+	(0, 1) is sampled...rand: 0.142400, prob: 1.000000
+	(0, 2) is sampled...rand: 0.025811, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 275:
+	(0, 1) is sampled...rand: 0.382419, prob: 1.000000
+	(0, 2) is sampled...rand: 0.233918, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 276:
+	(0, 1) is sampled...rand: 0.488204, prob: 1.000000
+	(0, 2) is sampled...rand: 0.097933, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 277:
+	(0, 1) is sampled...rand: 0.840802, prob: 1.000000
+	(0, 2) is sampled...rand: 0.234423, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 278:
+	(0, 1) is sampled...rand: 0.462023, prob: 1.000000
+	(0, 2) is sampled...rand: 0.415008, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 279:
+	(0, 1) is sampled...rand: 0.494319, prob: 1.000000
+	(0, 2) is sampled...rand: 0.936871, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 280:
+	(0, 1) is sampled...rand: 0.776191, prob: 1.000000
+	(0, 2) is sampled...rand: 0.436772, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 281:
+	(0, 1) is sampled...rand: 0.711617, prob: 1.000000
+	(0, 2) is sampled...rand: 0.398408, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 282:
+	(0, 1) is sampled...rand: 0.031792, prob: 1.000000
+	(0, 2) is sampled...rand: 0.479405, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 283:
+	(0, 1) is sampled...rand: 0.577856, prob: 1.000000
+	(0, 2) is sampled...rand: 0.797891, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 284:
+	(0, 1) is sampled...rand: 0.482381, prob: 1.000000
+	(0, 2) is sampled...rand: 0.667281, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 285:
+	(0, 1) is sampled...rand: 0.710267, prob: 1.000000
+	(0, 2) is sampled...rand: 0.674124, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 286:
+	(0, 1) is sampled...rand: 0.548768, prob: 1.000000
+	(0, 2) is sampled...rand: 0.139211, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 287:
+	(0, 1) is sampled...rand: 0.642135, prob: 1.000000
+	(0, 2) is sampled...rand: 0.755198, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 288:
+	(0, 1) is sampled...rand: 0.697455, prob: 1.000000
+	(0, 2) is sampled...rand: 0.290878, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 289:
+	(0, 1) is sampled...rand: 0.238643, prob: 1.000000
+	(0, 2) is sampled...rand: 0.266209, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 290:
+	(0, 1) is sampled...rand: 0.611991, prob: 1.000000
+	(0, 2) is sampled...rand: 0.501431, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 291:
+	(0, 1) is sampled...rand: 0.553339, prob: 1.000000
+	(0, 2) is sampled...rand: 0.980224, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 292:
+	(0, 1) is sampled...rand: 0.523721, prob: 1.000000
+	(0, 2) is sampled...rand: 0.027753, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 293:
+	(0, 1) is sampled...rand: 0.332487, prob: 1.000000
+	(0, 2) is sampled...rand: 0.320967, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 294:
+	(0, 1) is sampled...rand: 0.381472, prob: 1.000000
+	(0, 2) is sampled...rand: 0.420100, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 295:
+	(0, 1) is sampled...rand: 0.007878, prob: 1.000000
+	(0, 2) is sampled...rand: 0.835686, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 296:
+	(0, 1) is sampled...rand: 0.382807, prob: 1.000000
+	(0, 2) is sampled...rand: 0.830904, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 297:
+	(0, 1) is sampled...rand: 0.426322, prob: 1.000000
+	(0, 2) is sampled...rand: 0.161567, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 298:
+	(0, 1) is sampled...rand: 0.464602, prob: 1.000000
+	(0, 2) is sampled...rand: 0.747776, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 299:
+	(0, 1) is sampled...rand: 0.450835, prob: 1.000000
+	(0, 2) is sampled...rand: 0.856263, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 300:
+	(0, 1) is sampled...rand: 0.705381, prob: 1.000000
+	(0, 2) is sampled...rand: 0.578521, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 301:
+	(0, 1) is sampled...rand: 0.699993, prob: 1.000000
+	(0, 2) is sampled...rand: 0.991421, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 302:
+	(0, 1) is sampled...rand: 0.092251, prob: 1.000000
+	(0, 2) is sampled...rand: 0.397417, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 303:
+	(0, 1) is sampled...rand: 0.335608, prob: 1.000000
+	(0, 2) is sampled...rand: 0.363545, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 304:
+	(0, 1) is sampled...rand: 0.158791, prob: 1.000000
+	(0, 2) is sampled...rand: 0.873061, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 305:
+	(0, 1) is sampled...rand: 0.351591, prob: 1.000000
+	(0, 2) is sampled...rand: 0.928359, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 306:
+	(0, 1) is sampled...rand: 0.161650, prob: 1.000000
+	(0, 2) is sampled...rand: 0.523016, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 307:
+	(0, 1) is sampled...rand: 0.818960, prob: 1.000000
+	(0, 2) is sampled...rand: 0.240214, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 308:
+	(0, 1) is sampled...rand: 0.525816, prob: 1.000000
+	(0, 2) is sampled...rand: 0.032699, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 309:
+	(0, 1) is sampled...rand: 0.796968, prob: 1.000000
+	(0, 2) is sampled...rand: 0.099244, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 310:
+	(0, 1) is sampled...rand: 0.900888, prob: 1.000000
+	(0, 2) is sampled...rand: 0.793167, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 311:
+	(0, 1) is sampled...rand: 0.547699, prob: 1.000000
+	(0, 2) is sampled...rand: 0.194483, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 312:
+	(0, 1) is sampled...rand: 0.535179, prob: 1.000000
+	(0, 2) is sampled...rand: 0.033245, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 313:
+	(0, 1) is sampled...rand: 0.438919, prob: 1.000000
+	(0, 2) is sampled...rand: 0.064105, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 314:
+	(0, 1) is sampled...rand: 0.967128, prob: 1.000000
+	(0, 2) is sampled...rand: 0.855231, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 315:
+	(0, 1) is sampled...rand: 0.809409, prob: 1.000000
+	(0, 2) is sampled...rand: 0.385765, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 316:
+	(0, 1) is sampled...rand: 0.496781, prob: 1.000000
+	(0, 2) is sampled...rand: 0.737642, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 317:
+	(0, 1) is sampled...rand: 0.731167, prob: 1.000000
+	(0, 2) is sampled...rand: 0.389993, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 318:
+	(0, 1) is sampled...rand: 0.938507, prob: 1.000000
+	(0, 2) is sampled...rand: 0.457825, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 319:
+	(0, 1) is sampled...rand: 0.707500, prob: 1.000000
+	(0, 2) is sampled...rand: 0.992927, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 320:
+	(0, 1) is sampled...rand: 0.578715, prob: 1.000000
+	(0, 2) is sampled...rand: 0.309807, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 321:
+	(0, 1) is sampled...rand: 0.959508, prob: 1.000000
+	(0, 2) is sampled...rand: 0.594661, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 322:
+	(0, 1) is sampled...rand: 0.208995, prob: 1.000000
+	(0, 2) is sampled...rand: 0.805644, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 323:
+	(0, 1) is sampled...rand: 0.099244, prob: 1.000000
+	(0, 2) is sampled...rand: 0.032509, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 324:
+	(0, 1) is sampled...rand: 0.797600, prob: 1.000000
+	(0, 2) is sampled...rand: 0.875502, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 325:
+	(0, 1) is sampled...rand: 0.901523, prob: 1.000000
+	(0, 2) is sampled...rand: 0.106996, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 326:
+	(0, 1) is sampled...rand: 0.327856, prob: 1.000000
+	(0, 2) is sampled...rand: 0.421005, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 327:
+	(0, 1) is sampled...rand: 0.535900, prob: 1.000000
+	(0, 2) is sampled...rand: 0.311916, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 328:
+	(0, 1) is sampled...rand: 0.176897, prob: 1.000000
+	(0, 2) is sampled...rand: 0.851907, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 329:
+	(0, 1) is sampled...rand: 0.800095, prob: 1.000000
+	(0, 2) is sampled...rand: 0.520393, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 330:
+	(0, 1) is sampled...rand: 0.700535, prob: 1.000000
+	(0, 2) is sampled...rand: 0.820788, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 331:
+	(0, 1) is sampled...rand: 0.621995, prob: 1.000000
+	(0, 2) is sampled...rand: 0.511849, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 332:
+	(0, 1) is sampled...rand: 0.962272, prob: 1.000000
+	(0, 2) is sampled...rand: 0.378927, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 333:
+	(0, 1) is sampled...rand: 0.012650, prob: 1.000000
+	(0, 2) is sampled...rand: 0.703348, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 334:
+	(0, 1) is sampled...rand: 0.238177, prob: 1.000000
+	(0, 2) is sampled...rand: 0.056175, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 335:
+	(0, 1) is sampled...rand: 0.258752, prob: 1.000000
+	(0, 2) is sampled...rand: 0.535622, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 336:
+	(0, 1) is sampled...rand: 0.504884, prob: 1.000000
+	(0, 2) is sampled...rand: 0.712483, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 337:
+	(0, 1) is sampled...rand: 0.511460, prob: 1.000000
+	(0, 2) is sampled...rand: 0.777843, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 338:
+	(0, 1) is sampled...rand: 0.588726, prob: 1.000000
+	(0, 2) is sampled...rand: 0.050462, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 339:
+	(0, 1) is sampled...rand: 0.854771, prob: 1.000000
+	(0, 2) is sampled...rand: 0.957265, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 340:
+	(0, 1) is sampled...rand: 0.835882, prob: 1.000000
+	(0, 2) is sampled...rand: 0.826233, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 341:
+	(0, 1) is sampled...rand: 0.276170, prob: 1.000000
+	(0, 2) is sampled...rand: 0.165407, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 342:
+	(0, 1) is sampled...rand: 0.564404, prob: 1.000000
+	(0, 2) is sampled...rand: 0.423541, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 343:
+	(0, 1) is sampled...rand: 0.488066, prob: 1.000000
+	(0, 2) is sampled...rand: 0.519593, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 344:
+	(0, 1) is sampled...rand: 0.840801, prob: 1.000000
+	(0, 2) is sampled...rand: 0.789603, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 345:
+	(0, 1) is sampled...rand: 0.313458, prob: 1.000000
+	(0, 2) is sampled...rand: 0.726647, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 346:
+	(0, 1) is sampled...rand: 0.116278, prob: 1.000000
+	(0, 2) is sampled...rand: 0.307145, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 347:
+	(0, 1) is sampled...rand: 0.735491, prob: 1.000000
+	(0, 2) is sampled...rand: 0.588519, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 348:
+	(0, 1) is sampled...rand: 0.388555, prob: 1.000000
+	(0, 2) is sampled...rand: 0.936923, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 349:
+	(0, 1) is sampled...rand: 0.608223, prob: 1.000000
+	(0, 2) is sampled...rand: 0.843150, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 350:
+	(0, 1) is sampled...rand: 0.402383, prob: 1.000000
+	(0, 2) is sampled...rand: 0.805522, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 351:
+	(0, 1) is sampled...rand: 0.683568, prob: 1.000000
+	(0, 2) is sampled...rand: 0.222567, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 352:
+	(0, 1) is sampled...rand: 0.861660, prob: 1.000000
+	(0, 2) is sampled...rand: 0.523990, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 353:
+	(0, 1) is sampled...rand: 0.487746, prob: 1.000000
+	(0, 2) is sampled...rand: 0.835164, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 354:
+	(0, 1) is sampled...rand: 0.043398, prob: 1.000000
+	(0, 2) is sampled...rand: 0.640196, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 355:
+	(0, 1) is sampled...rand: 0.315252, prob: 1.000000
+	(0, 2) is sampled...rand: 0.481707, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 356:
+	(0, 1) is sampled...rand: 0.982929, prob: 1.000000
+	(0, 2) is sampled...rand: 0.379114, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 357:
+	(0, 1) is sampled...rand: 0.776721, prob: 1.000000
+	(0, 2) is sampled...rand: 0.237946, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 358:
+	(0, 1) is sampled...rand: 0.035276, prob: 1.000000
+	(0, 2) is sampled...rand: 0.540091, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 359:
+	(0, 1) is sampled...rand: 0.128273, prob: 1.000000
+	(0, 2) is sampled...rand: 0.280014, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 360:
+	(0, 1) is sampled...rand: 0.041383, prob: 1.000000
+	(0, 2) is sampled...rand: 0.106313, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 361:
+	(0, 1) is sampled...rand: 0.225439, prob: 1.000000
+	(0, 2) is sampled...rand: 0.129975, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 362:
+	(0, 1) is sampled...rand: 0.981666, prob: 1.000000
+	(0, 2) is sampled...rand: 0.165093, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 363:
+	(0, 1) is sampled...rand: 0.484456, prob: 1.000000
+	(0, 2) is sampled...rand: 0.542301, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 364:
+	(0, 1) is sampled...rand: 0.747882, prob: 1.000000
+	(0, 2) is sampled...rand: 0.604169, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 365:
+	(0, 1) is sampled...rand: 0.917106, prob: 1.000000
+	(0, 2) is sampled...rand: 0.423006, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 366:
+	(0, 1) is sampled...rand: 0.610881, prob: 1.000000
+	(0, 2) is sampled...rand: 0.918752, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 367:
+	(0, 1) is sampled...rand: 0.586406, prob: 1.000000
+	(0, 2) is sampled...rand: 0.368386, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 368:
+	(0, 1) is sampled...rand: 0.994166, prob: 1.000000
+	(0, 2) is sampled...rand: 0.868858, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 369:
+	(0, 1) is sampled...rand: 0.428571, prob: 1.000000
+	(0, 2) is sampled...rand: 0.681771, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 370:
+	(0, 1) is sampled...rand: 0.246428, prob: 1.000000
+	(0, 2) is sampled...rand: 0.282066, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 371:
+	(0, 1) is sampled...rand: 0.731089, prob: 1.000000
+	(0, 2) is sampled...rand: 0.557132, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 372:
+	(0, 1) is sampled...rand: 0.660476, prob: 1.000000
+	(0, 2) is sampled...rand: 0.688740, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 373:
+	(0, 1) is sampled...rand: 0.937417, prob: 1.000000
+	(0, 2) is sampled...rand: 0.858426, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 374:
+	(0, 1) is sampled...rand: 0.563765, prob: 1.000000
+	(0, 2) is sampled...rand: 0.193668, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 375:
+	(0, 1) is sampled...rand: 0.120817, prob: 1.000000
+	(0, 2) is sampled...rand: 0.504022, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 376:
+	(0, 1) is sampled...rand: 0.698995, prob: 1.000000
+	(0, 2) is sampled...rand: 0.550187, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 377:
+	(0, 1) is sampled...rand: 0.838664, prob: 1.000000
+	(0, 2) is sampled...rand: 0.085550, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 378:
+	(0, 1) is sampled...rand: 0.759511, prob: 1.000000
+	(0, 2) is sampled...rand: 0.307707, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 379:
+	(0, 1) is sampled...rand: 0.649624, prob: 1.000000
+	(0, 2) is sampled...rand: 0.839617, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 380:
+	(0, 1) is sampled...rand: 0.695774, prob: 1.000000
+	(0, 2) is sampled...rand: 0.587926, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 381:
+	(0, 1) is sampled...rand: 0.624280, prob: 1.000000
+	(0, 2) is sampled...rand: 0.762155, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 382:
+	(0, 1) is sampled...rand: 0.963942, prob: 1.000000
+	(0, 2) is sampled...rand: 0.634550, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 383:
+	(0, 1) is sampled...rand: 0.689509, prob: 1.000000
+	(0, 2) is sampled...rand: 0.795982, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 384:
+	(0, 1) is sampled...rand: 0.337410, prob: 1.000000
+	(0, 2) is sampled...rand: 0.424856, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 385:
+	(0, 1) is sampled...rand: 0.160582, prob: 1.000000
+	(0, 2) is sampled...rand: 0.131372, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 386:
+	(0, 1) is sampled...rand: 0.232726, prob: 1.000000
+	(0, 2) is sampled...rand: 0.151614, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 387:
+	(0, 1) is sampled...rand: 0.849426, prob: 1.000000
+	(0, 2) is sampled...rand: 0.255363, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 388:
+	(0, 1) is sampled...rand: 0.497798, prob: 1.000000
+	(0, 2) is sampled...rand: 0.924105, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 389:
+	(0, 1) is sampled...rand: 0.579115, prob: 1.000000
+	(0, 2) is sampled...rand: 0.420473, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 390:
+	(0, 1) is sampled...rand: 0.876947, prob: 1.000000
+	(0, 2) is sampled...rand: 0.834362, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 391:
+	(0, 1) is sampled...rand: 0.565045, prob: 1.000000
+	(0, 2) is sampled...rand: 0.254768, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 392:
+	(0, 1) is sampled...rand: 0.444320, prob: 1.000000
+	(0, 2) is sampled...rand: 0.597882, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 393:
+	(0, 1) is sampled...rand: 0.986684, prob: 1.000000
+	(0, 2) is sampled...rand: 0.981236, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 394:
+	(0, 1) is sampled...rand: 0.485332, prob: 1.000000
+	(0, 2) is sampled...rand: 0.717800, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 395:
+	(0, 1) is sampled...rand: 0.552227, prob: 1.000000
+	(0, 2) is sampled...rand: 0.322500, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 396:
+	(0, 1) is sampled...rand: 0.189003, prob: 1.000000
+	(0, 2) is sampled...rand: 0.802368, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 397:
+	(0, 1) is sampled...rand: 0.309119, prob: 1.000000
+	(0, 2) is sampled...rand: 0.776764, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 398:
+	(0, 1) is sampled...rand: 0.083113, prob: 1.000000
+	(0, 2) is sampled...rand: 0.824816, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 399:
+	(0, 1) is sampled...rand: 0.861900, prob: 1.000000
+	(0, 2) is sampled...rand: 0.567592, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 400:
+	(0, 1) is sampled...rand: 0.286883, prob: 1.000000
+	(0, 2) is sampled...rand: 0.069916, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 401:
+	(0, 1) is sampled...rand: 0.151867, prob: 1.000000
+	(0, 2) is sampled...rand: 0.049553, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 402:
+	(0, 1) is sampled...rand: 0.969475, prob: 1.000000
+	(0, 2) is sampled...rand: 0.621975, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 403:
+	(0, 1) is sampled...rand: 0.387867, prob: 1.000000
+	(0, 2) is sampled...rand: 0.112794, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 404:
+	(0, 1) is sampled...rand: 0.463948, prob: 1.000000
+	(0, 2) is sampled...rand: 0.755598, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 405:
+	(0, 1) is sampled...rand: 0.312467, prob: 1.000000
+	(0, 2) is sampled...rand: 0.822080, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 406:
+	(0, 1) is sampled...rand: 0.955408, prob: 1.000000
+	(0, 2) is sampled...rand: 0.798551, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 407:
+	(0, 1) is sampled...rand: 0.449117, prob: 1.000000
+	(0, 2) is sampled...rand: 0.550585, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 408:
+	(0, 1) is sampled...rand: 0.462583, prob: 1.000000
+	(0, 2) is sampled...rand: 0.830444, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 409:
+	(0, 1) is sampled...rand: 0.544134, prob: 1.000000
+	(0, 2) is sampled...rand: 0.021560, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 410:
+	(0, 1) is sampled...rand: 0.198845, prob: 1.000000
+	(0, 2) is sampled...rand: 0.681970, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 411:
+	(0, 1) is sampled...rand: 0.048620, prob: 1.000000
+	(0, 2) is sampled...rand: 0.485741, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 412:
+	(0, 1) is sampled...rand: 0.012495, prob: 1.000000
+	(0, 2) is sampled...rand: 0.427892, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 413:
+	(0, 1) is sampled...rand: 0.206093, prob: 1.000000
+	(0, 2) is sampled...rand: 0.250158, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 414:
+	(0, 1) is sampled...rand: 0.160279, prob: 1.000000
+	(0, 2) is sampled...rand: 0.109651, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 415:
+	(0, 1) is sampled...rand: 0.125830, prob: 1.000000
+	(0, 2) is sampled...rand: 0.099376, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 416:
+	(0, 1) is sampled...rand: 0.373119, prob: 1.000000
+	(0, 2) is sampled...rand: 0.549799, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 417:
+	(0, 1) is sampled...rand: 0.441565, prob: 1.000000
+	(0, 2) is sampled...rand: 0.320034, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 418:
+	(0, 1) is sampled...rand: 0.087628, prob: 1.000000
+	(0, 2) is sampled...rand: 0.402148, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 419:
+	(0, 1) is sampled...rand: 0.229607, prob: 1.000000
+	(0, 2) is sampled...rand: 0.391726, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 420:
+	(0, 1) is sampled...rand: 0.361767, prob: 1.000000
+	(0, 2) is sampled...rand: 0.581895, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 421:
+	(0, 1) is sampled...rand: 0.042808, prob: 1.000000
+	(0, 2) is sampled...rand: 0.096671, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 422:
+	(0, 1) is sampled...rand: 0.279118, prob: 1.000000
+	(0, 2) is sampled...rand: 0.317087, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 423:
+	(0, 1) is sampled...rand: 0.542021, prob: 1.000000
+	(0, 2) is sampled...rand: 0.078850, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 424:
+	(0, 1) is sampled...rand: 0.592927, prob: 1.000000
+	(0, 2) is sampled...rand: 0.145728, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 425:
+	(0, 1) is sampled...rand: 0.960458, prob: 1.000000
+	(0, 2) is sampled...rand: 0.806879, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 426:
+	(0, 1) is sampled...rand: 0.803726, prob: 1.000000
+	(0, 2) is sampled...rand: 0.453500, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 427:
+	(0, 1) is sampled...rand: 0.921612, prob: 1.000000
+	(0, 2) is sampled...rand: 0.839357, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 428:
+	(0, 1) is sampled...rand: 0.681726, prob: 1.000000
+	(0, 2) is sampled...rand: 0.703831, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 429:
+	(0, 1) is sampled...rand: 0.920194, prob: 1.000000
+	(0, 2) is sampled...rand: 0.731981, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 430:
+	(0, 1) is sampled...rand: 0.517266, prob: 1.000000
+	(0, 2) is sampled...rand: 0.817027, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 431:
+	(0, 1) is sampled...rand: 0.905545, prob: 1.000000
+	(0, 2) is sampled...rand: 0.312643, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 432:
+	(0, 1) is sampled...rand: 0.810964, prob: 1.000000
+	(0, 2) is sampled...rand: 0.645774, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 433:
+	(0, 1) is sampled...rand: 0.904776, prob: 1.000000
+	(0, 2) is sampled...rand: 0.563777, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 434:
+	(0, 1) is sampled...rand: 0.153121, prob: 1.000000
+	(0, 2) is sampled...rand: 0.231003, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 435:
+	(0, 1) is sampled...rand: 0.068638, prob: 1.000000
+	(0, 2) is sampled...rand: 0.911147, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 436:
+	(0, 1) is sampled...rand: 0.385927, prob: 1.000000
+	(0, 2) is sampled...rand: 0.563672, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 437:
+	(0, 1) is sampled...rand: 0.625656, prob: 1.000000
+	(0, 2) is sampled...rand: 0.731329, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 438:
+	(0, 1) is sampled...rand: 0.094701, prob: 1.000000
+	(0, 2) is sampled...rand: 0.165992, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 439:
+	(0, 1) is sampled...rand: 0.488790, prob: 1.000000
+	(0, 2) is sampled...rand: 0.430024, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 440:
+	(0, 1) is sampled...rand: 0.227232, prob: 1.000000
+	(0, 2) is sampled...rand: 0.819719, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 441:
+	(0, 1) is sampled...rand: 0.164701, prob: 1.000000
+	(0, 2) is sampled...rand: 0.072704, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 442:
+	(0, 1) is sampled...rand: 0.698073, prob: 1.000000
+	(0, 2) is sampled...rand: 0.761977, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 443:
+	(0, 1) is sampled...rand: 0.632024, prob: 1.000000
+	(0, 2) is sampled...rand: 0.221205, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 444:
+	(0, 1) is sampled...rand: 0.561945, prob: 1.000000
+	(0, 2) is sampled...rand: 0.886160, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 445:
+	(0, 1) is sampled...rand: 0.547376, prob: 1.000000
+	(0, 2) is sampled...rand: 0.508519, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 446:
+	(0, 1) is sampled...rand: 0.118941, prob: 1.000000
+	(0, 2) is sampled...rand: 0.965146, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 447:
+	(0, 1) is sampled...rand: 0.360366, prob: 1.000000
+	(0, 2) is sampled...rand: 0.063903, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 448:
+	(0, 1) is sampled...rand: 0.572535, prob: 1.000000
+	(0, 2) is sampled...rand: 0.774623, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 449:
+	(0, 1) is sampled...rand: 0.819159, prob: 1.000000
+	(0, 2) is sampled...rand: 0.615273, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 450:
+	(0, 1) is sampled...rand: 0.551067, prob: 1.000000
+	(0, 2) is sampled...rand: 0.644970, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 451:
+	(0, 1) is sampled...rand: 0.762490, prob: 1.000000
+	(0, 2) is sampled...rand: 0.906139, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 452:
+	(0, 1) is sampled...rand: 0.220456, prob: 1.000000
+	(0, 2) is sampled...rand: 0.830908, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 453:
+	(0, 1) is sampled...rand: 0.738543, prob: 1.000000
+	(0, 2) is sampled...rand: 0.554530, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 454:
+	(0, 1) is sampled...rand: 0.128628, prob: 1.000000
+	(0, 2) is sampled...rand: 0.285008, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 455:
+	(0, 1) is sampled...rand: 0.899509, prob: 1.000000
+	(0, 2) is sampled...rand: 0.735402, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 456:
+	(0, 1) is sampled...rand: 0.248814, prob: 1.000000
+	(0, 2) is sampled...rand: 0.691482, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 457:
+	(0, 1) is sampled...rand: 0.470004, prob: 1.000000
+	(0, 2) is sampled...rand: 0.698220, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 458:
+	(0, 1) is sampled...rand: 0.309553, prob: 1.000000
+	(0, 2) is sampled...rand: 0.088625, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 459:
+	(0, 1) is sampled...rand: 0.244540, prob: 1.000000
+	(0, 2) is sampled...rand: 0.834367, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 460:
+	(0, 1) is sampled...rand: 0.529686, prob: 1.000000
+	(0, 2) is sampled...rand: 0.601250, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 461:
+	(0, 1) is sampled...rand: 0.528591, prob: 1.000000
+	(0, 2) is sampled...rand: 0.222755, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 462:
+	(0, 1) is sampled...rand: 0.957671, prob: 1.000000
+	(0, 2) is sampled...rand: 0.312697, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 463:
+	(0, 1) is sampled...rand: 0.631677, prob: 1.000000
+	(0, 2) is sampled...rand: 0.408128, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 464:
+	(0, 1) is sampled...rand: 0.863533, prob: 1.000000
+	(0, 2) is sampled...rand: 0.758809, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 465:
+	(0, 1) is sampled...rand: 0.436189, prob: 1.000000
+	(0, 2) is sampled...rand: 0.807173, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 466:
+	(0, 1) is sampled...rand: 0.361193, prob: 1.000000
+	(0, 2) is sampled...rand: 0.186938, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 467:
+	(0, 1) is sampled...rand: 0.036780, prob: 1.000000
+	(0, 2) is sampled...rand: 0.536546, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 468:
+	(0, 1) is sampled...rand: 0.092993, prob: 1.000000
+	(0, 2) is sampled...rand: 0.821470, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 469:
+	(0, 1) is sampled...rand: 0.891199, prob: 1.000000
+	(0, 2) is sampled...rand: 0.898167, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 470:
+	(0, 1) is sampled...rand: 0.408870, prob: 1.000000
+	(0, 2) is sampled...rand: 0.325019, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 471:
+	(0, 1) is sampled...rand: 0.062478, prob: 1.000000
+	(0, 2) is sampled...rand: 0.984775, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 472:
+	(0, 1) is sampled...rand: 0.423010, prob: 1.000000
+	(0, 2) is sampled...rand: 0.107863, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 473:
+	(0, 1) is sampled...rand: 0.744061, prob: 1.000000
+	(0, 2) is sampled...rand: 0.880251, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 474:
+	(0, 1) is sampled...rand: 0.119897, prob: 1.000000
+	(0, 2) is sampled...rand: 0.489900, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 475:
+	(0, 1) is sampled...rand: 0.065652, prob: 1.000000
+	(0, 2) is sampled...rand: 0.891414, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 476:
+	(0, 1) is sampled...rand: 0.487219, prob: 1.000000
+	(0, 2) is sampled...rand: 0.475841, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 477:
+	(0, 1) is sampled...rand: 0.555906, prob: 1.000000
+	(0, 2) is sampled...rand: 0.855432, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 478:
+	(0, 1) is sampled...rand: 0.469745, prob: 1.000000
+	(0, 2) is sampled...rand: 0.619037, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 479:
+	(0, 1) is sampled...rand: 0.816784, prob: 1.000000
+	(0, 2) is sampled...rand: 0.507916, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000
+sample 480:
+	(0, 1) is sampled...rand: 0.018323, prob: 1.000000
+	(0, 2) is sampled...rand: 0.844064, prob: 1.000000
+		H(0)= 1.000000
+		H(1)= 0.750000
+		H(2)= 0.750000

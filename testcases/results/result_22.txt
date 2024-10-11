@@ -1,0 +1,4324 @@
+0.16667,0.16667,0.16667,0.16667
+0.16667,0.16667,0.16667,0.16667
+durPSP: 0
+durMC: 2
+sample 1:
+	(0, 1) is sampled...rand: 0.117729, prob: 1.000000
+	(0, 2) is sampled...rand: 0.000258, prob: 1.000000
+	(1, 3) is sampled...rand: 0.238717, prob: 1.000000
+	(2, 3) is sampled...rand: 0.352289, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 2:
+	(0, 1) is sampled...rand: 0.037290, prob: 1.000000
+	(0, 2) is sampled...rand: 0.480411, prob: 1.000000
+	(1, 3) is sampled...rand: 0.347678, prob: 1.000000
+	(2, 3) is sampled...rand: 0.218134, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 3:
+	(0, 1) is sampled...rand: 0.682977, prob: 1.000000
+	(0, 2) is sampled...rand: 0.308421, prob: 1.000000
+	(1, 3) is sampled...rand: 0.678039, prob: 1.000000
+	(2, 3) is sampled...rand: 0.104608, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 4:
+	(0, 1) is sampled...rand: 0.276182, prob: 1.000000
+	(0, 2) is sampled...rand: 0.369620, prob: 1.000000
+	(1, 3) is sampled...rand: 0.429324, prob: 1.000000
+	(2, 3) is sampled...rand: 0.880856, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 5:
+	(0, 1) is sampled...rand: 0.426620, prob: 1.000000
+	(0, 2) is sampled...rand: 0.539203, prob: 1.000000
+	(1, 3) is sampled...rand: 0.572664, prob: 1.000000
+	(2, 3) is sampled...rand: 0.090850, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 6:
+	(0, 1) is sampled...rand: 0.804253, prob: 1.000000
+	(0, 2) is sampled...rand: 0.480930, prob: 1.000000
+	(1, 3) is sampled...rand: 0.821423, prob: 1.000000
+	(2, 3) is sampled...rand: 0.965036, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 7:
+	(0, 1) is sampled...rand: 0.089730, prob: 1.000000
+	(0, 2) is sampled...rand: 0.573484, prob: 1.000000
+	(1, 3) is sampled...rand: 0.661577, prob: 1.000000
+	(2, 3) is sampled...rand: 0.323120, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 8:
+	(0, 1) is sampled...rand: 0.431099, prob: 1.000000
+	(0, 2) is sampled...rand: 0.039775, prob: 1.000000
+	(1, 3) is sampled...rand: 0.190233, prob: 1.000000
+	(2, 3) is sampled...rand: 0.139425, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 9:
+	(0, 1) is sampled...rand: 0.770672, prob: 1.000000
+	(0, 2) is sampled...rand: 0.135388, prob: 1.000000
+	(1, 3) is sampled...rand: 0.537414, prob: 1.000000
+	(2, 3) is sampled...rand: 0.395655, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 10:
+	(0, 1) is sampled...rand: 0.685085, prob: 1.000000
+	(0, 2) is sampled...rand: 0.082990, prob: 1.000000
+	(1, 3) is sampled...rand: 0.930765, prob: 1.000000
+	(2, 3) is sampled...rand: 0.668258, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 11:
+	(0, 1) is sampled...rand: 0.432131, prob: 1.000000
+	(0, 2) is sampled...rand: 0.556578, prob: 1.000000
+	(1, 3) is sampled...rand: 0.635412, prob: 1.000000
+	(2, 3) is sampled...rand: 0.253226, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 12:
+	(0, 1) is sampled...rand: 0.442129, prob: 1.000000
+	(0, 2) is sampled...rand: 0.065397, prob: 1.000000
+	(1, 3) is sampled...rand: 0.890719, prob: 1.000000
+	(2, 3) is sampled...rand: 0.880470, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 13:
+	(0, 1) is sampled...rand: 0.850389, prob: 1.000000
+	(0, 2) is sampled...rand: 0.342341, prob: 1.000000
+	(1, 3) is sampled...rand: 0.335619, prob: 1.000000
+	(2, 3) is sampled...rand: 0.353513, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 14:
+	(0, 1) is sampled...rand: 0.097097, prob: 1.000000
+	(0, 2) is sampled...rand: 0.235419, prob: 1.000000
+	(1, 3) is sampled...rand: 0.393472, prob: 1.000000
+	(2, 3) is sampled...rand: 0.962855, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 15:
+	(0, 1) is sampled...rand: 0.768716, prob: 1.000000
+	(0, 2) is sampled...rand: 0.416146, prob: 1.000000
+	(1, 3) is sampled...rand: 0.963799, prob: 1.000000
+	(2, 3) is sampled...rand: 0.899018, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 16:
+	(0, 1) is sampled...rand: 0.502922, prob: 1.000000
+	(0, 2) is sampled...rand: 0.871334, prob: 1.000000
+	(1, 3) is sampled...rand: 0.628877, prob: 1.000000
+	(2, 3) is sampled...rand: 0.977343, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 17:
+	(0, 1) is sampled...rand: 0.042004, prob: 1.000000
+	(0, 2) is sampled...rand: 0.894324, prob: 1.000000
+	(1, 3) is sampled...rand: 0.764853, prob: 1.000000
+	(2, 3) is sampled...rand: 0.314412, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 18:
+	(0, 1) is sampled...rand: 0.835178, prob: 1.000000
+	(0, 2) is sampled...rand: 0.702729, prob: 1.000000
+	(1, 3) is sampled...rand: 0.207973, prob: 1.000000
+	(2, 3) is sampled...rand: 0.891858, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 19:
+	(0, 1) is sampled...rand: 0.598687, prob: 1.000000
+	(0, 2) is sampled...rand: 0.977420, prob: 1.000000
+	(1, 3) is sampled...rand: 0.771619, prob: 1.000000
+	(2, 3) is sampled...rand: 0.583089, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 20:
+	(0, 1) is sampled...rand: 0.608970, prob: 1.000000
+	(0, 2) is sampled...rand: 0.008760, prob: 1.000000
+	(1, 3) is sampled...rand: 0.854909, prob: 1.000000
+	(2, 3) is sampled...rand: 0.568794, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 21:
+	(0, 1) is sampled...rand: 0.030021, prob: 1.000000
+	(0, 2) is sampled...rand: 0.201590, prob: 1.000000
+	(1, 3) is sampled...rand: 0.005105, prob: 1.000000
+	(2, 3) is sampled...rand: 0.742572, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 22:
+	(0, 1) is sampled...rand: 0.910666, prob: 1.000000
+	(0, 2) is sampled...rand: 0.264249, prob: 1.000000
+	(1, 3) is sampled...rand: 0.769485, prob: 1.000000
+	(2, 3) is sampled...rand: 0.229483, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 23:
+	(0, 1) is sampled...rand: 0.327412, prob: 1.000000
+	(0, 2) is sampled...rand: 0.183804, prob: 1.000000
+	(1, 3) is sampled...rand: 0.545617, prob: 1.000000
+	(2, 3) is sampled...rand: 0.189922, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 24:
+	(0, 1) is sampled...rand: 0.366969, prob: 1.000000
+	(0, 2) is sampled...rand: 0.352945, prob: 1.000000
+	(1, 3) is sampled...rand: 0.063370, prob: 1.000000
+	(2, 3) is sampled...rand: 0.936125, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 25:
+	(0, 1) is sampled...rand: 0.926342, prob: 1.000000
+	(0, 2) is sampled...rand: 0.147271, prob: 1.000000
+	(1, 3) is sampled...rand: 0.277276, prob: 1.000000
+	(2, 3) is sampled...rand: 0.873583, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 26:
+	(0, 1) is sampled...rand: 0.029174, prob: 1.000000
+	(0, 2) is sampled...rand: 0.036373, prob: 1.000000
+	(1, 3) is sampled...rand: 0.348110, prob: 1.000000
+	(2, 3) is sampled...rand: 0.052172, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 27:
+	(0, 1) is sampled...rand: 0.272818, prob: 1.000000
+	(0, 2) is sampled...rand: 0.528652, prob: 1.000000
+	(1, 3) is sampled...rand: 0.354496, prob: 1.000000
+	(2, 3) is sampled...rand: 0.851840, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 28:
+	(0, 1) is sampled...rand: 0.597928, prob: 1.000000
+	(0, 2) is sampled...rand: 0.710106, prob: 1.000000
+	(1, 3) is sampled...rand: 0.866850, prob: 1.000000
+	(2, 3) is sampled...rand: 0.545562, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 29:
+	(0, 1) is sampled...rand: 0.853213, prob: 1.000000
+	(0, 2) is sampled...rand: 0.825696, prob: 1.000000
+	(1, 3) is sampled...rand: 0.157173, prob: 1.000000
+	(2, 3) is sampled...rand: 0.046407, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 30:
+	(0, 1) is sampled...rand: 0.816505, prob: 1.000000
+	(0, 2) is sampled...rand: 0.040580, prob: 1.000000
+	(1, 3) is sampled...rand: 0.906376, prob: 1.000000
+	(2, 3) is sampled...rand: 0.982635, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 31:
+	(0, 1) is sampled...rand: 0.918355, prob: 1.000000
+	(0, 2) is sampled...rand: 0.751693, prob: 1.000000
+	(1, 3) is sampled...rand: 0.133228, prob: 1.000000
+	(2, 3) is sampled...rand: 0.712318, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 32:
+	(0, 1) is sampled...rand: 0.789296, prob: 1.000000
+	(0, 2) is sampled...rand: 0.732028, prob: 1.000000
+	(1, 3) is sampled...rand: 0.869222, prob: 1.000000
+	(2, 3) is sampled...rand: 0.618381, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 33:
+	(0, 1) is sampled...rand: 0.320961, prob: 1.000000
+	(0, 2) is sampled...rand: 0.858343, prob: 1.000000
+	(1, 3) is sampled...rand: 0.663913, prob: 1.000000
+	(2, 3) is sampled...rand: 0.964355, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 34:
+	(0, 1) is sampled...rand: 0.197465, prob: 1.000000
+	(0, 2) is sampled...rand: 0.338199, prob: 1.000000
+	(1, 3) is sampled...rand: 0.807903, prob: 1.000000
+	(2, 3) is sampled...rand: 0.136681, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 35:
+	(0, 1) is sampled...rand: 0.191537, prob: 1.000000
+	(0, 2) is sampled...rand: 0.801487, prob: 1.000000
+	(1, 3) is sampled...rand: 0.382879, prob: 1.000000
+	(2, 3) is sampled...rand: 0.926210, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 36:
+	(0, 1) is sampled...rand: 0.997552, prob: 1.000000
+	(0, 2) is sampled...rand: 0.259205, prob: 1.000000
+	(1, 3) is sampled...rand: 0.508440, prob: 1.000000
+	(2, 3) is sampled...rand: 0.526164, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 37:
+	(0, 1) is sampled...rand: 0.936937, prob: 1.000000
+	(0, 2) is sampled...rand: 0.886589, prob: 1.000000
+	(1, 3) is sampled...rand: 0.611020, prob: 1.000000
+	(2, 3) is sampled...rand: 0.132353, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 38:
+	(0, 1) is sampled...rand: 0.467043, prob: 1.000000
+	(0, 2) is sampled...rand: 0.009586, prob: 1.000000
+	(1, 3) is sampled...rand: 0.640512, prob: 1.000000
+	(2, 3) is sampled...rand: 0.555886, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 39:
+	(0, 1) is sampled...rand: 0.226388, prob: 1.000000
+	(0, 2) is sampled...rand: 0.538919, prob: 1.000000
+	(1, 3) is sampled...rand: 0.915635, prob: 1.000000
+	(2, 3) is sampled...rand: 0.131499, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 40:
+	(0, 1) is sampled...rand: 0.399178, prob: 1.000000
+	(0, 2) is sampled...rand: 0.475061, prob: 1.000000
+	(1, 3) is sampled...rand: 0.029845, prob: 1.000000
+	(2, 3) is sampled...rand: 0.397088, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 41:
+	(0, 1) is sampled...rand: 0.755231, prob: 1.000000
+	(0, 2) is sampled...rand: 0.565171, prob: 1.000000
+	(1, 3) is sampled...rand: 0.388935, prob: 1.000000
+	(2, 3) is sampled...rand: 0.631470, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 42:
+	(0, 1) is sampled...rand: 0.741288, prob: 1.000000
+	(0, 2) is sampled...rand: 0.317981, prob: 1.000000
+	(1, 3) is sampled...rand: 0.856631, prob: 1.000000
+	(2, 3) is sampled...rand: 0.995534, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 43:
+	(0, 1) is sampled...rand: 0.357819, prob: 1.000000
+	(0, 2) is sampled...rand: 0.897076, prob: 1.000000
+	(1, 3) is sampled...rand: 0.740051, prob: 1.000000
+	(2, 3) is sampled...rand: 0.234861, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 44:
+	(0, 1) is sampled...rand: 0.272548, prob: 1.000000
+	(0, 2) is sampled...rand: 0.470607, prob: 1.000000
+	(1, 3) is sampled...rand: 0.391560, prob: 1.000000
+	(2, 3) is sampled...rand: 0.227505, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 45:
+	(0, 1) is sampled...rand: 0.843426, prob: 1.000000
+	(0, 2) is sampled...rand: 0.957835, prob: 1.000000
+	(1, 3) is sampled...rand: 0.634456, prob: 1.000000
+	(2, 3) is sampled...rand: 0.934022, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 46:
+	(0, 1) is sampled...rand: 0.636417, prob: 1.000000
+	(0, 2) is sampled...rand: 0.127398, prob: 1.000000
+	(1, 3) is sampled...rand: 0.517710, prob: 1.000000
+	(2, 3) is sampled...rand: 0.240508, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 47:
+	(0, 1) is sampled...rand: 0.112345, prob: 1.000000
+	(0, 2) is sampled...rand: 0.879157, prob: 1.000000
+	(1, 3) is sampled...rand: 0.206262, prob: 1.000000
+	(2, 3) is sampled...rand: 0.868124, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 48:
+	(0, 1) is sampled...rand: 0.191967, prob: 1.000000
+	(0, 2) is sampled...rand: 0.524506, prob: 1.000000
+	(1, 3) is sampled...rand: 0.549155, prob: 1.000000
+	(2, 3) is sampled...rand: 0.166439, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 49:
+	(0, 1) is sampled...rand: 0.318656, prob: 1.000000
+	(0, 2) is sampled...rand: 0.930407, prob: 1.000000
+	(1, 3) is sampled...rand: 0.704834, prob: 1.000000
+	(2, 3) is sampled...rand: 0.649989, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 50:
+	(0, 1) is sampled...rand: 0.137580, prob: 1.000000
+	(0, 2) is sampled...rand: 0.495075, prob: 1.000000
+	(1, 3) is sampled...rand: 0.722890, prob: 1.000000
+	(2, 3) is sampled...rand: 0.490720, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 51:
+	(0, 1) is sampled...rand: 0.554253, prob: 1.000000
+	(0, 2) is sampled...rand: 0.850354, prob: 1.000000
+	(1, 3) is sampled...rand: 0.969660, prob: 1.000000
+	(2, 3) is sampled...rand: 0.639946, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 52:
+	(0, 1) is sampled...rand: 0.204390, prob: 1.000000
+	(0, 2) is sampled...rand: 0.152137, prob: 1.000000
+	(1, 3) is sampled...rand: 0.012378, prob: 1.000000
+	(2, 3) is sampled...rand: 0.621527, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 53:
+	(0, 1) is sampled...rand: 0.303685, prob: 1.000000
+	(0, 2) is sampled...rand: 0.936655, prob: 1.000000
+	(1, 3) is sampled...rand: 0.216860, prob: 1.000000
+	(2, 3) is sampled...rand: 0.142947, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 54:
+	(0, 1) is sampled...rand: 0.582549, prob: 1.000000
+	(0, 2) is sampled...rand: 0.893001, prob: 1.000000
+	(1, 3) is sampled...rand: 0.901794, prob: 1.000000
+	(2, 3) is sampled...rand: 0.187971, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 55:
+	(0, 1) is sampled...rand: 0.452590, prob: 1.000000
+	(0, 2) is sampled...rand: 0.342588, prob: 1.000000
+	(1, 3) is sampled...rand: 0.666201, prob: 1.000000
+	(2, 3) is sampled...rand: 0.939574, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 56:
+	(0, 1) is sampled...rand: 0.379066, prob: 1.000000
+	(0, 2) is sampled...rand: 0.261294, prob: 1.000000
+	(1, 3) is sampled...rand: 0.741423, prob: 1.000000
+	(2, 3) is sampled...rand: 0.510776, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 57:
+	(0, 1) is sampled...rand: 0.542929, prob: 1.000000
+	(0, 2) is sampled...rand: 0.633316, prob: 1.000000
+	(1, 3) is sampled...rand: 0.146115, prob: 1.000000
+	(2, 3) is sampled...rand: 0.195188, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 58:
+	(0, 1) is sampled...rand: 0.774372, prob: 1.000000
+	(0, 2) is sampled...rand: 0.988500, prob: 1.000000
+	(1, 3) is sampled...rand: 0.233716, prob: 1.000000
+	(2, 3) is sampled...rand: 0.121527, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 59:
+	(0, 1) is sampled...rand: 0.293214, prob: 1.000000
+	(0, 2) is sampled...rand: 0.196495, prob: 1.000000
+	(1, 3) is sampled...rand: 0.210645, prob: 1.000000
+	(2, 3) is sampled...rand: 0.249503, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 60:
+	(0, 1) is sampled...rand: 0.633542, prob: 1.000000
+	(0, 2) is sampled...rand: 0.755115, prob: 1.000000
+	(1, 3) is sampled...rand: 0.812830, prob: 1.000000
+	(2, 3) is sampled...rand: 0.513689, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 61:
+	(0, 1) is sampled...rand: 0.319812, prob: 1.000000
+	(0, 2) is sampled...rand: 0.319709, prob: 1.000000
+	(1, 3) is sampled...rand: 0.671138, prob: 1.000000
+	(2, 3) is sampled...rand: 0.975374, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 62:
+	(0, 1) is sampled...rand: 0.052966, prob: 1.000000
+	(0, 2) is sampled...rand: 0.454492, prob: 1.000000
+	(1, 3) is sampled...rand: 0.398813, prob: 1.000000
+	(2, 3) is sampled...rand: 0.439434, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 63:
+	(0, 1) is sampled...rand: 0.406729, prob: 1.000000
+	(0, 2) is sampled...rand: 0.316065, prob: 1.000000
+	(1, 3) is sampled...rand: 0.297861, prob: 1.000000
+	(2, 3) is sampled...rand: 0.299578, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 64:
+	(0, 1) is sampled...rand: 0.584357, prob: 1.000000
+	(0, 2) is sampled...rand: 0.667372, prob: 1.000000
+	(1, 3) is sampled...rand: 0.074665, prob: 1.000000
+	(2, 3) is sampled...rand: 0.896134, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 65:
+	(0, 1) is sampled...rand: 0.712221, prob: 1.000000
+	(0, 2) is sampled...rand: 0.814410, prob: 1.000000
+	(1, 3) is sampled...rand: 0.459965, prob: 1.000000
+	(2, 3) is sampled...rand: 0.621645, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 66:
+	(0, 1) is sampled...rand: 0.733417, prob: 1.000000
+	(0, 2) is sampled...rand: 0.170833, prob: 1.000000
+	(1, 3) is sampled...rand: 0.159591, prob: 1.000000
+	(2, 3) is sampled...rand: 0.217766, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 67:
+	(0, 1) is sampled...rand: 0.225272, prob: 1.000000
+	(0, 2) is sampled...rand: 0.406343, prob: 1.000000
+	(1, 3) is sampled...rand: 0.962323, prob: 1.000000
+	(2, 3) is sampled...rand: 0.340835, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 68:
+	(0, 1) is sampled...rand: 0.857705, prob: 1.000000
+	(0, 2) is sampled...rand: 0.433509, prob: 1.000000
+	(1, 3) is sampled...rand: 0.505047, prob: 1.000000
+	(2, 3) is sampled...rand: 0.344770, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 69:
+	(0, 1) is sampled...rand: 0.665895, prob: 1.000000
+	(0, 2) is sampled...rand: 0.257596, prob: 1.000000
+	(1, 3) is sampled...rand: 0.816522, prob: 1.000000
+	(2, 3) is sampled...rand: 0.004776, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 70:
+	(0, 1) is sampled...rand: 0.186536, prob: 1.000000
+	(0, 2) is sampled...rand: 0.299829, prob: 1.000000
+	(1, 3) is sampled...rand: 0.489237, prob: 1.000000
+	(2, 3) is sampled...rand: 0.496744, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 71:
+	(0, 1) is sampled...rand: 0.119914, prob: 1.000000
+	(0, 2) is sampled...rand: 0.177288, prob: 1.000000
+	(1, 3) is sampled...rand: 0.892464, prob: 1.000000
+	(2, 3) is sampled...rand: 0.517031, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 72:
+	(0, 1) is sampled...rand: 0.013578, prob: 1.000000
+	(0, 2) is sampled...rand: 0.541706, prob: 1.000000
+	(1, 3) is sampled...rand: 0.631194, prob: 1.000000
+	(2, 3) is sampled...rand: 0.003323, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 73:
+	(0, 1) is sampled...rand: 0.819354, prob: 1.000000
+	(0, 2) is sampled...rand: 0.821315, prob: 1.000000
+	(1, 3) is sampled...rand: 0.467174, prob: 1.000000
+	(2, 3) is sampled...rand: 0.191305, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 74:
+	(0, 1) is sampled...rand: 0.356956, prob: 1.000000
+	(0, 2) is sampled...rand: 0.319183, prob: 1.000000
+	(1, 3) is sampled...rand: 0.009106, prob: 1.000000
+	(2, 3) is sampled...rand: 0.262080, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 75:
+	(0, 1) is sampled...rand: 0.222638, prob: 1.000000
+	(0, 2) is sampled...rand: 0.017883, prob: 1.000000
+	(1, 3) is sampled...rand: 0.298214, prob: 1.000000
+	(2, 3) is sampled...rand: 0.598427, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 76:
+	(0, 1) is sampled...rand: 0.134301, prob: 1.000000
+	(0, 2) is sampled...rand: 0.407831, prob: 1.000000
+	(1, 3) is sampled...rand: 0.369896, prob: 1.000000
+	(2, 3) is sampled...rand: 0.212411, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 77:
+	(0, 1) is sampled...rand: 0.615040, prob: 1.000000
+	(0, 2) is sampled...rand: 0.895275, prob: 1.000000
+	(1, 3) is sampled...rand: 0.176208, prob: 1.000000
+	(2, 3) is sampled...rand: 0.434746, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 78:
+	(0, 1) is sampled...rand: 0.417064, prob: 1.000000
+	(0, 2) is sampled...rand: 0.064130, prob: 1.000000
+	(1, 3) is sampled...rand: 0.952158, prob: 1.000000
+	(2, 3) is sampled...rand: 0.431925, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 79:
+	(0, 1) is sampled...rand: 0.445077, prob: 1.000000
+	(0, 2) is sampled...rand: 0.858438, prob: 1.000000
+	(1, 3) is sampled...rand: 0.442546, prob: 1.000000
+	(2, 3) is sampled...rand: 0.952946, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 80:
+	(0, 1) is sampled...rand: 0.416489, prob: 1.000000
+	(0, 2) is sampled...rand: 0.662759, prob: 1.000000
+	(1, 3) is sampled...rand: 0.384770, prob: 1.000000
+	(2, 3) is sampled...rand: 0.473606, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 81:
+	(0, 1) is sampled...rand: 0.561194, prob: 1.000000
+	(0, 2) is sampled...rand: 0.132584, prob: 1.000000
+	(1, 3) is sampled...rand: 0.998237, prob: 1.000000
+	(2, 3) is sampled...rand: 0.544513, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 82:
+	(0, 1) is sampled...rand: 0.636474, prob: 1.000000
+	(0, 2) is sampled...rand: 0.293764, prob: 1.000000
+	(1, 3) is sampled...rand: 0.931243, prob: 1.000000
+	(2, 3) is sampled...rand: 0.211791, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 83:
+	(0, 1) is sampled...rand: 0.141856, prob: 1.000000
+	(0, 2) is sampled...rand: 0.555989, prob: 1.000000
+	(1, 3) is sampled...rand: 0.022725, prob: 1.000000
+	(2, 3) is sampled...rand: 0.963727, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 84:
+	(0, 1) is sampled...rand: 0.254768, prob: 1.000000
+	(0, 2) is sampled...rand: 0.788994, prob: 1.000000
+	(1, 3) is sampled...rand: 0.246531, prob: 1.000000
+	(2, 3) is sampled...rand: 0.746797, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 85:
+	(0, 1) is sampled...rand: 0.324156, prob: 1.000000
+	(0, 2) is sampled...rand: 0.608372, prob: 1.000000
+	(1, 3) is sampled...rand: 0.669152, prob: 1.000000
+	(2, 3) is sampled...rand: 0.662547, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 86:
+	(0, 1) is sampled...rand: 0.482670, prob: 1.000000
+	(0, 2) is sampled...rand: 0.468647, prob: 1.000000
+	(1, 3) is sampled...rand: 0.880711, prob: 1.000000
+	(2, 3) is sampled...rand: 0.512847, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 87:
+	(0, 1) is sampled...rand: 0.071966, prob: 1.000000
+	(0, 2) is sampled...rand: 0.193342, prob: 1.000000
+	(1, 3) is sampled...rand: 0.558683, prob: 1.000000
+	(2, 3) is sampled...rand: 0.739996, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 88:
+	(0, 1) is sampled...rand: 0.097256, prob: 1.000000
+	(0, 2) is sampled...rand: 0.807456, prob: 1.000000
+	(1, 3) is sampled...rand: 0.542433, prob: 1.000000
+	(2, 3) is sampled...rand: 0.048634, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 89:
+	(0, 1) is sampled...rand: 0.817024, prob: 1.000000
+	(0, 2) is sampled...rand: 0.660815, prob: 1.000000
+	(1, 3) is sampled...rand: 0.008411, prob: 1.000000
+	(2, 3) is sampled...rand: 0.549243, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 90:
+	(0, 1) is sampled...rand: 0.575345, prob: 1.000000
+	(0, 2) is sampled...rand: 0.610695, prob: 1.000000
+	(1, 3) is sampled...rand: 0.581085, prob: 1.000000
+	(2, 3) is sampled...rand: 0.159370, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 91:
+	(0, 1) is sampled...rand: 0.305191, prob: 1.000000
+	(0, 2) is sampled...rand: 0.507187, prob: 1.000000
+	(1, 3) is sampled...rand: 0.101784, prob: 1.000000
+	(2, 3) is sampled...rand: 0.380638, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 92:
+	(0, 1) is sampled...rand: 0.034934, prob: 1.000000
+	(0, 2) is sampled...rand: 0.869284, prob: 1.000000
+	(1, 3) is sampled...rand: 0.631254, prob: 1.000000
+	(2, 3) is sampled...rand: 0.354189, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 93:
+	(0, 1) is sampled...rand: 0.718946, prob: 1.000000
+	(0, 2) is sampled...rand: 0.091690, prob: 1.000000
+	(1, 3) is sampled...rand: 0.457925, prob: 1.000000
+	(2, 3) is sampled...rand: 0.508884, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 94:
+	(0, 1) is sampled...rand: 0.673034, prob: 1.000000
+	(0, 2) is sampled...rand: 0.973286, prob: 1.000000
+	(1, 3) is sampled...rand: 0.814635, prob: 1.000000
+	(2, 3) is sampled...rand: 0.546473, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 95:
+	(0, 1) is sampled...rand: 0.467946, prob: 1.000000
+	(0, 2) is sampled...rand: 0.598175, prob: 1.000000
+	(1, 3) is sampled...rand: 0.281522, prob: 1.000000
+	(2, 3) is sampled...rand: 0.963848, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 96:
+	(0, 1) is sampled...rand: 0.010039, prob: 1.000000
+	(0, 2) is sampled...rand: 0.095343, prob: 1.000000
+	(1, 3) is sampled...rand: 0.404689, prob: 1.000000
+	(2, 3) is sampled...rand: 0.630762, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 97:
+	(0, 1) is sampled...rand: 0.771339, prob: 1.000000
+	(0, 2) is sampled...rand: 0.058601, prob: 1.000000
+	(1, 3) is sampled...rand: 0.929764, prob: 1.000000
+	(2, 3) is sampled...rand: 0.588133, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 98:
+	(0, 1) is sampled...rand: 0.120685, prob: 1.000000
+	(0, 2) is sampled...rand: 0.009020, prob: 1.000000
+	(1, 3) is sampled...rand: 0.755288, prob: 1.000000
+	(2, 3) is sampled...rand: 0.643261, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 99:
+	(0, 1) is sampled...rand: 0.156489, prob: 1.000000
+	(0, 2) is sampled...rand: 0.982103, prob: 1.000000
+	(1, 3) is sampled...rand: 0.076744, prob: 1.000000
+	(2, 3) is sampled...rand: 0.039738, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 100:
+	(0, 1) is sampled...rand: 0.308674, prob: 1.000000
+	(0, 2) is sampled...rand: 0.874584, prob: 1.000000
+	(1, 3) is sampled...rand: 0.968914, prob: 1.000000
+	(2, 3) is sampled...rand: 0.810204, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 101:
+	(0, 1) is sampled...rand: 0.344570, prob: 1.000000
+	(0, 2) is sampled...rand: 0.116162, prob: 1.000000
+	(1, 3) is sampled...rand: 0.034034, prob: 1.000000
+	(2, 3) is sampled...rand: 0.243473, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 102:
+	(0, 1) is sampled...rand: 0.404571, prob: 1.000000
+	(0, 2) is sampled...rand: 0.109714, prob: 1.000000
+	(1, 3) is sampled...rand: 0.921067, prob: 1.000000
+	(2, 3) is sampled...rand: 0.651035, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 103:
+	(0, 1) is sampled...rand: 0.331920, prob: 1.000000
+	(0, 2) is sampled...rand: 0.878499, prob: 1.000000
+	(1, 3) is sampled...rand: 0.728470, prob: 1.000000
+	(2, 3) is sampled...rand: 0.014029, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 104:
+	(0, 1) is sampled...rand: 0.061801, prob: 1.000000
+	(0, 2) is sampled...rand: 0.684083, prob: 1.000000
+	(1, 3) is sampled...rand: 0.962042, prob: 1.000000
+	(2, 3) is sampled...rand: 0.279434, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 105:
+	(0, 1) is sampled...rand: 0.513207, prob: 1.000000
+	(0, 2) is sampled...rand: 0.334638, prob: 1.000000
+	(1, 3) is sampled...rand: 0.860835, prob: 1.000000
+	(2, 3) is sampled...rand: 0.902583, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 106:
+	(0, 1) is sampled...rand: 0.420940, prob: 1.000000
+	(0, 2) is sampled...rand: 0.782053, prob: 1.000000
+	(1, 3) is sampled...rand: 0.228252, prob: 1.000000
+	(2, 3) is sampled...rand: 0.390348, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 107:
+	(0, 1) is sampled...rand: 0.625789, prob: 1.000000
+	(0, 2) is sampled...rand: 0.933352, prob: 1.000000
+	(1, 3) is sampled...rand: 0.495995, prob: 1.000000
+	(2, 3) is sampled...rand: 0.690778, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 108:
+	(0, 1) is sampled...rand: 0.490785, prob: 1.000000
+	(0, 2) is sampled...rand: 0.857785, prob: 1.000000
+	(1, 3) is sampled...rand: 0.415083, prob: 1.000000
+	(2, 3) is sampled...rand: 0.757845, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 109:
+	(0, 1) is sampled...rand: 0.840089, prob: 1.000000
+	(0, 2) is sampled...rand: 0.643414, prob: 1.000000
+	(1, 3) is sampled...rand: 0.525787, prob: 1.000000
+	(2, 3) is sampled...rand: 0.208510, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 110:
+	(0, 1) is sampled...rand: 0.633569, prob: 1.000000
+	(0, 2) is sampled...rand: 0.757951, prob: 1.000000
+	(1, 3) is sampled...rand: 0.270512, prob: 1.000000
+	(2, 3) is sampled...rand: 0.973964, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 111:
+	(0, 1) is sampled...rand: 0.114975, prob: 1.000000
+	(0, 2) is sampled...rand: 0.291293, prob: 1.000000
+	(1, 3) is sampled...rand: 0.846649, prob: 1.000000
+	(2, 3) is sampled...rand: 0.720242, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 112:
+	(0, 1) is sampled...rand: 0.989528, prob: 1.000000
+	(0, 2) is sampled...rand: 0.018848, prob: 1.000000
+	(1, 3) is sampled...rand: 0.012976, prob: 1.000000
+	(2, 3) is sampled...rand: 0.208915, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 113:
+	(0, 1) is sampled...rand: 0.101559, prob: 1.000000
+	(0, 2) is sampled...rand: 0.597339, prob: 1.000000
+	(1, 3) is sampled...rand: 0.853456, prob: 1.000000
+	(2, 3) is sampled...rand: 0.923823, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 114:
+	(0, 1) is sampled...rand: 0.493523, prob: 1.000000
+	(0, 2) is sampled...rand: 0.042339, prob: 1.000000
+	(1, 3) is sampled...rand: 0.354790, prob: 1.000000
+	(2, 3) is sampled...rand: 0.532902, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 115:
+	(0, 1) is sampled...rand: 0.513513, prob: 1.000000
+	(0, 2) is sampled...rand: 0.602889, prob: 1.000000
+	(1, 3) is sampled...rand: 0.043127, prob: 1.000000
+	(2, 3) is sampled...rand: 0.618124, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 116:
+	(0, 1) is sampled...rand: 0.428968, prob: 1.000000
+	(0, 2) is sampled...rand: 0.275699, prob: 1.000000
+	(1, 3) is sampled...rand: 0.868031, prob: 1.000000
+	(2, 3) is sampled...rand: 0.125199, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 117:
+	(0, 1) is sampled...rand: 0.655183, prob: 1.000000
+	(0, 2) is sampled...rand: 0.853338, prob: 1.000000
+	(1, 3) is sampled...rand: 0.661689, prob: 1.000000
+	(2, 3) is sampled...rand: 0.191918, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 118:
+	(0, 1) is sampled...rand: 0.168915, prob: 1.000000
+	(0, 2) is sampled...rand: 0.757571, prob: 1.000000
+	(1, 3) is sampled...rand: 0.059543, prob: 1.000000
+	(2, 3) is sampled...rand: 0.945904, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 119:
+	(0, 1) is sampled...rand: 0.601756, prob: 1.000000
+	(0, 2) is sampled...rand: 0.069915, prob: 1.000000
+	(1, 3) is sampled...rand: 0.339612, prob: 1.000000
+	(2, 3) is sampled...rand: 0.494667, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 120:
+	(0, 1) is sampled...rand: 0.148847, prob: 1.000000
+	(0, 2) is sampled...rand: 0.334629, prob: 1.000000
+	(1, 3) is sampled...rand: 0.476569, prob: 1.000000
+	(2, 3) is sampled...rand: 0.114704, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 121:
+	(0, 1) is sampled...rand: 0.742822, prob: 1.000000
+	(0, 2) is sampled...rand: 0.576659, prob: 1.000000
+	(1, 3) is sampled...rand: 0.429202, prob: 1.000000
+	(2, 3) is sampled...rand: 0.830401, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 122:
+	(0, 1) is sampled...rand: 0.923695, prob: 1.000000
+	(0, 2) is sampled...rand: 0.465290, prob: 1.000000
+	(1, 3) is sampled...rand: 0.428887, prob: 1.000000
+	(2, 3) is sampled...rand: 0.878146, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 123:
+	(0, 1) is sampled...rand: 0.684251, prob: 1.000000
+	(0, 2) is sampled...rand: 0.536401, prob: 1.000000
+	(1, 3) is sampled...rand: 0.880555, prob: 1.000000
+	(2, 3) is sampled...rand: 0.661033, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 124:
+	(0, 1) is sampled...rand: 0.324894, prob: 1.000000
+	(0, 2) is sampled...rand: 0.749232, prob: 1.000000
+	(1, 3) is sampled...rand: 0.046954, prob: 1.000000
+	(2, 3) is sampled...rand: 0.775511, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 125:
+	(0, 1) is sampled...rand: 0.389777, prob: 1.000000
+	(0, 2) is sampled...rand: 0.231838, prob: 1.000000
+	(1, 3) is sampled...rand: 0.237930, prob: 1.000000
+	(2, 3) is sampled...rand: 0.677984, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 126:
+	(0, 1) is sampled...rand: 0.287329, prob: 1.000000
+	(0, 2) is sampled...rand: 0.822822, prob: 1.000000
+	(1, 3) is sampled...rand: 0.990784, prob: 1.000000
+	(2, 3) is sampled...rand: 0.937380, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 127:
+	(0, 1) is sampled...rand: 0.697073, prob: 1.000000
+	(0, 2) is sampled...rand: 0.743352, prob: 1.000000
+	(1, 3) is sampled...rand: 0.102933, prob: 1.000000
+	(2, 3) is sampled...rand: 0.379575, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 128:
+	(0, 1) is sampled...rand: 0.971529, prob: 1.000000
+	(0, 2) is sampled...rand: 0.827027, prob: 1.000000
+	(1, 3) is sampled...rand: 0.244650, prob: 1.000000
+	(2, 3) is sampled...rand: 0.748897, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 129:
+	(0, 1) is sampled...rand: 0.946182, prob: 1.000000
+	(0, 2) is sampled...rand: 0.872967, prob: 1.000000
+	(1, 3) is sampled...rand: 0.902114, prob: 1.000000
+	(2, 3) is sampled...rand: 0.928706, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 130:
+	(0, 1) is sampled...rand: 0.799881, prob: 1.000000
+	(0, 2) is sampled...rand: 0.650954, prob: 1.000000
+	(1, 3) is sampled...rand: 0.899128, prob: 1.000000
+	(2, 3) is sampled...rand: 0.531908, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 131:
+	(0, 1) is sampled...rand: 0.532848, prob: 1.000000
+	(0, 2) is sampled...rand: 0.399427, prob: 1.000000
+	(1, 3) is sampled...rand: 0.330387, prob: 1.000000
+	(2, 3) is sampled...rand: 0.349082, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 132:
+	(0, 1) is sampled...rand: 0.131492, prob: 1.000000
+	(0, 2) is sampled...rand: 0.466967, prob: 1.000000
+	(1, 3) is sampled...rand: 0.039777, prob: 1.000000
+	(2, 3) is sampled...rand: 0.204625, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 133:
+	(0, 1) is sampled...rand: 0.250191, prob: 1.000000
+	(0, 2) is sampled...rand: 0.442752, prob: 1.000000
+	(1, 3) is sampled...rand: 0.481538, prob: 1.000000
+	(2, 3) is sampled...rand: 0.329989, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 134:
+	(0, 1) is sampled...rand: 0.491393, prob: 1.000000
+	(0, 2) is sampled...rand: 0.627174, prob: 1.000000
+	(1, 3) is sampled...rand: 0.432751, prob: 1.000000
+	(2, 3) is sampled...rand: 0.305331, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 135:
+	(0, 1) is sampled...rand: 0.065272, prob: 1.000000
+	(0, 2) is sampled...rand: 0.531702, prob: 1.000000
+	(1, 3) is sampled...rand: 0.153714, prob: 1.000000
+	(2, 3) is sampled...rand: 0.110897, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 136:
+	(0, 1) is sampled...rand: 0.957326, prob: 1.000000
+	(0, 2) is sampled...rand: 0.222281, prob: 1.000000
+	(1, 3) is sampled...rand: 0.410129, prob: 1.000000
+	(2, 3) is sampled...rand: 0.698258, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 137:
+	(0, 1) is sampled...rand: 0.673944, prob: 1.000000
+	(0, 2) is sampled...rand: 0.255105, prob: 1.000000
+	(1, 3) is sampled...rand: 0.074975, prob: 1.000000
+	(2, 3) is sampled...rand: 0.846007, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 138:
+	(0, 1) is sampled...rand: 0.354709, prob: 1.000000
+	(0, 2) is sampled...rand: 0.599125, prob: 1.000000
+	(1, 3) is sampled...rand: 0.603568, prob: 1.000000
+	(2, 3) is sampled...rand: 0.050496, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 139:
+	(0, 1) is sampled...rand: 0.823543, prob: 1.000000
+	(0, 2) is sampled...rand: 0.278309, prob: 1.000000
+	(1, 3) is sampled...rand: 0.481260, prob: 1.000000
+	(2, 3) is sampled...rand: 0.987246, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 140:
+	(0, 1) is sampled...rand: 0.124005, prob: 1.000000
+	(0, 2) is sampled...rand: 0.733526, prob: 1.000000
+	(1, 3) is sampled...rand: 0.355569, prob: 1.000000
+	(2, 3) is sampled...rand: 0.997210, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 141:
+	(0, 1) is sampled...rand: 0.868936, prob: 1.000000
+	(0, 2) is sampled...rand: 0.448431, prob: 1.000000
+	(1, 3) is sampled...rand: 0.395782, prob: 1.000000
+	(2, 3) is sampled...rand: 0.620367, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 142:
+	(0, 1) is sampled...rand: 0.193948, prob: 1.000000
+	(0, 2) is sampled...rand: 0.682393, prob: 1.000000
+	(1, 3) is sampled...rand: 0.156668, prob: 1.000000
+	(2, 3) is sampled...rand: 0.638364, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 143:
+	(0, 1) is sampled...rand: 0.060448, prob: 1.000000
+	(0, 2) is sampled...rand: 0.257656, prob: 1.000000
+	(1, 3) is sampled...rand: 0.443320, prob: 1.000000
+	(2, 3) is sampled...rand: 0.790030, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 144:
+	(0, 1) is sampled...rand: 0.543851, prob: 1.000000
+	(0, 2) is sampled...rand: 0.563136, prob: 1.000000
+	(1, 3) is sampled...rand: 0.459611, prob: 1.000000
+	(2, 3) is sampled...rand: 0.926117, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 145:
+	(0, 1) is sampled...rand: 0.681481, prob: 1.000000
+	(0, 2) is sampled...rand: 0.296768, prob: 1.000000
+	(1, 3) is sampled...rand: 0.750946, prob: 1.000000
+	(2, 3) is sampled...rand: 0.453793, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 146:
+	(0, 1) is sampled...rand: 0.895566, prob: 1.000000
+	(0, 2) is sampled...rand: 0.197357, prob: 1.000000
+	(1, 3) is sampled...rand: 0.693504, prob: 1.000000
+	(2, 3) is sampled...rand: 0.008177, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 147:
+	(0, 1) is sampled...rand: 0.132592, prob: 1.000000
+	(0, 2) is sampled...rand: 0.520828, prob: 1.000000
+	(1, 3) is sampled...rand: 0.422818, prob: 1.000000
+	(2, 3) is sampled...rand: 0.030546, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 148:
+	(0, 1) is sampled...rand: 0.412199, prob: 1.000000
+	(0, 2) is sampled...rand: 0.733184, prob: 1.000000
+	(1, 3) is sampled...rand: 0.477806, prob: 1.000000
+	(2, 3) is sampled...rand: 0.505725, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 149:
+	(0, 1) is sampled...rand: 0.966461, prob: 1.000000
+	(0, 2) is sampled...rand: 0.139131, prob: 1.000000
+	(1, 3) is sampled...rand: 0.792836, prob: 1.000000
+	(2, 3) is sampled...rand: 0.236763, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 150:
+	(0, 1) is sampled...rand: 0.797352, prob: 1.000000
+	(0, 2) is sampled...rand: 0.445539, prob: 1.000000
+	(1, 3) is sampled...rand: 0.499963, prob: 1.000000
+	(2, 3) is sampled...rand: 0.217955, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 151:
+	(0, 1) is sampled...rand: 0.508131, prob: 1.000000
+	(0, 2) is sampled...rand: 0.915287, prob: 1.000000
+	(1, 3) is sampled...rand: 0.262145, prob: 1.000000
+	(2, 3) is sampled...rand: 0.863162, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 152:
+	(0, 1) is sampled...rand: 0.470617, prob: 1.000000
+	(0, 2) is sampled...rand: 0.628117, prob: 1.000000
+	(1, 3) is sampled...rand: 0.497190, prob: 1.000000
+	(2, 3) is sampled...rand: 0.410502, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 153:
+	(0, 1) is sampled...rand: 0.274595, prob: 1.000000
+	(0, 2) is sampled...rand: 0.701273, prob: 1.000000
+	(1, 3) is sampled...rand: 0.137668, prob: 1.000000
+	(2, 3) is sampled...rand: 0.391256, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 154:
+	(0, 1) is sampled...rand: 0.095618, prob: 1.000000
+	(0, 2) is sampled...rand: 0.644951, prob: 1.000000
+	(1, 3) is sampled...rand: 0.213272, prob: 1.000000
+	(2, 3) is sampled...rand: 0.318668, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 155:
+	(0, 1) is sampled...rand: 0.914092, prob: 1.000000
+	(0, 2) is sampled...rand: 0.816100, prob: 1.000000
+	(1, 3) is sampled...rand: 0.602772, prob: 1.000000
+	(2, 3) is sampled...rand: 0.317218, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 156:
+	(0, 1) is sampled...rand: 0.760911, prob: 1.000000
+	(0, 2) is sampled...rand: 0.896426, prob: 1.000000
+	(1, 3) is sampled...rand: 0.931498, prob: 1.000000
+	(2, 3) is sampled...rand: 0.084076, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 157:
+	(0, 1) is sampled...rand: 0.693699, prob: 1.000000
+	(0, 2) is sampled...rand: 0.081806, prob: 1.000000
+	(1, 3) is sampled...rand: 0.785905, prob: 1.000000
+	(2, 3) is sampled...rand: 0.978752, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 158:
+	(0, 1) is sampled...rand: 0.867937, prob: 1.000000
+	(0, 2) is sampled...rand: 0.799552, prob: 1.000000
+	(1, 3) is sampled...rand: 0.931702, prob: 1.000000
+	(2, 3) is sampled...rand: 0.582449, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 159:
+	(0, 1) is sampled...rand: 0.044151, prob: 1.000000
+	(0, 2) is sampled...rand: 0.530504, prob: 1.000000
+	(1, 3) is sampled...rand: 0.776517, prob: 1.000000
+	(2, 3) is sampled...rand: 0.455977, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 160:
+	(0, 1) is sampled...rand: 0.912994, prob: 1.000000
+	(0, 2) is sampled...rand: 0.135114, prob: 1.000000
+	(1, 3) is sampled...rand: 0.067423, prob: 1.000000
+	(2, 3) is sampled...rand: 0.771143, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 161:
+	(0, 1) is sampled...rand: 0.624904, prob: 1.000000
+	(0, 2) is sampled...rand: 0.154648, prob: 1.000000
+	(1, 3) is sampled...rand: 0.100881, prob: 1.000000
+	(2, 3) is sampled...rand: 0.391366, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 162:
+	(0, 1) is sampled...rand: 0.955955, prob: 1.000000
+	(0, 2) is sampled...rand: 0.180069, prob: 1.000000
+	(1, 3) is sampled...rand: 0.955960, prob: 1.000000
+	(2, 3) is sampled...rand: 0.501300, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 163:
+	(0, 1) is sampled...rand: 0.926944, prob: 1.000000
+	(0, 2) is sampled...rand: 0.126803, prob: 1.000000
+	(1, 3) is sampled...rand: 0.663558, prob: 1.000000
+	(2, 3) is sampled...rand: 0.560586, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 164:
+	(0, 1) is sampled...rand: 0.927343, prob: 1.000000
+	(0, 2) is sampled...rand: 0.019751, prob: 1.000000
+	(1, 3) is sampled...rand: 0.499558, prob: 1.000000
+	(2, 3) is sampled...rand: 0.307517, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 165:
+	(0, 1) is sampled...rand: 0.073276, prob: 1.000000
+	(0, 2) is sampled...rand: 0.043691, prob: 1.000000
+	(1, 3) is sampled...rand: 0.048984, prob: 1.000000
+	(2, 3) is sampled...rand: 0.682810, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 166:
+	(0, 1) is sampled...rand: 0.223992, prob: 1.000000
+	(0, 2) is sampled...rand: 0.275048, prob: 1.000000
+	(1, 3) is sampled...rand: 0.708844, prob: 1.000000
+	(2, 3) is sampled...rand: 0.533086, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 167:
+	(0, 1) is sampled...rand: 0.146944, prob: 1.000000
+	(0, 2) is sampled...rand: 0.247310, prob: 1.000000
+	(1, 3) is sampled...rand: 0.215797, prob: 1.000000
+	(2, 3) is sampled...rand: 0.905712, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 168:
+	(0, 1) is sampled...rand: 0.073816, prob: 1.000000
+	(0, 2) is sampled...rand: 0.193315, prob: 1.000000
+	(1, 3) is sampled...rand: 0.788517, prob: 1.000000
+	(2, 3) is sampled...rand: 0.528542, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 169:
+	(0, 1) is sampled...rand: 0.670725, prob: 1.000000
+	(0, 2) is sampled...rand: 0.731221, prob: 1.000000
+	(1, 3) is sampled...rand: 0.900607, prob: 1.000000
+	(2, 3) is sampled...rand: 0.448702, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 170:
+	(0, 1) is sampled...rand: 0.238870, prob: 1.000000
+	(0, 2) is sampled...rand: 0.541752, prob: 1.000000
+	(1, 3) is sampled...rand: 0.592471, prob: 1.000000
+	(2, 3) is sampled...rand: 0.511434, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 171:
+	(0, 1) is sampled...rand: 0.857879, prob: 1.000000
+	(0, 2) is sampled...rand: 0.322312, prob: 1.000000
+	(1, 3) is sampled...rand: 0.000859, prob: 1.000000
+	(2, 3) is sampled...rand: 0.960396, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 172:
+	(0, 1) is sampled...rand: 0.666378, prob: 1.000000
+	(0, 2) is sampled...rand: 0.487601, prob: 1.000000
+	(1, 3) is sampled...rand: 0.530405, prob: 1.000000
+	(2, 3) is sampled...rand: 0.195142, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 173:
+	(0, 1) is sampled...rand: 0.877538, prob: 1.000000
+	(0, 2) is sampled...rand: 0.162234, prob: 1.000000
+	(1, 3) is sampled...rand: 0.739584, prob: 1.000000
+	(2, 3) is sampled...rand: 0.402078, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 174:
+	(0, 1) is sampled...rand: 0.078431, prob: 1.000000
+	(0, 2) is sampled...rand: 0.534800, prob: 1.000000
+	(1, 3) is sampled...rand: 0.688986, prob: 1.000000
+	(2, 3) is sampled...rand: 0.611587, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 175:
+	(0, 1) is sampled...rand: 0.518658, prob: 1.000000
+	(0, 2) is sampled...rand: 0.522076, prob: 1.000000
+	(1, 3) is sampled...rand: 0.808342, prob: 1.000000
+	(2, 3) is sampled...rand: 0.333806, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 176:
+	(0, 1) is sampled...rand: 0.461359, prob: 1.000000
+	(0, 2) is sampled...rand: 0.617735, prob: 1.000000
+	(1, 3) is sampled...rand: 0.162659, prob: 1.000000
+	(2, 3) is sampled...rand: 0.543806, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 177:
+	(0, 1) is sampled...rand: 0.409705, prob: 1.000000
+	(0, 2) is sampled...rand: 0.485159, prob: 1.000000
+	(1, 3) is sampled...rand: 0.563295, prob: 1.000000
+	(2, 3) is sampled...rand: 0.275423, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 178:
+	(0, 1) is sampled...rand: 0.789322, prob: 1.000000
+	(0, 2) is sampled...rand: 0.570667, prob: 1.000000
+	(1, 3) is sampled...rand: 0.809421, prob: 1.000000
+	(2, 3) is sampled...rand: 0.615692, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 179:
+	(0, 1) is sampled...rand: 0.600678, prob: 1.000000
+	(0, 2) is sampled...rand: 0.982975, prob: 1.000000
+	(1, 3) is sampled...rand: 0.211450, prob: 1.000000
+	(2, 3) is sampled...rand: 0.279115, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 180:
+	(0, 1) is sampled...rand: 0.755114, prob: 1.000000
+	(0, 2) is sampled...rand: 0.969235, prob: 1.000000
+	(1, 3) is sampled...rand: 0.643188, prob: 1.000000
+	(2, 3) is sampled...rand: 0.004187, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 181:
+	(0, 1) is sampled...rand: 0.814711, prob: 1.000000
+	(0, 2) is sampled...rand: 0.234438, prob: 1.000000
+	(1, 3) is sampled...rand: 0.556919, prob: 1.000000
+	(2, 3) is sampled...rand: 0.070794, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 182:
+	(0, 1) is sampled...rand: 0.185824, prob: 1.000000
+	(0, 2) is sampled...rand: 0.177445, prob: 1.000000
+	(1, 3) is sampled...rand: 0.282067, prob: 1.000000
+	(2, 3) is sampled...rand: 0.639564, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 183:
+	(0, 1) is sampled...rand: 0.992545, prob: 1.000000
+	(0, 2) is sampled...rand: 0.717816, prob: 1.000000
+	(1, 3) is sampled...rand: 0.452939, prob: 1.000000
+	(2, 3) is sampled...rand: 0.561197, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 184:
+	(0, 1) is sampled...rand: 0.362898, prob: 1.000000
+	(0, 2) is sampled...rand: 0.668251, prob: 1.000000
+	(1, 3) is sampled...rand: 0.474641, prob: 1.000000
+	(2, 3) is sampled...rand: 0.503591, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 185:
+	(0, 1) is sampled...rand: 0.820196, prob: 1.000000
+	(0, 2) is sampled...rand: 0.575992, prob: 1.000000
+	(1, 3) is sampled...rand: 0.564016, prob: 1.000000
+	(2, 3) is sampled...rand: 0.045837, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 186:
+	(0, 1) is sampled...rand: 0.699694, prob: 1.000000
+	(0, 2) is sampled...rand: 0.074619, prob: 1.000000
+	(1, 3) is sampled...rand: 0.318177, prob: 1.000000
+	(2, 3) is sampled...rand: 0.617823, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 187:
+	(0, 1) is sampled...rand: 0.066365, prob: 1.000000
+	(0, 2) is sampled...rand: 0.528469, prob: 1.000000
+	(1, 3) is sampled...rand: 0.620779, prob: 1.000000
+	(2, 3) is sampled...rand: 0.789575, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 188:
+	(0, 1) is sampled...rand: 0.694837, prob: 1.000000
+	(0, 2) is sampled...rand: 0.526212, prob: 1.000000
+	(1, 3) is sampled...rand: 0.496840, prob: 1.000000
+	(2, 3) is sampled...rand: 0.454280, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 189:
+	(0, 1) is sampled...rand: 0.820686, prob: 1.000000
+	(0, 2) is sampled...rand: 0.127199, prob: 1.000000
+	(1, 3) is sampled...rand: 0.335875, prob: 1.000000
+	(2, 3) is sampled...rand: 0.311103, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 190:
+	(0, 1) is sampled...rand: 0.770031, prob: 1.000000
+	(0, 2) is sampled...rand: 0.494415, prob: 1.000000
+	(1, 3) is sampled...rand: 0.049463, prob: 1.000000
+	(2, 3) is sampled...rand: 0.223372, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 191:
+	(0, 1) is sampled...rand: 0.772877, prob: 1.000000
+	(0, 2) is sampled...rand: 0.596124, prob: 1.000000
+	(1, 3) is sampled...rand: 0.133966, prob: 1.000000
+	(2, 3) is sampled...rand: 0.903227, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 192:
+	(0, 1) is sampled...rand: 0.294636, prob: 1.000000
+	(0, 2) is sampled...rand: 0.975421, prob: 1.000000
+	(1, 3) is sampled...rand: 0.254421, prob: 1.000000
+	(2, 3) is sampled...rand: 0.264018, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 193:
+	(0, 1) is sampled...rand: 0.054726, prob: 1.000000
+	(0, 2) is sampled...rand: 0.633201, prob: 1.000000
+	(1, 3) is sampled...rand: 0.869876, prob: 1.000000
+	(2, 3) is sampled...rand: 0.873103, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 194:
+	(0, 1) is sampled...rand: 0.914922, prob: 1.000000
+	(0, 2) is sampled...rand: 0.785672, prob: 1.000000
+	(1, 3) is sampled...rand: 0.719095, prob: 1.000000
+	(2, 3) is sampled...rand: 0.129685, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 195:
+	(0, 1) is sampled...rand: 0.850280, prob: 1.000000
+	(0, 2) is sampled...rand: 0.254388, prob: 1.000000
+	(1, 3) is sampled...rand: 0.979927, prob: 1.000000
+	(2, 3) is sampled...rand: 0.104301, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 196:
+	(0, 1) is sampled...rand: 0.785134, prob: 1.000000
+	(0, 2) is sampled...rand: 0.797075, prob: 1.000000
+	(1, 3) is sampled...rand: 0.045772, prob: 1.000000
+	(2, 3) is sampled...rand: 0.113855, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 197:
+	(0, 1) is sampled...rand: 0.984218, prob: 1.000000
+	(0, 2) is sampled...rand: 0.637511, prob: 1.000000
+	(1, 3) is sampled...rand: 0.434665, prob: 1.000000
+	(2, 3) is sampled...rand: 0.919029, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 198:
+	(0, 1) is sampled...rand: 0.061004, prob: 1.000000
+	(0, 2) is sampled...rand: 0.654727, prob: 1.000000
+	(1, 3) is sampled...rand: 0.514620, prob: 1.000000
+	(2, 3) is sampled...rand: 0.965440, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 199:
+	(0, 1) is sampled...rand: 0.751146, prob: 1.000000
+	(0, 2) is sampled...rand: 0.500272, prob: 1.000000
+	(1, 3) is sampled...rand: 0.846726, prob: 1.000000
+	(2, 3) is sampled...rand: 0.133996, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 200:
+	(0, 1) is sampled...rand: 0.922714, prob: 1.000000
+	(0, 2) is sampled...rand: 0.537677, prob: 1.000000
+	(1, 3) is sampled...rand: 0.993484, prob: 1.000000
+	(2, 3) is sampled...rand: 0.404186, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 201:
+	(0, 1) is sampled...rand: 0.163763, prob: 1.000000
+	(0, 2) is sampled...rand: 0.649222, prob: 1.000000
+	(1, 3) is sampled...rand: 0.573107, prob: 1.000000
+	(2, 3) is sampled...rand: 0.674208, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 202:
+	(0, 1) is sampled...rand: 0.118390, prob: 1.000000
+	(0, 2) is sampled...rand: 0.540051, prob: 1.000000
+	(1, 3) is sampled...rand: 0.129524, prob: 1.000000
+	(2, 3) is sampled...rand: 0.451076, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 203:
+	(0, 1) is sampled...rand: 0.217302, prob: 1.000000
+	(0, 2) is sampled...rand: 0.444117, prob: 1.000000
+	(1, 3) is sampled...rand: 0.727293, prob: 1.000000
+	(2, 3) is sampled...rand: 0.459359, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 204:
+	(0, 1) is sampled...rand: 0.018552, prob: 1.000000
+	(0, 2) is sampled...rand: 0.413245, prob: 1.000000
+	(1, 3) is sampled...rand: 0.444974, prob: 1.000000
+	(2, 3) is sampled...rand: 0.115679, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 205:
+	(0, 1) is sampled...rand: 0.625827, prob: 1.000000
+	(0, 2) is sampled...rand: 0.196362, prob: 1.000000
+	(1, 3) is sampled...rand: 0.262658, prob: 1.000000
+	(2, 3) is sampled...rand: 0.833586, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 206:
+	(0, 1) is sampled...rand: 0.360250, prob: 1.000000
+	(0, 2) is sampled...rand: 0.983672, prob: 1.000000
+	(1, 3) is sampled...rand: 0.830257, prob: 1.000000
+	(2, 3) is sampled...rand: 0.338863, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 207:
+	(0, 1) is sampled...rand: 0.737286, prob: 1.000000
+	(0, 2) is sampled...rand: 0.396039, prob: 1.000000
+	(1, 3) is sampled...rand: 0.881856, prob: 1.000000
+	(2, 3) is sampled...rand: 0.540498, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 208:
+	(0, 1) is sampled...rand: 0.466013, prob: 1.000000
+	(0, 2) is sampled...rand: 0.514650, prob: 1.000000
+	(1, 3) is sampled...rand: 0.724972, prob: 1.000000
+	(2, 3) is sampled...rand: 0.065914, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 209:
+	(0, 1) is sampled...rand: 0.637179, prob: 1.000000
+	(0, 2) is sampled...rand: 0.205276, prob: 1.000000
+	(1, 3) is sampled...rand: 0.357423, prob: 1.000000
+	(2, 3) is sampled...rand: 0.025809, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 210:
+	(0, 1) is sampled...rand: 0.968053, prob: 1.000000
+	(0, 2) is sampled...rand: 0.953221, prob: 1.000000
+	(1, 3) is sampled...rand: 0.686178, prob: 1.000000
+	(2, 3) is sampled...rand: 0.308080, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 211:
+	(0, 1) is sampled...rand: 0.394225, prob: 1.000000
+	(0, 2) is sampled...rand: 0.727881, prob: 1.000000
+	(1, 3) is sampled...rand: 0.825142, prob: 1.000000
+	(2, 3) is sampled...rand: 0.339933, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 212:
+	(0, 1) is sampled...rand: 0.899838, prob: 1.000000
+	(0, 2) is sampled...rand: 0.826682, prob: 1.000000
+	(1, 3) is sampled...rand: 0.721395, prob: 1.000000
+	(2, 3) is sampled...rand: 0.594778, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 213:
+	(0, 1) is sampled...rand: 0.709680, prob: 1.000000
+	(0, 2) is sampled...rand: 0.011889, prob: 1.000000
+	(1, 3) is sampled...rand: 0.575421, prob: 1.000000
+	(2, 3) is sampled...rand: 0.085102, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 214:
+	(0, 1) is sampled...rand: 0.170298, prob: 1.000000
+	(0, 2) is sampled...rand: 0.242047, prob: 1.000000
+	(1, 3) is sampled...rand: 0.440886, prob: 1.000000
+	(2, 3) is sampled...rand: 0.089911, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 215:
+	(0, 1) is sampled...rand: 0.727217, prob: 1.000000
+	(0, 2) is sampled...rand: 0.256191, prob: 1.000000
+	(1, 3) is sampled...rand: 0.409606, prob: 1.000000
+	(2, 3) is sampled...rand: 0.181280, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 216:
+	(0, 1) is sampled...rand: 0.729593, prob: 1.000000
+	(0, 2) is sampled...rand: 0.879970, prob: 1.000000
+	(1, 3) is sampled...rand: 0.825189, prob: 1.000000
+	(2, 3) is sampled...rand: 0.415701, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 217:
+	(0, 1) is sampled...rand: 0.819887, prob: 1.000000
+	(0, 2) is sampled...rand: 0.587706, prob: 1.000000
+	(1, 3) is sampled...rand: 0.643526, prob: 1.000000
+	(2, 3) is sampled...rand: 0.969911, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 218:
+	(0, 1) is sampled...rand: 0.710754, prob: 1.000000
+	(0, 2) is sampled...rand: 0.233367, prob: 1.000000
+	(1, 3) is sampled...rand: 0.303442, prob: 1.000000
+	(2, 3) is sampled...rand: 0.631916, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 219:
+	(0, 1) is sampled...rand: 0.841449, prob: 1.000000
+	(0, 2) is sampled...rand: 0.613984, prob: 1.000000
+	(1, 3) is sampled...rand: 0.512711, prob: 1.000000
+	(2, 3) is sampled...rand: 0.732220, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 220:
+	(0, 1) is sampled...rand: 0.839766, prob: 1.000000
+	(0, 2) is sampled...rand: 0.309490, prob: 1.000000
+	(1, 3) is sampled...rand: 0.690179, prob: 1.000000
+	(2, 3) is sampled...rand: 0.154445, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 221:
+	(0, 1) is sampled...rand: 0.404595, prob: 1.000000
+	(0, 2) is sampled...rand: 0.030215, prob: 1.000000
+	(1, 3) is sampled...rand: 0.915201, prob: 1.000000
+	(2, 3) is sampled...rand: 0.174805, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 222:
+	(0, 1) is sampled...rand: 0.173860, prob: 1.000000
+	(0, 2) is sampled...rand: 0.369828, prob: 1.000000
+	(1, 3) is sampled...rand: 0.660245, prob: 1.000000
+	(2, 3) is sampled...rand: 0.931400, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 223:
+	(0, 1) is sampled...rand: 0.911330, prob: 1.000000
+	(0, 2) is sampled...rand: 0.599841, prob: 1.000000
+	(1, 3) is sampled...rand: 0.637116, prob: 1.000000
+	(2, 3) is sampled...rand: 0.633593, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 224:
+	(0, 1) is sampled...rand: 0.196337, prob: 1.000000
+	(0, 2) is sampled...rand: 0.919577, prob: 1.000000
+	(1, 3) is sampled...rand: 0.118554, prob: 1.000000
+	(2, 3) is sampled...rand: 0.327495, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 225:
+	(0, 1) is sampled...rand: 0.603509, prob: 1.000000
+	(0, 2) is sampled...rand: 0.236887, prob: 1.000000
+	(1, 3) is sampled...rand: 0.462254, prob: 1.000000
+	(2, 3) is sampled...rand: 0.488070, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 226:
+	(0, 1) is sampled...rand: 0.547621, prob: 1.000000
+	(0, 2) is sampled...rand: 0.644341, prob: 1.000000
+	(1, 3) is sampled...rand: 0.262325, prob: 1.000000
+	(2, 3) is sampled...rand: 0.029402, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 227:
+	(0, 1) is sampled...rand: 0.070233, prob: 1.000000
+	(0, 2) is sampled...rand: 0.758899, prob: 1.000000
+	(1, 3) is sampled...rand: 0.403524, prob: 1.000000
+	(2, 3) is sampled...rand: 0.340771, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 228:
+	(0, 1) is sampled...rand: 0.436401, prob: 1.000000
+	(0, 2) is sampled...rand: 0.698006, prob: 1.000000
+	(1, 3) is sampled...rand: 0.824739, prob: 1.000000
+	(2, 3) is sampled...rand: 0.489588, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 229:
+	(0, 1) is sampled...rand: 0.431802, prob: 1.000000
+	(0, 2) is sampled...rand: 0.170066, prob: 1.000000
+	(1, 3) is sampled...rand: 0.659350, prob: 1.000000
+	(2, 3) is sampled...rand: 0.064007, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 230:
+	(0, 1) is sampled...rand: 0.042980, prob: 1.000000
+	(0, 2) is sampled...rand: 0.540496, prob: 1.000000
+	(1, 3) is sampled...rand: 0.772631, prob: 1.000000
+	(2, 3) is sampled...rand: 0.138854, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 231:
+	(0, 1) is sampled...rand: 0.984567, prob: 1.000000
+	(0, 2) is sampled...rand: 0.745604, prob: 1.000000
+	(1, 3) is sampled...rand: 0.379145, prob: 1.000000
+	(2, 3) is sampled...rand: 0.945571, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 232:
+	(0, 1) is sampled...rand: 0.384781, prob: 1.000000
+	(0, 2) is sampled...rand: 0.523007, prob: 1.000000
+	(1, 3) is sampled...rand: 0.648393, prob: 1.000000
+	(2, 3) is sampled...rand: 0.331420, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 233:
+	(0, 1) is sampled...rand: 0.988310, prob: 1.000000
+	(0, 2) is sampled...rand: 0.277834, prob: 1.000000
+	(1, 3) is sampled...rand: 0.870975, prob: 1.000000
+	(2, 3) is sampled...rand: 0.041828, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 234:
+	(0, 1) is sampled...rand: 0.848502, prob: 1.000000
+	(0, 2) is sampled...rand: 0.777869, prob: 1.000000
+	(1, 3) is sampled...rand: 0.955914, prob: 1.000000
+	(2, 3) is sampled...rand: 0.321961, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 235:
+	(0, 1) is sampled...rand: 0.872716, prob: 1.000000
+	(0, 2) is sampled...rand: 0.686426, prob: 1.000000
+	(1, 3) is sampled...rand: 0.332136, prob: 1.000000
+	(2, 3) is sampled...rand: 0.419142, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 236:
+	(0, 1) is sampled...rand: 0.611291, prob: 1.000000
+	(0, 2) is sampled...rand: 0.876053, prob: 1.000000
+	(1, 3) is sampled...rand: 0.069134, prob: 1.000000
+	(2, 3) is sampled...rand: 0.231189, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 237:
+	(0, 1) is sampled...rand: 0.163505, prob: 1.000000
+	(0, 2) is sampled...rand: 0.084366, prob: 1.000000
+	(1, 3) is sampled...rand: 0.573614, prob: 1.000000
+	(2, 3) is sampled...rand: 0.095610, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 238:
+	(0, 1) is sampled...rand: 0.456469, prob: 1.000000
+	(0, 2) is sampled...rand: 0.694709, prob: 1.000000
+	(1, 3) is sampled...rand: 0.197630, prob: 1.000000
+	(2, 3) is sampled...rand: 0.909646, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 239:
+	(0, 1) is sampled...rand: 0.877487, prob: 1.000000
+	(0, 2) is sampled...rand: 0.796329, prob: 1.000000
+	(1, 3) is sampled...rand: 0.548268, prob: 1.000000
+	(2, 3) is sampled...rand: 0.884888, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 240:
+	(0, 1) is sampled...rand: 0.825832, prob: 1.000000
+	(0, 2) is sampled...rand: 0.731882, prob: 1.000000
+	(1, 3) is sampled...rand: 0.269417, prob: 1.000000
+	(2, 3) is sampled...rand: 0.190252, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 241:
+	(0, 1) is sampled...rand: 0.306705, prob: 1.000000
+	(0, 2) is sampled...rand: 0.883374, prob: 1.000000
+	(1, 3) is sampled...rand: 0.800916, prob: 1.000000
+	(2, 3) is sampled...rand: 0.411003, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 242:
+	(0, 1) is sampled...rand: 0.389354, prob: 1.000000
+	(0, 2) is sampled...rand: 0.575296, prob: 1.000000
+	(1, 3) is sampled...rand: 0.415400, prob: 1.000000
+	(2, 3) is sampled...rand: 0.662303, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 243:
+	(0, 1) is sampled...rand: 0.901818, prob: 1.000000
+	(0, 2) is sampled...rand: 0.613947, prob: 1.000000
+	(1, 3) is sampled...rand: 0.868977, prob: 1.000000
+	(2, 3) is sampled...rand: 0.792900, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 244:
+	(0, 1) is sampled...rand: 0.329335, prob: 1.000000
+	(0, 2) is sampled...rand: 0.768731, prob: 1.000000
+	(1, 3) is sampled...rand: 0.139881, prob: 1.000000
+	(2, 3) is sampled...rand: 0.787090, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 245:
+	(0, 1) is sampled...rand: 0.141320, prob: 1.000000
+	(0, 2) is sampled...rand: 0.070439, prob: 1.000000
+	(1, 3) is sampled...rand: 0.863003, prob: 1.000000
+	(2, 3) is sampled...rand: 0.177793, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 246:
+	(0, 1) is sampled...rand: 0.756621, prob: 1.000000
+	(0, 2) is sampled...rand: 0.158354, prob: 1.000000
+	(1, 3) is sampled...rand: 0.538988, prob: 1.000000
+	(2, 3) is sampled...rand: 0.347901, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 247:
+	(0, 1) is sampled...rand: 0.487774, prob: 1.000000
+	(0, 2) is sampled...rand: 0.901753, prob: 1.000000
+	(1, 3) is sampled...rand: 0.467657, prob: 1.000000
+	(2, 3) is sampled...rand: 0.879518, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 248:
+	(0, 1) is sampled...rand: 0.579904, prob: 1.000000
+	(0, 2) is sampled...rand: 0.503094, prob: 1.000000
+	(1, 3) is sampled...rand: 0.540353, prob: 1.000000
+	(2, 3) is sampled...rand: 0.325544, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 249:
+	(0, 1) is sampled...rand: 0.309764, prob: 1.000000
+	(0, 2) is sampled...rand: 0.940012, prob: 1.000000
+	(1, 3) is sampled...rand: 0.103087, prob: 1.000000
+	(2, 3) is sampled...rand: 0.252440, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 250:
+	(0, 1) is sampled...rand: 0.826350, prob: 1.000000
+	(0, 2) is sampled...rand: 0.323275, prob: 1.000000
+	(1, 3) is sampled...rand: 0.271676, prob: 1.000000
+	(2, 3) is sampled...rand: 0.198451, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 251:
+	(0, 1) is sampled...rand: 0.598138, prob: 1.000000
+	(0, 2) is sampled...rand: 0.075506, prob: 1.000000
+	(1, 3) is sampled...rand: 0.580271, prob: 1.000000
+	(2, 3) is sampled...rand: 0.075978, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 252:
+	(0, 1) is sampled...rand: 0.901869, prob: 1.000000
+	(0, 2) is sampled...rand: 0.124246, prob: 1.000000
+	(1, 3) is sampled...rand: 0.497536, prob: 1.000000
+	(2, 3) is sampled...rand: 0.128703, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 253:
+	(0, 1) is sampled...rand: 0.163778, prob: 1.000000
+	(0, 2) is sampled...rand: 0.044722, prob: 1.000000
+	(1, 3) is sampled...rand: 0.831303, prob: 1.000000
+	(2, 3) is sampled...rand: 0.371412, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 254:
+	(0, 1) is sampled...rand: 0.743079, prob: 1.000000
+	(0, 2) is sampled...rand: 0.221468, prob: 1.000000
+	(1, 3) is sampled...rand: 0.503102, prob: 1.000000
+	(2, 3) is sampled...rand: 0.092661, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 255:
+	(0, 1) is sampled...rand: 0.690588, prob: 1.000000
+	(0, 2) is sampled...rand: 0.607491, prob: 1.000000
+	(1, 3) is sampled...rand: 0.969812, prob: 1.000000
+	(2, 3) is sampled...rand: 0.058262, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 256:
+	(0, 1) is sampled...rand: 0.208683, prob: 1.000000
+	(0, 2) is sampled...rand: 0.616687, prob: 1.000000
+	(1, 3) is sampled...rand: 0.366626, prob: 1.000000
+	(2, 3) is sampled...rand: 0.462856, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 257:
+	(0, 1) is sampled...rand: 0.341688, prob: 1.000000
+	(0, 2) is sampled...rand: 0.308157, prob: 1.000000
+	(1, 3) is sampled...rand: 0.158412, prob: 1.000000
+	(2, 3) is sampled...rand: 0.671289, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 258:
+	(0, 1) is sampled...rand: 0.143725, prob: 1.000000
+	(0, 2) is sampled...rand: 0.177473, prob: 1.000000
+	(1, 3) is sampled...rand: 0.126590, prob: 1.000000
+	(2, 3) is sampled...rand: 0.988220, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 259:
+	(0, 1) is sampled...rand: 0.176076, prob: 1.000000
+	(0, 2) is sampled...rand: 0.038968, prob: 1.000000
+	(1, 3) is sampled...rand: 0.243171, prob: 1.000000
+	(2, 3) is sampled...rand: 0.559642, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 260:
+	(0, 1) is sampled...rand: 0.001290, prob: 1.000000
+	(0, 2) is sampled...rand: 0.722675, prob: 1.000000
+	(1, 3) is sampled...rand: 0.800272, prob: 1.000000
+	(2, 3) is sampled...rand: 0.501947, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 261:
+	(0, 1) is sampled...rand: 0.083085, prob: 1.000000
+	(0, 2) is sampled...rand: 0.114615, prob: 1.000000
+	(1, 3) is sampled...rand: 0.623632, prob: 1.000000
+	(2, 3) is sampled...rand: 0.127870, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 262:
+	(0, 1) is sampled...rand: 0.630182, prob: 1.000000
+	(0, 2) is sampled...rand: 0.214357, prob: 1.000000
+	(1, 3) is sampled...rand: 0.021167, prob: 1.000000
+	(2, 3) is sampled...rand: 0.288802, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 263:
+	(0, 1) is sampled...rand: 0.184515, prob: 1.000000
+	(0, 2) is sampled...rand: 0.091298, prob: 1.000000
+	(1, 3) is sampled...rand: 0.402946, prob: 1.000000
+	(2, 3) is sampled...rand: 0.137690, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 264:
+	(0, 1) is sampled...rand: 0.694432, prob: 1.000000
+	(0, 2) is sampled...rand: 0.411257, prob: 1.000000
+	(1, 3) is sampled...rand: 0.942425, prob: 1.000000
+	(2, 3) is sampled...rand: 0.880766, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 265:
+	(0, 1) is sampled...rand: 0.140204, prob: 1.000000
+	(0, 2) is sampled...rand: 0.874798, prob: 1.000000
+	(1, 3) is sampled...rand: 0.179788, prob: 1.000000
+	(2, 3) is sampled...rand: 0.905164, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 266:
+	(0, 1) is sampled...rand: 0.576385, prob: 1.000000
+	(0, 2) is sampled...rand: 0.953643, prob: 1.000000
+	(1, 3) is sampled...rand: 0.737176, prob: 1.000000
+	(2, 3) is sampled...rand: 0.036689, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 267:
+	(0, 1) is sampled...rand: 0.523868, prob: 1.000000
+	(0, 2) is sampled...rand: 0.994864, prob: 1.000000
+	(1, 3) is sampled...rand: 0.447688, prob: 1.000000
+	(2, 3) is sampled...rand: 0.800058, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 268:
+	(0, 1) is sampled...rand: 0.128368, prob: 1.000000
+	(0, 2) is sampled...rand: 0.881938, prob: 1.000000
+	(1, 3) is sampled...rand: 0.942556, prob: 1.000000
+	(2, 3) is sampled...rand: 0.511998, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 269:
+	(0, 1) is sampled...rand: 0.431814, prob: 1.000000
+	(0, 2) is sampled...rand: 0.794262, prob: 1.000000
+	(1, 3) is sampled...rand: 0.734848, prob: 1.000000
+	(2, 3) is sampled...rand: 0.138891, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 270:
+	(0, 1) is sampled...rand: 0.271649, prob: 1.000000
+	(0, 2) is sampled...rand: 0.856432, prob: 1.000000
+	(1, 3) is sampled...rand: 0.794744, prob: 1.000000
+	(2, 3) is sampled...rand: 0.867035, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 271:
+	(0, 1) is sampled...rand: 0.649148, prob: 1.000000
+	(0, 2) is sampled...rand: 0.557754, prob: 1.000000
+	(1, 3) is sampled...rand: 0.732405, prob: 1.000000
+	(2, 3) is sampled...rand: 0.984656, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 272:
+	(0, 1) is sampled...rand: 0.291804, prob: 1.000000
+	(0, 2) is sampled...rand: 0.001287, prob: 1.000000
+	(1, 3) is sampled...rand: 0.327058, prob: 1.000000
+	(2, 3) is sampled...rand: 0.668113, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 273:
+	(0, 1) is sampled...rand: 0.758145, prob: 1.000000
+	(0, 2) is sampled...rand: 0.476741, prob: 1.000000
+	(1, 3) is sampled...rand: 0.164604, prob: 1.000000
+	(2, 3) is sampled...rand: 0.701916, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 274:
+	(0, 1) is sampled...rand: 0.867518, prob: 1.000000
+	(0, 2) is sampled...rand: 0.757033, prob: 1.000000
+	(1, 3) is sampled...rand: 0.407543, prob: 1.000000
+	(2, 3) is sampled...rand: 0.880938, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 275:
+	(0, 1) is sampled...rand: 0.727429, prob: 1.000000
+	(0, 2) is sampled...rand: 0.608705, prob: 1.000000
+	(1, 3) is sampled...rand: 0.675944, prob: 1.000000
+	(2, 3) is sampled...rand: 0.222160, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 276:
+	(0, 1) is sampled...rand: 0.803622, prob: 1.000000
+	(0, 2) is sampled...rand: 0.531436, prob: 1.000000
+	(1, 3) is sampled...rand: 0.443145, prob: 1.000000
+	(2, 3) is sampled...rand: 0.978210, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 277:
+	(0, 1) is sampled...rand: 0.518062, prob: 1.000000
+	(0, 2) is sampled...rand: 0.076112, prob: 1.000000
+	(1, 3) is sampled...rand: 0.767921, prob: 1.000000
+	(2, 3) is sampled...rand: 0.977383, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 278:
+	(0, 1) is sampled...rand: 0.725862, prob: 1.000000
+	(0, 2) is sampled...rand: 0.090617, prob: 1.000000
+	(1, 3) is sampled...rand: 0.888913, prob: 1.000000
+	(2, 3) is sampled...rand: 0.013633, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 279:
+	(0, 1) is sampled...rand: 0.425944, prob: 1.000000
+	(0, 2) is sampled...rand: 0.241452, prob: 1.000000
+	(1, 3) is sampled...rand: 0.228438, prob: 1.000000
+	(2, 3) is sampled...rand: 0.582057, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 280:
+	(0, 1) is sampled...rand: 0.962833, prob: 1.000000
+	(0, 2) is sampled...rand: 0.010862, prob: 1.000000
+	(1, 3) is sampled...rand: 0.122685, prob: 1.000000
+	(2, 3) is sampled...rand: 0.126037, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 281:
+	(0, 1) is sampled...rand: 0.701487, prob: 1.000000
+	(0, 2) is sampled...rand: 0.141241, prob: 1.000000
+	(1, 3) is sampled...rand: 0.788940, prob: 1.000000
+	(2, 3) is sampled...rand: 0.798291, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 282:
+	(0, 1) is sampled...rand: 0.568552, prob: 1.000000
+	(0, 2) is sampled...rand: 0.182806, prob: 1.000000
+	(1, 3) is sampled...rand: 0.756504, prob: 1.000000
+	(2, 3) is sampled...rand: 0.655888, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 283:
+	(0, 1) is sampled...rand: 0.445368, prob: 1.000000
+	(0, 2) is sampled...rand: 0.905301, prob: 1.000000
+	(1, 3) is sampled...rand: 0.658490, prob: 1.000000
+	(2, 3) is sampled...rand: 0.701363, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 284:
+	(0, 1) is sampled...rand: 0.010274, prob: 1.000000
+	(0, 2) is sampled...rand: 0.099558, prob: 1.000000
+	(1, 3) is sampled...rand: 0.809275, prob: 1.000000
+	(2, 3) is sampled...rand: 0.229100, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 285:
+	(0, 1) is sampled...rand: 0.443523, prob: 1.000000
+	(0, 2) is sampled...rand: 0.882684, prob: 1.000000
+	(1, 3) is sampled...rand: 0.677078, prob: 1.000000
+	(2, 3) is sampled...rand: 0.292845, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 286:
+	(0, 1) is sampled...rand: 0.927570, prob: 1.000000
+	(0, 2) is sampled...rand: 0.351599, prob: 1.000000
+	(1, 3) is sampled...rand: 0.058245, prob: 1.000000
+	(2, 3) is sampled...rand: 0.038257, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 287:
+	(0, 1) is sampled...rand: 0.155201, prob: 1.000000
+	(0, 2) is sampled...rand: 0.278167, prob: 1.000000
+	(1, 3) is sampled...rand: 0.663521, prob: 1.000000
+	(2, 3) is sampled...rand: 0.802519, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 288:
+	(0, 1) is sampled...rand: 0.761067, prob: 1.000000
+	(0, 2) is sampled...rand: 0.425574, prob: 1.000000
+	(1, 3) is sampled...rand: 0.307518, prob: 1.000000
+	(2, 3) is sampled...rand: 0.385370, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 289:
+	(0, 1) is sampled...rand: 0.021077, prob: 1.000000
+	(0, 2) is sampled...rand: 0.990216, prob: 1.000000
+	(1, 3) is sampled...rand: 0.995880, prob: 1.000000
+	(2, 3) is sampled...rand: 0.836258, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 290:
+	(0, 1) is sampled...rand: 0.328132, prob: 1.000000
+	(0, 2) is sampled...rand: 0.322774, prob: 1.000000
+	(1, 3) is sampled...rand: 0.284964, prob: 1.000000
+	(2, 3) is sampled...rand: 0.662702, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 291:
+	(0, 1) is sampled...rand: 0.249427, prob: 1.000000
+	(0, 2) is sampled...rand: 0.915893, prob: 1.000000
+	(1, 3) is sampled...rand: 0.147274, prob: 1.000000
+	(2, 3) is sampled...rand: 0.156658, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 292:
+	(0, 1) is sampled...rand: 0.908582, prob: 1.000000
+	(0, 2) is sampled...rand: 0.428074, prob: 1.000000
+	(1, 3) is sampled...rand: 0.611603, prob: 1.000000
+	(2, 3) is sampled...rand: 0.991156, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 293:
+	(0, 1) is sampled...rand: 0.503341, prob: 1.000000
+	(0, 2) is sampled...rand: 0.634103, prob: 1.000000
+	(1, 3) is sampled...rand: 0.298086, prob: 1.000000
+	(2, 3) is sampled...rand: 0.955687, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 294:
+	(0, 1) is sampled...rand: 0.860410, prob: 1.000000
+	(0, 2) is sampled...rand: 0.257521, prob: 1.000000
+	(1, 3) is sampled...rand: 0.442716, prob: 1.000000
+	(2, 3) is sampled...rand: 0.765169, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 295:
+	(0, 1) is sampled...rand: 0.567218, prob: 1.000000
+	(0, 2) is sampled...rand: 0.301095, prob: 1.000000
+	(1, 3) is sampled...rand: 0.648487, prob: 1.000000
+	(2, 3) is sampled...rand: 0.967753, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 296:
+	(0, 1) is sampled...rand: 0.350046, prob: 1.000000
+	(0, 2) is sampled...rand: 0.480232, prob: 1.000000
+	(1, 3) is sampled...rand: 0.791330, prob: 1.000000
+	(2, 3) is sampled...rand: 0.591688, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 297:
+	(0, 1) is sampled...rand: 0.166734, prob: 1.000000
+	(0, 2) is sampled...rand: 0.563995, prob: 1.000000
+	(1, 3) is sampled...rand: 0.469526, prob: 1.000000
+	(2, 3) is sampled...rand: 0.742712, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 298:
+	(0, 1) is sampled...rand: 0.790826, prob: 1.000000
+	(0, 2) is sampled...rand: 0.259909, prob: 1.000000
+	(1, 3) is sampled...rand: 0.642893, prob: 1.000000
+	(2, 3) is sampled...rand: 0.362571, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 299:
+	(0, 1) is sampled...rand: 0.512932, prob: 1.000000
+	(0, 2) is sampled...rand: 0.865866, prob: 1.000000
+	(1, 3) is sampled...rand: 0.399385, prob: 1.000000
+	(2, 3) is sampled...rand: 0.415816, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 300:
+	(0, 1) is sampled...rand: 0.025469, prob: 1.000000
+	(0, 2) is sampled...rand: 0.024317, prob: 1.000000
+	(1, 3) is sampled...rand: 0.663297, prob: 1.000000
+	(2, 3) is sampled...rand: 0.981683, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 301:
+	(0, 1) is sampled...rand: 0.606070, prob: 1.000000
+	(0, 2) is sampled...rand: 0.428406, prob: 1.000000
+	(1, 3) is sampled...rand: 0.444470, prob: 1.000000
+	(2, 3) is sampled...rand: 0.197283, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 302:
+	(0, 1) is sampled...rand: 0.898777, prob: 1.000000
+	(0, 2) is sampled...rand: 0.573275, prob: 1.000000
+	(1, 3) is sampled...rand: 0.346915, prob: 1.000000
+	(2, 3) is sampled...rand: 0.707604, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 303:
+	(0, 1) is sampled...rand: 0.163543, prob: 1.000000
+	(0, 2) is sampled...rand: 0.252501, prob: 1.000000
+	(1, 3) is sampled...rand: 0.837877, prob: 1.000000
+	(2, 3) is sampled...rand: 0.975622, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 304:
+	(0, 1) is sampled...rand: 0.442799, prob: 1.000000
+	(0, 2) is sampled...rand: 0.819693, prob: 1.000000
+	(1, 3) is sampled...rand: 0.583210, prob: 1.000000
+	(2, 3) is sampled...rand: 0.681449, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 305:
+	(0, 1) is sampled...rand: 0.316255, prob: 1.000000
+	(0, 2) is sampled...rand: 0.732097, prob: 1.000000
+	(1, 3) is sampled...rand: 0.491053, prob: 1.000000
+	(2, 3) is sampled...rand: 0.345915, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 306:
+	(0, 1) is sampled...rand: 0.974353, prob: 1.000000
+	(0, 2) is sampled...rand: 0.754514, prob: 1.000000
+	(1, 3) is sampled...rand: 0.376998, prob: 1.000000
+	(2, 3) is sampled...rand: 0.654486, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 307:
+	(0, 1) is sampled...rand: 0.951003, prob: 1.000000
+	(0, 2) is sampled...rand: 0.718550, prob: 1.000000
+	(1, 3) is sampled...rand: 0.483154, prob: 1.000000
+	(2, 3) is sampled...rand: 0.722269, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 308:
+	(0, 1) is sampled...rand: 0.408579, prob: 1.000000
+	(0, 2) is sampled...rand: 0.964687, prob: 1.000000
+	(1, 3) is sampled...rand: 0.801410, prob: 1.000000
+	(2, 3) is sampled...rand: 0.268862, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 309:
+	(0, 1) is sampled...rand: 0.750739, prob: 1.000000
+	(0, 2) is sampled...rand: 0.609665, prob: 1.000000
+	(1, 3) is sampled...rand: 0.803960, prob: 1.000000
+	(2, 3) is sampled...rand: 0.062757, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 310:
+	(0, 1) is sampled...rand: 0.457556, prob: 1.000000
+	(0, 2) is sampled...rand: 0.900056, prob: 1.000000
+	(1, 3) is sampled...rand: 0.462014, prob: 1.000000
+	(2, 3) is sampled...rand: 0.048291, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 311:
+	(0, 1) is sampled...rand: 0.598679, prob: 1.000000
+	(0, 2) is sampled...rand: 0.645614, prob: 1.000000
+	(1, 3) is sampled...rand: 0.122812, prob: 1.000000
+	(2, 3) is sampled...rand: 0.914578, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 312:
+	(0, 1) is sampled...rand: 0.620354, prob: 1.000000
+	(0, 2) is sampled...rand: 0.696909, prob: 1.000000
+	(1, 3) is sampled...rand: 0.619165, prob: 1.000000
+	(2, 3) is sampled...rand: 0.690934, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 313:
+	(0, 1) is sampled...rand: 0.267445, prob: 1.000000
+	(0, 2) is sampled...rand: 0.561557, prob: 1.000000
+	(1, 3) is sampled...rand: 0.721324, prob: 1.000000
+	(2, 3) is sampled...rand: 0.867310, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 314:
+	(0, 1) is sampled...rand: 0.815712, prob: 1.000000
+	(0, 2) is sampled...rand: 0.957142, prob: 1.000000
+	(1, 3) is sampled...rand: 0.811605, prob: 1.000000
+	(2, 3) is sampled...rand: 0.320969, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 315:
+	(0, 1) is sampled...rand: 0.382643, prob: 1.000000
+	(0, 2) is sampled...rand: 0.134864, prob: 1.000000
+	(1, 3) is sampled...rand: 0.252073, prob: 1.000000
+	(2, 3) is sampled...rand: 0.489109, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 316:
+	(0, 1) is sampled...rand: 0.752582, prob: 1.000000
+	(0, 2) is sampled...rand: 0.927701, prob: 1.000000
+	(1, 3) is sampled...rand: 0.821763, prob: 1.000000
+	(2, 3) is sampled...rand: 0.879834, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 317:
+	(0, 1) is sampled...rand: 0.147230, prob: 1.000000
+	(0, 2) is sampled...rand: 0.642110, prob: 1.000000
+	(1, 3) is sampled...rand: 0.544186, prob: 1.000000
+	(2, 3) is sampled...rand: 0.730809, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 318:
+	(0, 1) is sampled...rand: 0.771886, prob: 1.000000
+	(0, 2) is sampled...rand: 0.828131, prob: 1.000000
+	(1, 3) is sampled...rand: 0.376124, prob: 1.000000
+	(2, 3) is sampled...rand: 0.413110, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 319:
+	(0, 1) is sampled...rand: 0.169937, prob: 1.000000
+	(0, 2) is sampled...rand: 0.772490, prob: 1.000000
+	(1, 3) is sampled...rand: 0.929975, prob: 1.000000
+	(2, 3) is sampled...rand: 0.263157, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 320:
+	(0, 1) is sampled...rand: 0.973398, prob: 1.000000
+	(0, 2) is sampled...rand: 0.774493, prob: 1.000000
+	(1, 3) is sampled...rand: 0.525848, prob: 1.000000
+	(2, 3) is sampled...rand: 0.556591, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 321:
+	(0, 1) is sampled...rand: 0.253796, prob: 1.000000
+	(0, 2) is sampled...rand: 0.151460, prob: 1.000000
+	(1, 3) is sampled...rand: 0.913075, prob: 1.000000
+	(2, 3) is sampled...rand: 0.893402, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 322:
+	(0, 1) is sampled...rand: 0.421231, prob: 1.000000
+	(0, 2) is sampled...rand: 0.487480, prob: 1.000000
+	(1, 3) is sampled...rand: 0.492275, prob: 1.000000
+	(2, 3) is sampled...rand: 0.586619, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 323:
+	(0, 1) is sampled...rand: 0.210302, prob: 1.000000
+	(0, 2) is sampled...rand: 0.028395, prob: 1.000000
+	(1, 3) is sampled...rand: 0.750868, prob: 1.000000
+	(2, 3) is sampled...rand: 0.743961, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 324:
+	(0, 1) is sampled...rand: 0.513064, prob: 1.000000
+	(0, 2) is sampled...rand: 0.138802, prob: 1.000000
+	(1, 3) is sampled...rand: 0.767935, prob: 1.000000
+	(2, 3) is sampled...rand: 0.169586, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 325:
+	(0, 1) is sampled...rand: 0.058465, prob: 1.000000
+	(0, 2) is sampled...rand: 0.172778, prob: 1.000000
+	(1, 3) is sampled...rand: 0.808567, prob: 1.000000
+	(2, 3) is sampled...rand: 0.957070, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 326:
+	(0, 1) is sampled...rand: 0.411366, prob: 1.000000
+	(0, 2) is sampled...rand: 0.749752, prob: 1.000000
+	(1, 3) is sampled...rand: 0.626680, prob: 1.000000
+	(2, 3) is sampled...rand: 0.493747, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 327:
+	(0, 1) is sampled...rand: 0.216377, prob: 1.000000
+	(0, 2) is sampled...rand: 0.568723, prob: 1.000000
+	(1, 3) is sampled...rand: 0.469380, prob: 1.000000
+	(2, 3) is sampled...rand: 0.239348, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 328:
+	(0, 1) is sampled...rand: 0.714651, prob: 1.000000
+	(0, 2) is sampled...rand: 0.670087, prob: 1.000000
+	(1, 3) is sampled...rand: 0.813598, prob: 1.000000
+	(2, 3) is sampled...rand: 0.231806, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 329:
+	(0, 1) is sampled...rand: 0.130658, prob: 1.000000
+	(0, 2) is sampled...rand: 0.094834, prob: 1.000000
+	(1, 3) is sampled...rand: 0.689648, prob: 1.000000
+	(2, 3) is sampled...rand: 0.090727, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 330:
+	(0, 1) is sampled...rand: 0.068189, prob: 1.000000
+	(0, 2) is sampled...rand: 0.530643, prob: 1.000000
+	(1, 3) is sampled...rand: 0.515049, prob: 1.000000
+	(2, 3) is sampled...rand: 0.319747, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 331:
+	(0, 1) is sampled...rand: 0.445506, prob: 1.000000
+	(0, 2) is sampled...rand: 0.889891, prob: 1.000000
+	(1, 3) is sampled...rand: 0.093677, prob: 1.000000
+	(2, 3) is sampled...rand: 0.338070, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 332:
+	(0, 1) is sampled...rand: 0.996756, prob: 1.000000
+	(0, 2) is sampled...rand: 0.138259, prob: 1.000000
+	(1, 3) is sampled...rand: 0.171080, prob: 1.000000
+	(2, 3) is sampled...rand: 0.445159, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 333:
+	(0, 1) is sampled...rand: 0.826722, prob: 1.000000
+	(0, 2) is sampled...rand: 0.051975, prob: 1.000000
+	(1, 3) is sampled...rand: 0.866868, prob: 1.000000
+	(2, 3) is sampled...rand: 0.217998, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 334:
+	(0, 1) is sampled...rand: 0.487103, prob: 1.000000
+	(0, 2) is sampled...rand: 0.330451, prob: 1.000000
+	(1, 3) is sampled...rand: 0.616679, prob: 1.000000
+	(2, 3) is sampled...rand: 0.585996, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 335:
+	(0, 1) is sampled...rand: 0.377073, prob: 1.000000
+	(0, 2) is sampled...rand: 0.541587, prob: 1.000000
+	(1, 3) is sampled...rand: 0.971850, prob: 1.000000
+	(2, 3) is sampled...rand: 0.119439, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 336:
+	(0, 1) is sampled...rand: 0.871161, prob: 1.000000
+	(0, 2) is sampled...rand: 0.050573, prob: 1.000000
+	(1, 3) is sampled...rand: 0.415785, prob: 1.000000
+	(2, 3) is sampled...rand: 0.521519, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 337:
+	(0, 1) is sampled...rand: 0.647063, prob: 1.000000
+	(0, 2) is sampled...rand: 0.696928, prob: 1.000000
+	(1, 3) is sampled...rand: 0.310528, prob: 1.000000
+	(2, 3) is sampled...rand: 0.926644, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 338:
+	(0, 1) is sampled...rand: 0.259202, prob: 1.000000
+	(0, 2) is sampled...rand: 0.050606, prob: 1.000000
+	(1, 3) is sampled...rand: 0.950439, prob: 1.000000
+	(2, 3) is sampled...rand: 0.815405, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 339:
+	(0, 1) is sampled...rand: 0.100132, prob: 1.000000
+	(0, 2) is sampled...rand: 0.010477, prob: 1.000000
+	(1, 3) is sampled...rand: 0.139221, prob: 1.000000
+	(2, 3) is sampled...rand: 0.220707, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 340:
+	(0, 1) is sampled...rand: 0.144434, prob: 1.000000
+	(0, 2) is sampled...rand: 0.627432, prob: 1.000000
+	(1, 3) is sampled...rand: 0.550878, prob: 1.000000
+	(2, 3) is sampled...rand: 0.198034, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 341:
+	(0, 1) is sampled...rand: 0.639316, prob: 1.000000
+	(0, 2) is sampled...rand: 0.638776, prob: 1.000000
+	(1, 3) is sampled...rand: 0.321297, prob: 1.000000
+	(2, 3) is sampled...rand: 0.575097, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 342:
+	(0, 1) is sampled...rand: 0.967841, prob: 1.000000
+	(0, 2) is sampled...rand: 0.793588, prob: 1.000000
+	(1, 3) is sampled...rand: 0.567228, prob: 1.000000
+	(2, 3) is sampled...rand: 0.151892, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 343:
+	(0, 1) is sampled...rand: 0.273999, prob: 1.000000
+	(0, 2) is sampled...rand: 0.207168, prob: 1.000000
+	(1, 3) is sampled...rand: 0.795335, prob: 1.000000
+	(2, 3) is sampled...rand: 0.132001, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 344:
+	(0, 1) is sampled...rand: 0.188524, prob: 1.000000
+	(0, 2) is sampled...rand: 0.006207, prob: 1.000000
+	(1, 3) is sampled...rand: 0.870603, prob: 1.000000
+	(2, 3) is sampled...rand: 0.878381, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 345:
+	(0, 1) is sampled...rand: 0.304019, prob: 1.000000
+	(0, 2) is sampled...rand: 0.669237, prob: 1.000000
+	(1, 3) is sampled...rand: 0.921746, prob: 1.000000
+	(2, 3) is sampled...rand: 0.143200, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 346:
+	(0, 1) is sampled...rand: 0.225107, prob: 1.000000
+	(0, 2) is sampled...rand: 0.434558, prob: 1.000000
+	(1, 3) is sampled...rand: 0.782404, prob: 1.000000
+	(2, 3) is sampled...rand: 0.039362, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 347:
+	(0, 1) is sampled...rand: 0.170781, prob: 1.000000
+	(0, 2) is sampled...rand: 0.974929, prob: 1.000000
+	(1, 3) is sampled...rand: 0.358307, prob: 1.000000
+	(2, 3) is sampled...rand: 0.989415, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 348:
+	(0, 1) is sampled...rand: 0.045230, prob: 1.000000
+	(0, 2) is sampled...rand: 0.638967, prob: 1.000000
+	(1, 3) is sampled...rand: 0.026085, prob: 1.000000
+	(2, 3) is sampled...rand: 0.132113, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 349:
+	(0, 1) is sampled...rand: 0.742223, prob: 1.000000
+	(0, 2) is sampled...rand: 0.860517, prob: 1.000000
+	(1, 3) is sampled...rand: 0.899964, prob: 1.000000
+	(2, 3) is sampled...rand: 0.854680, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 350:
+	(0, 1) is sampled...rand: 0.382961, prob: 1.000000
+	(0, 2) is sampled...rand: 0.294735, prob: 1.000000
+	(1, 3) is sampled...rand: 0.732816, prob: 1.000000
+	(2, 3) is sampled...rand: 0.592859, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 351:
+	(0, 1) is sampled...rand: 0.517451, prob: 1.000000
+	(0, 2) is sampled...rand: 0.590849, prob: 1.000000
+	(1, 3) is sampled...rand: 0.379346, prob: 1.000000
+	(2, 3) is sampled...rand: 0.918353, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 352:
+	(0, 1) is sampled...rand: 0.729997, prob: 1.000000
+	(0, 2) is sampled...rand: 0.469305, prob: 1.000000
+	(1, 3) is sampled...rand: 0.891599, prob: 1.000000
+	(2, 3) is sampled...rand: 0.303189, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 353:
+	(0, 1) is sampled...rand: 0.096649, prob: 1.000000
+	(0, 2) is sampled...rand: 0.449698, prob: 1.000000
+	(1, 3) is sampled...rand: 0.246599, prob: 1.000000
+	(2, 3) is sampled...rand: 0.606521, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 354:
+	(0, 1) is sampled...rand: 0.138575, prob: 1.000000
+	(0, 2) is sampled...rand: 0.381532, prob: 1.000000
+	(1, 3) is sampled...rand: 0.553936, prob: 1.000000
+	(2, 3) is sampled...rand: 0.683696, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 355:
+	(0, 1) is sampled...rand: 0.749458, prob: 1.000000
+	(0, 2) is sampled...rand: 0.911209, prob: 1.000000
+	(1, 3) is sampled...rand: 0.453978, prob: 1.000000
+	(2, 3) is sampled...rand: 0.547601, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 356:
+	(0, 1) is sampled...rand: 0.512672, prob: 1.000000
+	(0, 2) is sampled...rand: 0.164278, prob: 1.000000
+	(1, 3) is sampled...rand: 0.349252, prob: 1.000000
+	(2, 3) is sampled...rand: 0.279677, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 357:
+	(0, 1) is sampled...rand: 0.369092, prob: 1.000000
+	(0, 2) is sampled...rand: 0.027269, prob: 1.000000
+	(1, 3) is sampled...rand: 0.410763, prob: 1.000000
+	(2, 3) is sampled...rand: 0.559103, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 358:
+	(0, 1) is sampled...rand: 0.895317, prob: 1.000000
+	(0, 2) is sampled...rand: 0.603543, prob: 1.000000
+	(1, 3) is sampled...rand: 0.720271, prob: 1.000000
+	(2, 3) is sampled...rand: 0.311639, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 359:
+	(0, 1) is sampled...rand: 0.514158, prob: 1.000000
+	(0, 2) is sampled...rand: 0.582642, prob: 1.000000
+	(1, 3) is sampled...rand: 0.750023, prob: 1.000000
+	(2, 3) is sampled...rand: 0.393497, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 360:
+	(0, 1) is sampled...rand: 0.986566, prob: 1.000000
+	(0, 2) is sampled...rand: 0.109023, prob: 1.000000
+	(1, 3) is sampled...rand: 0.833203, prob: 1.000000
+	(2, 3) is sampled...rand: 0.672662, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 361:
+	(0, 1) is sampled...rand: 0.816408, prob: 1.000000
+	(0, 2) is sampled...rand: 0.293072, prob: 1.000000
+	(1, 3) is sampled...rand: 0.873813, prob: 1.000000
+	(2, 3) is sampled...rand: 0.372980, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 362:
+	(0, 1) is sampled...rand: 0.152932, prob: 1.000000
+	(0, 2) is sampled...rand: 0.441413, prob: 1.000000
+	(1, 3) is sampled...rand: 0.035509, prob: 1.000000
+	(2, 3) is sampled...rand: 0.796806, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 363:
+	(0, 1) is sampled...rand: 0.173868, prob: 1.000000
+	(0, 2) is sampled...rand: 0.639072, prob: 1.000000
+	(1, 3) is sampled...rand: 0.457252, prob: 1.000000
+	(2, 3) is sampled...rand: 0.417874, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 364:
+	(0, 1) is sampled...rand: 0.564116, prob: 1.000000
+	(0, 2) is sampled...rand: 0.489231, prob: 1.000000
+	(1, 3) is sampled...rand: 0.903928, prob: 1.000000
+	(2, 3) is sampled...rand: 0.647746, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 365:
+	(0, 1) is sampled...rand: 0.713297, prob: 1.000000
+	(0, 2) is sampled...rand: 0.763054, prob: 1.000000
+	(1, 3) is sampled...rand: 0.966192, prob: 1.000000
+	(2, 3) is sampled...rand: 0.600106, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 366:
+	(0, 1) is sampled...rand: 0.266121, prob: 1.000000
+	(0, 2) is sampled...rand: 0.672439, prob: 1.000000
+	(1, 3) is sampled...rand: 0.229464, prob: 1.000000
+	(2, 3) is sampled...rand: 0.411700, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 367:
+	(0, 1) is sampled...rand: 0.313739, prob: 1.000000
+	(0, 2) is sampled...rand: 0.413766, prob: 1.000000
+	(1, 3) is sampled...rand: 0.146323, prob: 1.000000
+	(2, 3) is sampled...rand: 0.518201, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 368:
+	(0, 1) is sampled...rand: 0.827874, prob: 1.000000
+	(0, 2) is sampled...rand: 0.914466, prob: 1.000000
+	(1, 3) is sampled...rand: 0.650595, prob: 1.000000
+	(2, 3) is sampled...rand: 0.230936, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 369:
+	(0, 1) is sampled...rand: 0.212092, prob: 1.000000
+	(0, 2) is sampled...rand: 0.075933, prob: 1.000000
+	(1, 3) is sampled...rand: 0.426349, prob: 1.000000
+	(2, 3) is sampled...rand: 0.496454, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 370:
+	(0, 1) is sampled...rand: 0.633759, prob: 1.000000
+	(0, 2) is sampled...rand: 0.553798, prob: 1.000000
+	(1, 3) is sampled...rand: 0.370871, prob: 1.000000
+	(2, 3) is sampled...rand: 0.856861, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 371:
+	(0, 1) is sampled...rand: 0.127049, prob: 1.000000
+	(0, 2) is sampled...rand: 0.226996, prob: 1.000000
+	(1, 3) is sampled...rand: 0.331238, prob: 1.000000
+	(2, 3) is sampled...rand: 0.156132, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 372:
+	(0, 1) is sampled...rand: 0.507902, prob: 1.000000
+	(0, 2) is sampled...rand: 0.252980, prob: 1.000000
+	(1, 3) is sampled...rand: 0.219093, prob: 1.000000
+	(2, 3) is sampled...rand: 0.227015, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 373:
+	(0, 1) is sampled...rand: 0.684328, prob: 1.000000
+	(0, 2) is sampled...rand: 0.720613, prob: 1.000000
+	(1, 3) is sampled...rand: 0.585235, prob: 1.000000
+	(2, 3) is sampled...rand: 0.341372, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 374:
+	(0, 1) is sampled...rand: 0.177921, prob: 1.000000
+	(0, 2) is sampled...rand: 0.167409, prob: 1.000000
+	(1, 3) is sampled...rand: 0.726047, prob: 1.000000
+	(2, 3) is sampled...rand: 0.987812, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 375:
+	(0, 1) is sampled...rand: 0.242973, prob: 1.000000
+	(0, 2) is sampled...rand: 0.299075, prob: 1.000000
+	(1, 3) is sampled...rand: 0.063580, prob: 1.000000
+	(2, 3) is sampled...rand: 0.014457, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 376:
+	(0, 1) is sampled...rand: 0.015075, prob: 1.000000
+	(0, 2) is sampled...rand: 0.383408, prob: 1.000000
+	(1, 3) is sampled...rand: 0.633728, prob: 1.000000
+	(2, 3) is sampled...rand: 0.772900, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 377:
+	(0, 1) is sampled...rand: 0.892095, prob: 1.000000
+	(0, 2) is sampled...rand: 0.676753, prob: 1.000000
+	(1, 3) is sampled...rand: 0.903865, prob: 1.000000
+	(2, 3) is sampled...rand: 0.449655, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 378:
+	(0, 1) is sampled...rand: 0.071621, prob: 1.000000
+	(0, 2) is sampled...rand: 0.372602, prob: 1.000000
+	(1, 3) is sampled...rand: 0.918774, prob: 1.000000
+	(2, 3) is sampled...rand: 0.917928, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 379:
+	(0, 1) is sampled...rand: 0.347062, prob: 1.000000
+	(0, 2) is sampled...rand: 0.548401, prob: 1.000000
+	(1, 3) is sampled...rand: 0.953120, prob: 1.000000
+	(2, 3) is sampled...rand: 0.497537, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 380:
+	(0, 1) is sampled...rand: 0.044147, prob: 1.000000
+	(0, 2) is sampled...rand: 0.387358, prob: 1.000000
+	(1, 3) is sampled...rand: 0.970826, prob: 1.000000
+	(2, 3) is sampled...rand: 0.043551, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 381:
+	(0, 1) is sampled...rand: 0.652302, prob: 1.000000
+	(0, 2) is sampled...rand: 0.872441, prob: 1.000000
+	(1, 3) is sampled...rand: 0.657281, prob: 1.000000
+	(2, 3) is sampled...rand: 0.405958, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 382:
+	(0, 1) is sampled...rand: 0.819991, prob: 1.000000
+	(0, 2) is sampled...rand: 0.636084, prob: 1.000000
+	(1, 3) is sampled...rand: 0.307230, prob: 1.000000
+	(2, 3) is sampled...rand: 0.820305, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 383:
+	(0, 1) is sampled...rand: 0.172937, prob: 1.000000
+	(0, 2) is sampled...rand: 0.084683, prob: 1.000000
+	(1, 3) is sampled...rand: 0.191535, prob: 1.000000
+	(2, 3) is sampled...rand: 0.558930, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 384:
+	(0, 1) is sampled...rand: 0.992137, prob: 1.000000
+	(0, 2) is sampled...rand: 0.259890, prob: 1.000000
+	(1, 3) is sampled...rand: 0.843798, prob: 1.000000
+	(2, 3) is sampled...rand: 0.645869, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 385:
+	(0, 1) is sampled...rand: 0.786993, prob: 1.000000
+	(0, 2) is sampled...rand: 0.489216, prob: 1.000000
+	(1, 3) is sampled...rand: 0.201746, prob: 1.000000
+	(2, 3) is sampled...rand: 0.414352, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 386:
+	(0, 1) is sampled...rand: 0.596089, prob: 1.000000
+	(0, 2) is sampled...rand: 0.066059, prob: 1.000000
+	(1, 3) is sampled...rand: 0.203223, prob: 1.000000
+	(2, 3) is sampled...rand: 0.055400, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 387:
+	(0, 1) is sampled...rand: 0.417800, prob: 1.000000
+	(0, 2) is sampled...rand: 0.869997, prob: 1.000000
+	(1, 3) is sampled...rand: 0.601580, prob: 1.000000
+	(2, 3) is sampled...rand: 0.737511, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 388:
+	(0, 1) is sampled...rand: 0.222919, prob: 1.000000
+	(0, 2) is sampled...rand: 0.913337, prob: 1.000000
+	(1, 3) is sampled...rand: 0.910870, prob: 1.000000
+	(2, 3) is sampled...rand: 0.016500, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 389:
+	(0, 1) is sampled...rand: 0.871059, prob: 1.000000
+	(0, 2) is sampled...rand: 0.264021, prob: 1.000000
+	(1, 3) is sampled...rand: 0.037829, prob: 1.000000
+	(2, 3) is sampled...rand: 0.702856, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 390:
+	(0, 1) is sampled...rand: 0.185409, prob: 1.000000
+	(0, 2) is sampled...rand: 0.515779, prob: 1.000000
+	(1, 3) is sampled...rand: 0.931946, prob: 1.000000
+	(2, 3) is sampled...rand: 0.752336, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 391:
+	(0, 1) is sampled...rand: 0.371931, prob: 1.000000
+	(0, 2) is sampled...rand: 0.186562, prob: 1.000000
+	(1, 3) is sampled...rand: 0.161929, prob: 1.000000
+	(2, 3) is sampled...rand: 0.998861, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 392:
+	(0, 1) is sampled...rand: 0.969298, prob: 1.000000
+	(0, 2) is sampled...rand: 0.289414, prob: 1.000000
+	(1, 3) is sampled...rand: 0.992956, prob: 1.000000
+	(2, 3) is sampled...rand: 0.652345, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 393:
+	(0, 1) is sampled...rand: 0.363221, prob: 1.000000
+	(0, 2) is sampled...rand: 0.146225, prob: 1.000000
+	(1, 3) is sampled...rand: 0.339259, prob: 1.000000
+	(2, 3) is sampled...rand: 0.213023, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 394:
+	(0, 1) is sampled...rand: 0.288491, prob: 1.000000
+	(0, 2) is sampled...rand: 0.293898, prob: 1.000000
+	(1, 3) is sampled...rand: 0.605550, prob: 1.000000
+	(2, 3) is sampled...rand: 0.119576, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 395:
+	(0, 1) is sampled...rand: 0.473063, prob: 1.000000
+	(0, 2) is sampled...rand: 0.640525, prob: 1.000000
+	(1, 3) is sampled...rand: 0.047482, prob: 1.000000
+	(2, 3) is sampled...rand: 0.936387, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 396:
+	(0, 1) is sampled...rand: 0.300497, prob: 1.000000
+	(0, 2) is sampled...rand: 0.021998, prob: 1.000000
+	(1, 3) is sampled...rand: 0.880433, prob: 1.000000
+	(2, 3) is sampled...rand: 0.148896, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 397:
+	(0, 1) is sampled...rand: 0.776784, prob: 1.000000
+	(0, 2) is sampled...rand: 0.460185, prob: 1.000000
+	(1, 3) is sampled...rand: 0.143304, prob: 1.000000
+	(2, 3) is sampled...rand: 0.871033, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 398:
+	(0, 1) is sampled...rand: 0.711031, prob: 1.000000
+	(0, 2) is sampled...rand: 0.947980, prob: 1.000000
+	(1, 3) is sampled...rand: 0.929457, prob: 1.000000
+	(2, 3) is sampled...rand: 0.191659, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 399:
+	(0, 1) is sampled...rand: 0.743201, prob: 1.000000
+	(0, 2) is sampled...rand: 0.004845, prob: 1.000000
+	(1, 3) is sampled...rand: 0.928904, prob: 1.000000
+	(2, 3) is sampled...rand: 0.459724, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 400:
+	(0, 1) is sampled...rand: 0.520570, prob: 1.000000
+	(0, 2) is sampled...rand: 0.169681, prob: 1.000000
+	(1, 3) is sampled...rand: 0.128369, prob: 1.000000
+	(2, 3) is sampled...rand: 0.672542, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 401:
+	(0, 1) is sampled...rand: 0.757584, prob: 1.000000
+	(0, 2) is sampled...rand: 0.080073, prob: 1.000000
+	(1, 3) is sampled...rand: 0.438518, prob: 1.000000
+	(2, 3) is sampled...rand: 0.469517, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 402:
+	(0, 1) is sampled...rand: 0.236904, prob: 1.000000
+	(0, 2) is sampled...rand: 0.779365, prob: 1.000000
+	(1, 3) is sampled...rand: 0.243155, prob: 1.000000
+	(2, 3) is sampled...rand: 0.736713, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 403:
+	(0, 1) is sampled...rand: 0.132075, prob: 1.000000
+	(0, 2) is sampled...rand: 0.274157, prob: 1.000000
+	(1, 3) is sampled...rand: 0.984941, prob: 1.000000
+	(2, 3) is sampled...rand: 0.070277, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 404:
+	(0, 1) is sampled...rand: 0.505431, prob: 1.000000
+	(0, 2) is sampled...rand: 0.818600, prob: 1.000000
+	(1, 3) is sampled...rand: 0.572553, prob: 1.000000
+	(2, 3) is sampled...rand: 0.011092, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 405:
+	(0, 1) is sampled...rand: 0.477458, prob: 1.000000
+	(0, 2) is sampled...rand: 0.050787, prob: 1.000000
+	(1, 3) is sampled...rand: 0.175051, prob: 1.000000
+	(2, 3) is sampled...rand: 0.857443, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 406:
+	(0, 1) is sampled...rand: 0.436575, prob: 1.000000
+	(0, 2) is sampled...rand: 0.849540, prob: 1.000000
+	(1, 3) is sampled...rand: 0.829618, prob: 1.000000
+	(2, 3) is sampled...rand: 0.379886, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 407:
+	(0, 1) is sampled...rand: 0.457108, prob: 1.000000
+	(0, 2) is sampled...rand: 0.329269, prob: 1.000000
+	(1, 3) is sampled...rand: 0.930530, prob: 1.000000
+	(2, 3) is sampled...rand: 0.227044, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 408:
+	(0, 1) is sampled...rand: 0.288438, prob: 1.000000
+	(0, 2) is sampled...rand: 0.816286, prob: 1.000000
+	(1, 3) is sampled...rand: 0.504314, prob: 1.000000
+	(2, 3) is sampled...rand: 0.917660, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 409:
+	(0, 1) is sampled...rand: 0.033799, prob: 1.000000
+	(0, 2) is sampled...rand: 0.021196, prob: 1.000000
+	(1, 3) is sampled...rand: 0.056341, prob: 1.000000
+	(2, 3) is sampled...rand: 0.417841, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 410:
+	(0, 1) is sampled...rand: 0.591071, prob: 1.000000
+	(0, 2) is sampled...rand: 0.245382, prob: 1.000000
+	(1, 3) is sampled...rand: 0.574968, prob: 1.000000
+	(2, 3) is sampled...rand: 0.090043, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 411:
+	(0, 1) is sampled...rand: 0.934673, prob: 1.000000
+	(0, 2) is sampled...rand: 0.779411, prob: 1.000000
+	(1, 3) is sampled...rand: 0.618847, prob: 1.000000
+	(2, 3) is sampled...rand: 0.701014, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 412:
+	(0, 1) is sampled...rand: 0.235468, prob: 1.000000
+	(0, 2) is sampled...rand: 0.042815, prob: 1.000000
+	(1, 3) is sampled...rand: 0.966797, prob: 1.000000
+	(2, 3) is sampled...rand: 0.519486, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 413:
+	(0, 1) is sampled...rand: 0.821651, prob: 1.000000
+	(0, 2) is sampled...rand: 0.886787, prob: 1.000000
+	(1, 3) is sampled...rand: 0.167322, prob: 1.000000
+	(2, 3) is sampled...rand: 0.949235, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 414:
+	(0, 1) is sampled...rand: 0.543622, prob: 1.000000
+	(0, 2) is sampled...rand: 0.144261, prob: 1.000000
+	(1, 3) is sampled...rand: 0.723491, prob: 1.000000
+	(2, 3) is sampled...rand: 0.220220, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 415:
+	(0, 1) is sampled...rand: 0.243817, prob: 1.000000
+	(0, 2) is sampled...rand: 0.037394, prob: 1.000000
+	(1, 3) is sampled...rand: 0.162515, prob: 1.000000
+	(2, 3) is sampled...rand: 0.857104, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 416:
+	(0, 1) is sampled...rand: 0.389512, prob: 1.000000
+	(0, 2) is sampled...rand: 0.461490, prob: 1.000000
+	(1, 3) is sampled...rand: 0.987800, prob: 1.000000
+	(2, 3) is sampled...rand: 0.421370, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 417:
+	(0, 1) is sampled...rand: 0.029600, prob: 1.000000
+	(0, 2) is sampled...rand: 0.698109, prob: 1.000000
+	(1, 3) is sampled...rand: 0.762630, prob: 1.000000
+	(2, 3) is sampled...rand: 0.406434, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 418:
+	(0, 1) is sampled...rand: 0.942083, prob: 1.000000
+	(0, 2) is sampled...rand: 0.075107, prob: 1.000000
+	(1, 3) is sampled...rand: 0.578715, prob: 1.000000
+	(2, 3) is sampled...rand: 0.004158, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 419:
+	(0, 1) is sampled...rand: 0.696930, prob: 1.000000
+	(0, 2) is sampled...rand: 0.593907, prob: 1.000000
+	(1, 3) is sampled...rand: 0.802288, prob: 1.000000
+	(2, 3) is sampled...rand: 0.843294, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 420:
+	(0, 1) is sampled...rand: 0.664016, prob: 1.000000
+	(0, 2) is sampled...rand: 0.977134, prob: 1.000000
+	(1, 3) is sampled...rand: 0.191946, prob: 1.000000
+	(2, 3) is sampled...rand: 0.902149, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 421:
+	(0, 1) is sampled...rand: 0.139127, prob: 1.000000
+	(0, 2) is sampled...rand: 0.847450, prob: 1.000000
+	(1, 3) is sampled...rand: 0.230707, prob: 1.000000
+	(2, 3) is sampled...rand: 0.649229, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 422:
+	(0, 1) is sampled...rand: 0.299245, prob: 1.000000
+	(0, 2) is sampled...rand: 0.294910, prob: 1.000000
+	(1, 3) is sampled...rand: 0.623871, prob: 1.000000
+	(2, 3) is sampled...rand: 0.476432, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 423:
+	(0, 1) is sampled...rand: 0.302127, prob: 1.000000
+	(0, 2) is sampled...rand: 0.949480, prob: 1.000000
+	(1, 3) is sampled...rand: 0.042714, prob: 1.000000
+	(2, 3) is sampled...rand: 0.315944, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 424:
+	(0, 1) is sampled...rand: 0.726836, prob: 1.000000
+	(0, 2) is sampled...rand: 0.959572, prob: 1.000000
+	(1, 3) is sampled...rand: 0.837046, prob: 1.000000
+	(2, 3) is sampled...rand: 0.660799, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 425:
+	(0, 1) is sampled...rand: 0.261354, prob: 1.000000
+	(0, 2) is sampled...rand: 0.849545, prob: 1.000000
+	(1, 3) is sampled...rand: 0.909671, prob: 1.000000
+	(2, 3) is sampled...rand: 0.987182, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 426:
+	(0, 1) is sampled...rand: 0.734333, prob: 1.000000
+	(0, 2) is sampled...rand: 0.198371, prob: 1.000000
+	(1, 3) is sampled...rand: 0.646824, prob: 1.000000
+	(2, 3) is sampled...rand: 0.187111, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 427:
+	(0, 1) is sampled...rand: 0.591918, prob: 1.000000
+	(0, 2) is sampled...rand: 0.468813, prob: 1.000000
+	(1, 3) is sampled...rand: 0.778111, prob: 1.000000
+	(2, 3) is sampled...rand: 0.087073, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 428:
+	(0, 1) is sampled...rand: 0.139367, prob: 1.000000
+	(0, 2) is sampled...rand: 0.222414, prob: 1.000000
+	(1, 3) is sampled...rand: 0.096604, prob: 1.000000
+	(2, 3) is sampled...rand: 0.768170, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 429:
+	(0, 1) is sampled...rand: 0.699576, prob: 1.000000
+	(0, 2) is sampled...rand: 0.893974, prob: 1.000000
+	(1, 3) is sampled...rand: 0.783448, prob: 1.000000
+	(2, 3) is sampled...rand: 0.644826, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 430:
+	(0, 1) is sampled...rand: 0.786196, prob: 1.000000
+	(0, 2) is sampled...rand: 0.639008, prob: 1.000000
+	(1, 3) is sampled...rand: 0.168290, prob: 1.000000
+	(2, 3) is sampled...rand: 0.032337, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 431:
+	(0, 1) is sampled...rand: 0.719388, prob: 1.000000
+	(0, 2) is sampled...rand: 0.096250, prob: 1.000000
+	(1, 3) is sampled...rand: 0.584716, prob: 1.000000
+	(2, 3) is sampled...rand: 0.755547, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 432:
+	(0, 1) is sampled...rand: 0.005004, prob: 1.000000
+	(0, 2) is sampled...rand: 0.260263, prob: 1.000000
+	(1, 3) is sampled...rand: 0.567619, prob: 1.000000
+	(2, 3) is sampled...rand: 0.588814, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 433:
+	(0, 1) is sampled...rand: 0.066268, prob: 1.000000
+	(0, 2) is sampled...rand: 0.140476, prob: 1.000000
+	(1, 3) is sampled...rand: 0.579210, prob: 1.000000
+	(2, 3) is sampled...rand: 0.560185, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 434:
+	(0, 1) is sampled...rand: 0.537238, prob: 1.000000
+	(0, 2) is sampled...rand: 0.675769, prob: 1.000000
+	(1, 3) is sampled...rand: 0.610165, prob: 1.000000
+	(2, 3) is sampled...rand: 0.798335, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 435:
+	(0, 1) is sampled...rand: 0.678631, prob: 1.000000
+	(0, 2) is sampled...rand: 0.707006, prob: 1.000000
+	(1, 3) is sampled...rand: 0.358009, prob: 1.000000
+	(2, 3) is sampled...rand: 0.287016, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 436:
+	(0, 1) is sampled...rand: 0.462882, prob: 1.000000
+	(0, 2) is sampled...rand: 0.399898, prob: 1.000000
+	(1, 3) is sampled...rand: 0.709438, prob: 1.000000
+	(2, 3) is sampled...rand: 0.618185, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 437:
+	(0, 1) is sampled...rand: 0.937965, prob: 1.000000
+	(0, 2) is sampled...rand: 0.710822, prob: 1.000000
+	(1, 3) is sampled...rand: 0.784845, prob: 1.000000
+	(2, 3) is sampled...rand: 0.791193, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 438:
+	(0, 1) is sampled...rand: 0.445496, prob: 1.000000
+	(0, 2) is sampled...rand: 0.292441, prob: 1.000000
+	(1, 3) is sampled...rand: 0.200065, prob: 1.000000
+	(2, 3) is sampled...rand: 0.952233, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 439:
+	(0, 1) is sampled...rand: 0.188756, prob: 1.000000
+	(0, 2) is sampled...rand: 0.704457, prob: 1.000000
+	(1, 3) is sampled...rand: 0.584949, prob: 1.000000
+	(2, 3) is sampled...rand: 0.254316, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 440:
+	(0, 1) is sampled...rand: 0.024454, prob: 1.000000
+	(0, 2) is sampled...rand: 0.083696, prob: 1.000000
+	(1, 3) is sampled...rand: 0.993085, prob: 1.000000
+	(2, 3) is sampled...rand: 0.286733, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 441:
+	(0, 1) is sampled...rand: 0.523966, prob: 1.000000
+	(0, 2) is sampled...rand: 0.260173, prob: 1.000000
+	(1, 3) is sampled...rand: 0.111782, prob: 1.000000
+	(2, 3) is sampled...rand: 0.697984, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 442:
+	(0, 1) is sampled...rand: 0.992756, prob: 1.000000
+	(0, 2) is sampled...rand: 0.138459, prob: 1.000000
+	(1, 3) is sampled...rand: 0.039789, prob: 1.000000
+	(2, 3) is sampled...rand: 0.175824, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 443:
+	(0, 1) is sampled...rand: 0.053357, prob: 1.000000
+	(0, 2) is sampled...rand: 0.161779, prob: 1.000000
+	(1, 3) is sampled...rand: 0.532905, prob: 1.000000
+	(2, 3) is sampled...rand: 0.042583, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 444:
+	(0, 1) is sampled...rand: 0.639122, prob: 1.000000
+	(0, 2) is sampled...rand: 0.908836, prob: 1.000000
+	(1, 3) is sampled...rand: 0.622181, prob: 1.000000
+	(2, 3) is sampled...rand: 0.149785, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 445:
+	(0, 1) is sampled...rand: 0.821413, prob: 1.000000
+	(0, 2) is sampled...rand: 0.258103, prob: 1.000000
+	(1, 3) is sampled...rand: 0.343404, prob: 1.000000
+	(2, 3) is sampled...rand: 0.579799, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 446:
+	(0, 1) is sampled...rand: 0.551949, prob: 1.000000
+	(0, 2) is sampled...rand: 0.244210, prob: 1.000000
+	(1, 3) is sampled...rand: 0.352133, prob: 1.000000
+	(2, 3) is sampled...rand: 0.370057, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 447:
+	(0, 1) is sampled...rand: 0.677726, prob: 1.000000
+	(0, 2) is sampled...rand: 0.653637, prob: 1.000000
+	(1, 3) is sampled...rand: 0.039627, prob: 1.000000
+	(2, 3) is sampled...rand: 0.558833, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 448:
+	(0, 1) is sampled...rand: 0.116510, prob: 1.000000
+	(0, 2) is sampled...rand: 0.527543, prob: 1.000000
+	(1, 3) is sampled...rand: 0.074496, prob: 1.000000
+	(2, 3) is sampled...rand: 0.851585, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 449:
+	(0, 1) is sampled...rand: 0.802483, prob: 1.000000
+	(0, 2) is sampled...rand: 0.516929, prob: 1.000000
+	(1, 3) is sampled...rand: 0.431479, prob: 1.000000
+	(2, 3) is sampled...rand: 0.462737, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 450:
+	(0, 1) is sampled...rand: 0.192004, prob: 1.000000
+	(0, 2) is sampled...rand: 0.670587, prob: 1.000000
+	(1, 3) is sampled...rand: 0.345417, prob: 1.000000
+	(2, 3) is sampled...rand: 0.396057, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 451:
+	(0, 1) is sampled...rand: 0.400761, prob: 1.000000
+	(0, 2) is sampled...rand: 0.371789, prob: 1.000000
+	(1, 3) is sampled...rand: 0.199060, prob: 1.000000
+	(2, 3) is sampled...rand: 0.991005, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 452:
+	(0, 1) is sampled...rand: 0.105222, prob: 1.000000
+	(0, 2) is sampled...rand: 0.339311, prob: 1.000000
+	(1, 3) is sampled...rand: 0.668580, prob: 1.000000
+	(2, 3) is sampled...rand: 0.560009, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 453:
+	(0, 1) is sampled...rand: 0.937715, prob: 1.000000
+	(0, 2) is sampled...rand: 0.100520, prob: 1.000000
+	(1, 3) is sampled...rand: 0.812325, prob: 1.000000
+	(2, 3) is sampled...rand: 0.835970, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 454:
+	(0, 1) is sampled...rand: 0.098167, prob: 1.000000
+	(0, 2) is sampled...rand: 0.491522, prob: 1.000000
+	(1, 3) is sampled...rand: 0.096836, prob: 1.000000
+	(2, 3) is sampled...rand: 0.376236, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 455:
+	(0, 1) is sampled...rand: 0.527806, prob: 1.000000
+	(0, 2) is sampled...rand: 0.682054, prob: 1.000000
+	(1, 3) is sampled...rand: 0.685656, prob: 1.000000
+	(2, 3) is sampled...rand: 0.216465, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 456:
+	(0, 1) is sampled...rand: 0.081052, prob: 1.000000
+	(0, 2) is sampled...rand: 0.440704, prob: 1.000000
+	(1, 3) is sampled...rand: 0.448976, prob: 1.000000
+	(2, 3) is sampled...rand: 0.791750, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 457:
+	(0, 1) is sampled...rand: 0.925142, prob: 1.000000
+	(0, 2) is sampled...rand: 0.725435, prob: 1.000000
+	(1, 3) is sampled...rand: 0.339759, prob: 1.000000
+	(2, 3) is sampled...rand: 0.379070, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 458:
+	(0, 1) is sampled...rand: 0.819039, prob: 1.000000
+	(0, 2) is sampled...rand: 0.794172, prob: 1.000000
+	(1, 3) is sampled...rand: 0.139653, prob: 1.000000
+	(2, 3) is sampled...rand: 0.932936, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 459:
+	(0, 1) is sampled...rand: 0.077538, prob: 1.000000
+	(0, 2) is sampled...rand: 0.741419, prob: 1.000000
+	(1, 3) is sampled...rand: 0.741223, prob: 1.000000
+	(2, 3) is sampled...rand: 0.539371, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 460:
+	(0, 1) is sampled...rand: 0.571306, prob: 1.000000
+	(0, 2) is sampled...rand: 0.974479, prob: 1.000000
+	(1, 3) is sampled...rand: 0.488844, prob: 1.000000
+	(2, 3) is sampled...rand: 0.277569, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 461:
+	(0, 1) is sampled...rand: 0.551148, prob: 1.000000
+	(0, 2) is sampled...rand: 0.617848, prob: 1.000000
+	(1, 3) is sampled...rand: 0.952222, prob: 1.000000
+	(2, 3) is sampled...rand: 0.190389, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 462:
+	(0, 1) is sampled...rand: 0.672613, prob: 1.000000
+	(0, 2) is sampled...rand: 0.635565, prob: 1.000000
+	(1, 3) is sampled...rand: 0.660938, prob: 1.000000
+	(2, 3) is sampled...rand: 0.352850, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 463:
+	(0, 1) is sampled...rand: 0.121682, prob: 1.000000
+	(0, 2) is sampled...rand: 0.232723, prob: 1.000000
+	(1, 3) is sampled...rand: 0.702475, prob: 1.000000
+	(2, 3) is sampled...rand: 0.649659, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 464:
+	(0, 1) is sampled...rand: 0.124254, prob: 1.000000
+	(0, 2) is sampled...rand: 0.834034, prob: 1.000000
+	(1, 3) is sampled...rand: 0.491396, prob: 1.000000
+	(2, 3) is sampled...rand: 0.088482, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 465:
+	(0, 1) is sampled...rand: 0.979406, prob: 1.000000
+	(0, 2) is sampled...rand: 0.751519, prob: 1.000000
+	(1, 3) is sampled...rand: 0.002716, prob: 1.000000
+	(2, 3) is sampled...rand: 0.950740, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 466:
+	(0, 1) is sampled...rand: 0.145583, prob: 1.000000
+	(0, 2) is sampled...rand: 0.806206, prob: 1.000000
+	(1, 3) is sampled...rand: 0.144426, prob: 1.000000
+	(2, 3) is sampled...rand: 0.643505, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 467:
+	(0, 1) is sampled...rand: 0.697915, prob: 1.000000
+	(0, 2) is sampled...rand: 0.135730, prob: 1.000000
+	(1, 3) is sampled...rand: 0.474425, prob: 1.000000
+	(2, 3) is sampled...rand: 0.657987, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 468:
+	(0, 1) is sampled...rand: 0.316051, prob: 1.000000
+	(0, 2) is sampled...rand: 0.077161, prob: 1.000000
+	(1, 3) is sampled...rand: 0.149697, prob: 1.000000
+	(2, 3) is sampled...rand: 0.072014, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 469:
+	(0, 1) is sampled...rand: 0.502271, prob: 1.000000
+	(0, 2) is sampled...rand: 0.472876, prob: 1.000000
+	(1, 3) is sampled...rand: 0.097121, prob: 1.000000
+	(2, 3) is sampled...rand: 0.805101, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 470:
+	(0, 1) is sampled...rand: 0.752356, prob: 1.000000
+	(0, 2) is sampled...rand: 0.933285, prob: 1.000000
+	(1, 3) is sampled...rand: 0.317578, prob: 1.000000
+	(2, 3) is sampled...rand: 0.989082, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 471:
+	(0, 1) is sampled...rand: 0.506488, prob: 1.000000
+	(0, 2) is sampled...rand: 0.921571, prob: 1.000000
+	(1, 3) is sampled...rand: 0.631462, prob: 1.000000
+	(2, 3) is sampled...rand: 0.277896, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 472:
+	(0, 1) is sampled...rand: 0.044401, prob: 1.000000
+	(0, 2) is sampled...rand: 0.643151, prob: 1.000000
+	(1, 3) is sampled...rand: 0.605980, prob: 1.000000
+	(2, 3) is sampled...rand: 0.930527, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 473:
+	(0, 1) is sampled...rand: 0.057963, prob: 1.000000
+	(0, 2) is sampled...rand: 0.838029, prob: 1.000000
+	(1, 3) is sampled...rand: 0.627484, prob: 1.000000
+	(2, 3) is sampled...rand: 0.329289, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 474:
+	(0, 1) is sampled...rand: 0.092200, prob: 1.000000
+	(0, 2) is sampled...rand: 0.117693, prob: 1.000000
+	(1, 3) is sampled...rand: 0.706999, prob: 1.000000
+	(2, 3) is sampled...rand: 0.270854, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 475:
+	(0, 1) is sampled...rand: 0.722416, prob: 1.000000
+	(0, 2) is sampled...rand: 0.496928, prob: 1.000000
+	(1, 3) is sampled...rand: 0.848459, prob: 1.000000
+	(2, 3) is sampled...rand: 0.833767, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 476:
+	(0, 1) is sampled...rand: 0.419222, prob: 1.000000
+	(0, 2) is sampled...rand: 0.423040, prob: 1.000000
+	(1, 3) is sampled...rand: 0.030903, prob: 1.000000
+	(2, 3) is sampled...rand: 0.460083, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 477:
+	(0, 1) is sampled...rand: 0.374887, prob: 1.000000
+	(0, 2) is sampled...rand: 0.675773, prob: 1.000000
+	(1, 3) is sampled...rand: 0.537314, prob: 1.000000
+	(2, 3) is sampled...rand: 0.295447, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 478:
+	(0, 1) is sampled...rand: 0.912500, prob: 1.000000
+	(0, 2) is sampled...rand: 0.784637, prob: 1.000000
+	(1, 3) is sampled...rand: 0.767917, prob: 1.000000
+	(2, 3) is sampled...rand: 0.678206, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 479:
+	(0, 1) is sampled...rand: 0.089104, prob: 1.000000
+	(0, 2) is sampled...rand: 0.720185, prob: 1.000000
+	(1, 3) is sampled...rand: 0.481649, prob: 1.000000
+	(2, 3) is sampled...rand: 0.472310, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
+sample 480:
+	(0, 1) is sampled...rand: 0.110507, prob: 1.000000
+	(0, 2) is sampled...rand: 0.065848, prob: 1.000000
+	(1, 3) is sampled...rand: 0.434544, prob: 1.000000
+	(2, 3) is sampled...rand: 0.823216, prob: 1.000000
+		CB(0)= 0.166667
+		CB(1)= 0.166667
+		CB(2)= 0.166667
+		CB(3)= 0.166667
