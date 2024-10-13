@@ -55,5 +55,4 @@ Additionally, it contains 5 compile time paramers, which are set by "#define X" 
     - SAVE_MEMORY (bool): call slower PSP version that deallocate memory if possible
     - STDOUT (bool): if set to true, write result to stdout (for simexpal), else there will be a result file
     - SHELL_OUTPUT: if this is defined, the current status of the algorithm is traced in the shell
-
-Note that the testsuite only works properly if we have OUTPUT_PRECISION = 5, OUTPUT_MC_SAMPLES = true, STDOUT = false. 
+    
