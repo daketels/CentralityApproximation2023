@@ -29,8 +29,6 @@ Overall, UncertainGraphAlgorithms.cpp contains roughly 1,400 lines of code, whil
 Furthermore, I wrote multiple python scripts for data conversion, statistical analysis and plotting of experimental results.
 If, by any slim chance some one tries to read this code, feel free to contact me on GitHub (or e.e. on ResearchhGate or Google Scholar).
 
-Additionally, I wrote thousands of lines of Python code to generate, convert, statistically valuate and draw plots. However, I don't tihnk this could be of any interest.
-
 ### main.cpp paramters
 The 'main.cpp' is responsible for parsing the input parameters, calling the algorithms and outputting the result. It takes 4 or 5 arguments from the commandline in this order:
 
