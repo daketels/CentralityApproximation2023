@@ -34,11 +34,11 @@ Additionally, I wrote thousands of lines of Python code to generate, convert, st
 ### main.cpp paramters
 The 'main.cpp' is responsible for parsing the input parameters, calling the algorithms and outputting the result. It takes 4 or 5 arguments from the commandline in this order:
 
-    - 1. the hyperparameter phi (float)
-    - 2. the amount of Monte Carlo samples (uint64_t)
-    - 3. (optional) one of the distance functions: d_er (default), d_med, d_maj
-    - 4. the algorithm to run: harmonic or betweenness (or distance, which is a function only used in the testsuite)
-    - 5. a *.txt file describing an uncertain graph
+    -  the hyperparameter phi (float)
+    -  the amount of Monte Carlo samples (uint64_t)
+    -  (optional) one of the distance functions: d_er (default), d_med, d_maj
+    -  the algorithm to run: harmonic or betweenness (or distance, which is a function only used in the testsuite)
+    -  a *.txt file describing an uncertain graph
 
 The input file *.txt needs to have the following format:
 
@@ -59,7 +59,3 @@ Additionally, it contains 5 compile time paramers, which are set by "#define X" 
     - SHELL_OUTPUT: if this is defined, the current status of the algorithm is traced in the shell
 
 Note that the testsuite only works properly if we have OUTPUT_PRECISION = 5, OUTPUT_MC_SAMPLES = true, STDOUT = false. 
-
-After parsing all input paramets, the main function calls the selected algorithms and then prints the formated result. It also measures the execuation time of each algorithm. 
-
-To create the data structure for an uncertain graph, it includes the 'UncertainGraph.hpp' header. To execute said algorithms, it includes the 'UncertainGraphAlgorithms.hpp' header.
