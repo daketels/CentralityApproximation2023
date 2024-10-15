@@ -12,7 +12,7 @@ https://arxiv.org/abs/2409.18062
 To use ground truth centralites with high accucarcy, Monte Caro with a big sample size was as exmplyed (also implemented here and parallelized with OpenMP).
 The code itself consists of three .cpp source files and two .hpp header files. Additionally, there is a makefile to compile the binary 'UncertainCentrality'.
 In the subdirectory 'testcases', there is a python script 'test.py' and a set of 30 end to end testcases. The PSP algorithms where tested using hard coded (exact) results (on smaller graphs).
-Descriptions of all 30 testcases (E2E Tests) and TikZ Drwaings of them can be found as well.
+Descriptions of all 30 testcases (E2E Tests) and TikZ Drwaings of them can be found as well. The testcase python script requires networkit.
 
 The code generally assumes valid input parameters. While it does handle some invalid parameters and graph files, I did not spend much time on this part and it this whole project surely is complete in that regard, 
 as I designed everything just as an (efficient) exmpirical "proof" of the algorithmic concepts.
